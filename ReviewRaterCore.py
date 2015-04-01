@@ -31,7 +31,7 @@ def divyData(openFile, testFile, trainFile, corpusRoot):
 
 
 def main():
-    corpusRoot = 'C:\\Users\\Joey\\Desktop\\Yelp Dataset'   ######MODIFY ME#####
+    corpusRoot = 'C:\\Users\\Joey\\Desktop'   ######MODIFY ME#####
     dataFile = "yelp_academic_dataset_review.json"
     testFile = "testSet.json"
     trainFile = "trainSet.json"    
@@ -40,9 +40,10 @@ def main():
     
     openFile = open(os.path.join(corpusRoot, dataFile), "r")
     while(1):    
-        response = raw_input("do we need to divy up the corpus? y/n: ")
+        response = input("do we need to divy up the corpus? y/n: ")
         if response == "y":
             divyData(openFile, testFile, trainFile, corpusRoot)
+            break
         elif response == "n":
             break
         else:
@@ -52,7 +53,7 @@ def main():
         
     stop = time.time()
     runTime = stop - start #measured in seconds
-    print("the runtime was: " + runTime + " seconds")
+    print("the runtime was: " + str(runTime) + " seconds")
     
 
 
