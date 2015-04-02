@@ -17,6 +17,7 @@ CORPUSROOT = 'C:\\Users\\Joey\\Desktop'
 TESTFILE = "testSet.json"
 TRAINFILE = "trainSet.json"
 CORPUSFILE = "yelp_academic_dataset_review.json"
+KCOUNT = 5
 
 
 def divyData(openFile, testFile, trainFile, corpusRoot):
@@ -122,7 +123,30 @@ def convertToTFIDF(vec):
     for term in vec:
         returnVector[term] = ((1 + math.log10(vec[term])) * getIDF(term))
     return normalizeVector(returnVector)
-
+    
+def classify(reviewVec, trainingReviews):
+#takes a normalized review TFIDF vector and classifies it based on the training vector
+    nearestNeighbors = [99999] * KCOUNT
+    currentDistance = 0
+    tempDistance = 0
+    for index in trainingReviews:
+        currentDistance = docDocSim(trainingReviews[index], reviewVec)
+        i = 0
+        while i < len(nearestNeighbors):
+            if currentDistance < nearestNeighbors[i]:
+                tempDistance = nearestNeighbors[i]
+                nearestNeighbors[i] = currentDistance
+                currentDistance = tempDistance
+            i = i + 1
+    
+    
+    #take the votes and weight them...
+    #using a fabricated method of weighting where we take the all of the reviews
+    #exceeding the threshold of what we consider a "good" review and subtract
+    #all of the "bad" reviews distance weights from the "good" reviews' distance
+    #weights
+        
+    
 def main(): 
     response = ""
     start = time.time() #used to calculate runtime
