@@ -123,7 +123,6 @@ def convertToTFIDF(vec):
     for term in vec:
         returnVector[term] = ((1 + math.log10(vec[term])) * getIDF(term))
     return normalizeVector(returnVector)
-<<<<<<< HEAD
     
 def classify(reviewVec, trainingReviews):
 #takes a normalized review TFIDF vector and classifies it based on the training vector
@@ -148,7 +147,6 @@ def classify(reviewVec, trainingReviews):
     #weights
         
     
-=======
 
 def getTermFrequency(tokenList):
     freqDict = {}
@@ -183,7 +181,6 @@ def processTrainingReviews(trainingReviews):
 
 
 
->>>>>>> origin/master
 def main(): 
     response = ""
     start = time.time() #used to calculate runtime
