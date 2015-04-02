@@ -123,6 +123,7 @@ def convertToTFIDF(vec):
     for term in vec:
         returnVector[term] = ((1 + math.log10(vec[term])) * getIDF(term))
     return normalizeVector(returnVector)
+<<<<<<< HEAD
     
 def classify(reviewVec, trainingReviews):
 #takes a normalized review TFIDF vector and classifies it based on the training vector
@@ -147,6 +148,42 @@ def classify(reviewVec, trainingReviews):
     #weights
         
     
+=======
+
+def getTermFrequency(tokenList):
+    freqDict = {}
+
+    for token in tokenList:
+        if token in freqDict:
+            freqDict[token] += 1
+        else:
+            freqDict[token] = 1
+
+    return freqDict
+
+def processTrainingReviews(trainingReviews):
+        openFile = open(os.path.join(CORPUSROOT, TRAINFILE), "r")
+        tokenDict = {}
+        reviewVec = {}
+
+        i = 0
+        for line in openFile:
+            dictLine = json.loads(line)
+            review = dictLine["text"]
+
+            reviewList = tokenizeDocument(review)
+            reviewTokens = removeStopWords(reviewList)
+            stemReview = stemTokens(reviewTokens)
+
+            tokenDict = getTermFrequency(stemReview)
+            reviewVec = convertToTFIDF(tokenDict)
+
+            trainingReviews[i] = reviewVec
+            i += 1
+
+
+
+>>>>>>> origin/master
 def main(): 
     response = ""
     start = time.time() #used to calculate runtime
@@ -161,7 +198,10 @@ def main():
             break
         else:
             print("please give valid input")
-    openFile.close()    
+    openFile.close()
+
+    trainingReviews = {}
+    processTrainingReviews(trainingReviews)
     
         
     stop = time.time()
