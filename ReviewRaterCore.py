@@ -26,7 +26,7 @@ def divyData(openFile, testFile, trainFile, corpusRoot):
     openTestFile = open(os.path.join(corpusRoot, testFile), "w")
     openTrainFile = open(os.path.join(corpusRoot, trainFile), "w")
     
-    totalLineCount = 0
+    totalLineCount = 1
     line = ""
     line = openFile.readline()
     usefulLineCount = 0
@@ -112,7 +112,7 @@ def docDocSim(vec1, vec2):
     similarity = 0
     for term in vec1:
         if term in vec2:
-            similarity = similarity + (vec1[term] * vec2[term]) #compiling the numerator
+            similarity = similarity + (vec1[term] * vec2[term])
             
     return similarity
 
@@ -126,6 +126,7 @@ def convertToTFIDF(vec):
     
 def classify(reviewVec, trainingReviews):
 #takes a normalized review TFIDF vector and classifies it based on the training vector
+#reivewVec is the review itself while trainingreviews is a dict of reviews
     nearestNeighbors = [99999] * KCOUNT
     currentDistance = 0
     tempDistance = 0
@@ -138,14 +139,31 @@ def classify(reviewVec, trainingReviews):
                 nearestNeighbors[i] = currentDistance
                 currentDistance = tempDistance
             i = i + 1
-    
-    
+        
     #take the votes and weight them...
     #using a fabricated method of weighting where we take the all of the reviews
     #exceeding the threshold of what we consider a "good" review and subtract
     #all of the "bad" reviews distance weights from the "good" reviews' distance
     #weights
-        
+    
+    posNeighbors = []
+    negNeighbors = []
+    i = 0
+    while i < len(nearestNeighbors):
+        if nearestNeighbors[i] > 0:
+            posNeighbors.append(nearestNeighbors[i])
+        else:
+            negNeighbors.appen(nearestNeighbors[i])
+        i = i + 1
+    
+    posSum = 0
+    negSum = 0
+    for pos in posNeighbors:
+        posSum += pos
+    for neg in negNeighbors:
+        negSum += neg
+    
+    return (posSum - negSum)
     
 
 def getTermFrequency(tokenList):
@@ -159,7 +177,7 @@ def getTermFrequency(tokenList):
 
     return freqDict
 
-def processTrainingReviews(trainingReviews):
+def processReviews(trainingReviews):
         openFile = open(os.path.join(CORPUSROOT, TRAINFILE), "r")
         tokenDict = {}
         reviewVec = {}
