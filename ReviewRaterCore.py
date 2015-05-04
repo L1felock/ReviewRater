@@ -10,14 +10,23 @@ import math
 #classification
 
 
+class Review:
+    def __init__(self, review, score):
+        self.review = review
+        self.score = score        
+
+
+
 #CONSTANTS-----------------------------------
-USEFULTHRESHOLD = 3 #represents the number of upvotes a review has to get before it
+USEFULTHRESHOLD = 20 #represents the number of upvotes a review has to get before it
 #is considered useful
-CORPUSROOT = 'C:\\Users\\Joey\\Desktop'
+CORPUSROOT = 'C:\\Users\\Joey\\Desktop\\DataMining Project Results\\'
 TESTFILE = "testSet.json"
 TRAINFILE = "trainSet.json"
 CORPUSFILE = "yelp_academic_dataset_review.json"
-KCOUNT = 5
+PROCESSEDTRAINFILE = "trainSet2.json"
+OUTFILE = "results.txt"
+KCOUNT = 20
 
 
 def divyData(openFile, testFile, trainFile, corpusRoot):
@@ -53,6 +62,12 @@ def divyData(openFile, testFile, trainFile, corpusRoot):
 def tokenizeDocument(string):
     myTokenizer = RegexpTokenizer(r'[a-zA-Z]+')
     tokens = myTokenizer.tokenize(string)
+    
+    i = 0
+    while(i < len(tokens)):
+        tokens[i] = tokens[i].lower()
+        i = i + 1
+        
     return tokens
 
 def removeStopWords(someTokens):
@@ -80,14 +95,13 @@ def stemToken(givenToken):
 def getIDF(term, reviewsVector):
 #takes a dictionary of review vectors and gets the IDF of a term with respect
 #to that dictionary of review vectors
-    term = term.lower()
-    term = stemToken(term)
-
+#MAKE SURE THE TERMS ARE STEMMED BEFORE THEY GET HERE
     documentFrequency = 0
     for reviewIndex in reviewsVector:
         if(term in reviewsVector[reviewIndex].keys()):
             documentFrequency = documentFrequency + 1
     if(documentFrequency == 0):
+        #print("idf returned 0")
         return 0
     else:
         return math.log10(((len(reviewsVector))/documentFrequency))
@@ -103,7 +117,6 @@ def normalizeVector(vector):
         if vectorLength > 0:
             normalVector[term] = vector[term]/vectorLength
         else:
-            print("there is probably an issue with parsing")
             normalVector[term] = 0 #pretty sure this is supposed to be zero
     return normalVector
         
@@ -117,21 +130,42 @@ def docDocSim(vec1, vec2):
     return similarity
 
 def convertToTFIDF(vec): 
-#takes a vector of term frequencies of a review and weights them
+#takes a vector of reviews and weights the terms in them
     #tempIndex = normalizeVector(tempIndex)
-    returnVector = dict()
-    for term in vec:
-        returnVector[term] = ((1 + math.log10(vec[term])) * getIDF(term))
-    return normalizeVector(returnVector)
+    returnVector = vec
+    
+    for reviewIndex in vec:
+        for termIndex in vec[reviewIndex]:
+            returnVector[reviewIndex][termIndex] = ((1 + math.log10(vec[reviewIndex][termIndex])) * getIDF(termIndex, vec))
+            
+    for reviewIndex in returnVector:
+        #print(str(returnVector[reviewIndex]))
+        returnVector[reviewIndex] = normalizeVector(returnVector[reviewIndex])
+        
+    return returnVector
+    
+def convertReviewToTFIDF(review, vec):
+#converts a review to TFIDF using the corpus (vec) to generate IDF
+
+    for termIndex in review:
+        review[termIndex] = ((1 + math.log10(review[termIndex])) * getIDF(termIndex, vec))
+    
+    return normalizeVector(review)
     
 def classify(reviewVec, trainingReviews):
 #takes a normalized review TFIDF vector and classifies it based on the training vector
-#reivewVec is the review itself while trainingreviews is a dict of reviews
+#reivewVec is the review itself (weighted and normalized) while trainingreviews is a dict of reviews
     nearestNeighbors = [99999] * KCOUNT
     currentDistance = 0
     tempDistance = 0
     for index in trainingReviews:
         currentDistance = docDocSim(trainingReviews[index], reviewVec)
+        if(currentDistance == 0):
+            print(str(reviewVec))
+            print("---------------------")
+            print(str(trainingReviews[index]))
+            print("=======================")
+            
         i = 0
         while i < len(nearestNeighbors):
             if currentDistance < nearestNeighbors[i]:
@@ -153,7 +187,7 @@ def classify(reviewVec, trainingReviews):
         if nearestNeighbors[i] > 0:
             posNeighbors.append(nearestNeighbors[i])
         else:
-            negNeighbors.appen(nearestNeighbors[i])
+            negNeighbors.append(nearestNeighbors[i])
         i = i + 1
     
     posSum = 0
@@ -177,46 +211,84 @@ def getTermFrequency(tokenList):
 
     return freqDict
 
-def processReviews(trainingReviews):
-        openFile = open(os.path.join(CORPUSROOT, TRAINFILE), "r")
-        tokenDict = {}
-        reviewVec = {}
 
-        i = 0
-        for line in openFile:
-            dictLine = json.loads(line)
-            review = dictLine["text"]
 
-            reviewList = tokenizeDocument(review)
-            reviewTokens = removeStopWords(reviewList)
-            stemReview = stemTokens(reviewTokens)
+#returns the training review vector
+"""
+validated and working correctly
+"""
+def processReviews():
+    trainingReviews = dict()
+    trainingReviewsTF = dict()
+    openFile = open(os.path.join(CORPUSROOT, TRAINFILE), "r")
+    i = 0
+    for line in openFile:
+        dictLine = json.loads(line)
+        review = dictLine["text"]
 
-            tokenDict = getTermFrequency(stemReview)
-            reviewVec = convertToTFIDF(tokenDict)
+        reviewList = tokenizeDocument(review)
+        reviewTokens = removeStopWords(reviewList)
+        stemReview = stemTokens(reviewTokens)
 
-            trainingReviews[i] = reviewVec
-            i += 1
+        trainingReviewsTF[i] = getTermFrequency(stemReview)
+        i += 1
+
+
+    trainingReviews = convertToTFIDF(trainingReviewsTF) 
+    openTrainFile = open(os.path.join(CORPUSROOT, PROCESSEDTRAINFILE), "w") 
+    openTrainFile.write(json.dumps(trainingReviews))
+    openTrainFile.close()          
+        
+    return trainingReviews
 
 
 
 def main(): 
     response = ""
+    trainingReviews = dict()
     start = time.time() #used to calculate runtime
+    rankedReviewList = []
     
     openFile = open(os.path.join(CORPUSROOT, CORPUSFILE), "r")
     while(1):    
         response = input("do we need to divy up the corpus? y/n: ")
         if response == "y":
             divyData(openFile, TESTFILE, TRAINFILE, CORPUSROOT)
+            trainingReviews = processReviews()
             break
         elif response == "n":
+            openFile = open(os.path.join(CORPUSROOT, PROCESSEDTRAINFILE), "r")
+            trainingReviews = json.loads(openFile.readline())
+            openFile.close()
             break
         else:
             print("please give valid input")
     openFile.close()
 
-    trainingReviews = {}
-    processTrainingReviews(trainingReviews)
+    
+    openFile = open(os.path.join(CORPUSROOT, TESTFILE), "r")
+    test = {}
+    for line in openFile:
+        test = json.loads(line)
+        reviewTokens = tokenizeDocument(test["text"])
+        reviewTokens = removeStopWords(reviewTokens)
+        reviewTokens = stemTokens(reviewTokens)
+        
+        review = getTermFrequency(reviewTokens)
+        review = convertReviewToTFIDF(review, trainingReviews)
+        rankedReviewList.append(Review(review, classify(review, trainingReviews)))
+    
+    rankedReviewList.sort(key=lambda x: x.score, reverse=False)
+
+    outfile = open(os.path.join(CORPUSROOT, OUTFILE), "w")
+    for review in rankedReviewList:
+        outfile.write(str(review.review) + "\n")
+        outfile.write("-------------------\n")
+        outfile.write(str(review.score) + "\n")
+        outfile.write("===================\n")
+    outfile.close()
+    
+    
     
         
     stop = time.time()
