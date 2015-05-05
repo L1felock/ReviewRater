@@ -29,7 +29,7 @@ CORPUSFILE = "yelp_academic_dataset_review.json"
 PROCESSEDTRAINFILE = "objectStorage.json"
 OUTFILE = "results.txt"
 TESTCOUNT = 1000 #number of reviews to be ranked --- divy corpus if changed
-KCOUNT = 20 #number of k nearest neighbors
+KCOUNT = 20 #number of k nearest neighbors CURRENTLY UNUSED
 
 def removeNonAscii(s): 
 #removes non-ascii characters from a string
@@ -90,7 +90,7 @@ def removeStopWords(someTokens):
     #pos_tag returns a dict where the first key (0) corresponds to the word
     #and the second key (1) corresponds to what kind of word it is (noun etc)
     #documentation for this function here: http://www.nltk.org/book/ch05.html
-
+    """
     finalFinalTokens = []
     nounClassifications = ["NN", "NNS", "PRP"] #NN = singular noun
     markedTokens = pos_tag(finalTokens)
@@ -98,9 +98,9 @@ def removeStopWords(someTokens):
         if pair[1] not in nounClassifications:
             print(pair[0])
             finalFinalTokens.append(pair[0])
-     
+    """
     
-    return finalFinalTokens
+    return finalTokens
     
 def stemTokens(givenTokens):
     myStemmer = PorterStemmer()
@@ -307,26 +307,30 @@ def main():
         usefulVotes += rankedReviewList[i].actualRating                
         i = i + 1
     outfile.write("number of useful votes in each quarter:\n")
-    outfile.write("first quarter " + str(usefulVotes) + "\n")
+    outfile.write("first quarter: " + str(usefulVotes) + "\n")
+    outfile.write("first quarter median: " + str(rankedReviewList[round(.125*revLength)].actualRating) + "\n")    
     
     usefulVotes = 0
     while i < (.5*revLength):
         usefulVotes += rankedReviewList[i].actualRating
         i = i + 1
-    outfile.write("second quarter " + str(usefulVotes) + "\n")
+    outfile.write("second quarter: " + str(usefulVotes) + "\n")
+    outfile.write("second quarter median: " + str(rankedReviewList[round(.375*revLength)].actualRating) + "\n")
         
     usefulVotes = 0
     while i < (.75*revLength):
         usefulVotes += rankedReviewList[i].actualRating
         i = i + 1
-    outfile.write("third quarter " + str(usefulVotes) + "\n")
+    outfile.write("third quarter: " + str(usefulVotes) + "\n")
+    outfile.write("third quarter median: " + str(rankedReviewList[round(.625*revLength)].actualRating) + "\n")
     
     usefulVotes = 0
     while i < (revLength):
         usefulVotes += rankedReviewList[i].actualRating
         i = i + 1
-    outfile.write("fourth quarter " + str(usefulVotes) + "\n")
-    
+    outfile.write("fourth quarter: " + str(usefulVotes) + "\n")
+    outfile.write("fourth quarter median: " + str(rankedReviewList[round(.875*revLength)].actualRating) + "\n")
+    outfile.write("===============================end metrics==================================\n\n")
     
 
 
@@ -340,7 +344,7 @@ def main():
         outfile.write("-------------------\n")
         outfile.write("similarity summation: " + str(review.score) + "\n")
         outfile.write("actual Rating: " + str(review.actualRating) + "\n")
-        outfile.write("===================\n")
+        outfile.write("===================\n\n\n")
 
     outfile.close()
     
@@ -356,4 +360,51 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    response = ""
+    while 1:
+        response = input("would you like to cycle the variables for data metric collection? (y/n): ")
+        print("\n")
+        
+        if response == "y":
+            i = 10
+            while(i <= 30):
+                USEFULTHRESHOLD = i
+                main()
+                i += 1
+            break
+        elif response == "n":
+            response = input("what would you like the number of useful votes to be considered useful to be?(positive integer please): ")
+            USEFULTHRESHOLD = int(response)
+            main()
+            break
+        else:
+            print("please give a valid response")
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

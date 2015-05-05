@@ -24,3 +24,5 @@ VERSIONS----------------------
 -classifier 4 only considers nouns
 
 -4.1 reinstitutes the divying method of using only reviews that we know to be positive
+
+-5.0 vFinal removes the k nearest neighbor concept as we realized that it is unnecessary and not appropriately applicable to what we have ended up doing (ranking as opposed to classifying). The new score is composed of a summation of all of the cosine similarities between the review in question and all reviews in the training set

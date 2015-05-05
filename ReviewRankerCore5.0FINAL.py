@@ -4,9 +4,11 @@ import os
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem.porter import PorterStemmer
+from nltk.tag import pos_tag
 import math
+
 #make all the reviews into TFIDF vectors and find cosine similarity between the
-#review to classify and all the other reviews. take the majority vote on 
+#review to rank and all the other reviews. take the majority vote on 
 #classification
 
 
@@ -18,41 +20,44 @@ class Review:
         
 
 #CONSTANTS----------------------------------- ONLY CONSTANTS WITH COMMENTS AFTER THEM SHOULD BE CHANGED
-USEFULTHRESHOLD = 15 #represents the number of upvotes a review has to get before it
+USEFULTHRESHOLD = 20 #represents the number of upvotes a review has to get before it
 #is considered useful -- divy the corpus if changed
 CORPUSROOT = 'C:\\Users\\Joey\\Desktop\\DataMining Project Results\\' #change me! -- divy corpus if changed
 TESTFILE = "testSet.json"
 TRAINFILE = "trainSet.json"
 CORPUSFILE = "yelp_academic_dataset_review.json"
 PROCESSEDTRAINFILE = "objectStorage.json"
+METRICCOMPILATION = "metricComp.txt"
 OUTFILE = "results.txt"
 TESTCOUNT = 1000 #number of reviews to be ranked --- divy corpus if changed
-KCOUNT = 20 #number of k nearest neighbors
+KCOUNT = 20 #number of k nearest neighbors CURRENTLY UNUSED
 
+def removeNonAscii(s): 
+#removes non-ascii characters from a string
+    return "".join(i for i in s if ord(i)<128)
 
 def divyData(openFile, testFile, trainFile, corpusRoot):
 #parses the datafile from the yelp dataset challenge and makes a test and
-#training set file
+#training set raw file
     openTestFile = open(os.path.join(corpusRoot, testFile), "w")
     openTrainFile = open(os.path.join(corpusRoot, trainFile), "w")
     
     testLineCount = 0
     totalLineCount = 1
     line = ""
-    line = openFile.readline()
+    line = (openFile.readline())
     usefulLineCount = 0
     while(line): #breaks when the line is empty
         #use ['votes']['useful']  and   ['text'] to reference the number of useful
         #votes and the text of the review
         lineDict = json.loads(line)
-        if (lineDict['votes']['useful'] > USEFULTHRESHOLD):
+        if lineDict['votes']['useful'] > USEFULTHRESHOLD:
             if usefulLineCount % 2 == 0:
-                openTrainFile.write(line)
-            usefulLineCount = usefulLineCount + 1
-        else:
-            if testLineCount <= TESTCOUNT:
-                openTestFile.write(line)
-                testLineCount += 1
+                openTestFile.write(removeNonAscii(line))
+                usefulLineCount = usefulLineCount + 1
+            else:
+                openTrainFile.write(removeNonAscii(line))
+                usefulLineCount = usefulLineCount + 1
         line = openFile.readline()
         totalLineCount = totalLineCount + 1
         
@@ -74,12 +79,27 @@ def tokenizeDocument(string):
     return tokens
 
 def removeStopWords(someTokens):
+#also removes nouns in this version
     myStopWords = stopwords.words('english')
     
     finalTokens = []
     for token in someTokens:
         if token not in myStopWords:
             finalTokens.append(token)
+            
+    #removing the nouns from the corpus
+    #pos_tag returns a dict where the first key (0) corresponds to the word
+    #and the second key (1) corresponds to what kind of word it is (noun etc)
+    #documentation for this function here: http://www.nltk.org/book/ch05.html
+    """
+    finalFinalTokens = []
+    nounClassifications = ["NN", "NNS", "PRP"] #NN = singular noun
+    markedTokens = pos_tag(finalTokens)
+    for pair in markedTokens:
+        if pair[1] not in nounClassifications:
+            print(pair[0])
+            finalFinalTokens.append(pair[0])
+    """
     
     return finalTokens
     
@@ -140,9 +160,8 @@ def convertToTFIDF(vec):
     for reviewIndex in vec:
         for termIndex in vec[reviewIndex]:
             returnVector[reviewIndex][termIndex] = ((1 + math.log10(vec[reviewIndex][termIndex])) * getIDF(termIndex, vec))
-            
+       
     for reviewIndex in returnVector:
-        #print(str(returnVector[reviewIndex]))
         returnVector[reviewIndex] = normalizeVector(returnVector[reviewIndex])
         
     return returnVector
@@ -155,37 +174,15 @@ def convertReviewToTFIDF(review, vec):
     
     return normalizeVector(review)
     
-def classify(reviewVec, trainingReviews):
-#takes a normalized review TFIDF vector and classifies it based on the training vector
-#reivewVec is the review itself (weighted and normalized) while trainingreviews is a dict of reviews
-    nearestNeighbors = [99999] * KCOUNT
+def score(reviewVec, trainingReviews):
+#takes a normalized review TFIDF vector and gives it a score based on the summation of the
+#cosine similarities between itself and known positive reviews in the training set
+#reviewVec is the review itself (weighted and normalized) while trainingreviews is a dict of reviews
     currentDistance = 0
-    tempDistance = 0
+    mySum = 0
     for index in trainingReviews:
         currentDistance = docDocSim(trainingReviews[index], reviewVec)
-        #if(currentDistance == 0):
-            #print(str(reviewVec))
-            #print("---------------------")
-            #print(str(trainingReviews[index]))
-            #print("=======================")
-            
-        i = 0
-        while i < len(nearestNeighbors):
-            if (currentDistance < nearestNeighbors[i]) & (currentDistance > 0):
-                tempDistance = nearestNeighbors[i]
-                nearestNeighbors[i] = currentDistance
-                currentDistance = tempDistance
-            i = i + 1
-        
-    #take the votes and weight them...
-    #using a fabricated method of weighting where we take the all of the reviews
-    #exceeding the threshold of what we consider a "good" review and subtract
-    #all of the "bad" reviews distance weights from the "good" reviews' distance
-    #weights
-    
-    mySum = 0
-    for element in nearestNeighbors:
-        mySum += element
+        mySum += currentDistance
     
     return (mySum)
     
@@ -231,11 +228,6 @@ def processReviews():
         
     return trainingReviews
 
-def removeNonAscii(s): 
-#removes non-ascii characters from a string
-    return "".join(i for i in s if ord(i)<128)
-    
-
 
 def main(): 
     response = ""
@@ -245,8 +237,10 @@ def main():
     
     openFile = open(os.path.join(CORPUSROOT, CORPUSFILE), "r")
     while(1):    
-        response = input("do we need to divy up the corpus? y/n: ")
+        response = "y"
+        #response = input("do we need to divy up the corpus? y/n: ")
         if response == "y":
+            print("divying the data")
             divyData(openFile, TESTFILE, TRAINFILE, CORPUSROOT)
             trainingReviews = processReviews()
             break
@@ -260,11 +254,13 @@ def main():
     openFile.close()
 
     
+    #getting and ranking the reviews in the test set
+    print("ranking the test set...")
     openFile = open(os.path.join(CORPUSROOT, TESTFILE), "r")
     test = {}
     for line in openFile:
         test = json.loads(line)
-        reviewText = removeNonAscii(test["text"])
+        reviewText = test["text"]
         reviewRating = test['votes']['useful']
         reviewTokens = tokenizeDocument(test["text"])
         reviewTokens = removeStopWords(reviewTokens)
@@ -272,20 +268,80 @@ def main():
         
         review = getTermFrequency(reviewTokens)
         review = convertReviewToTFIDF(review, trainingReviews)
-        rankedReviewList.append(Review(reviewText, classify(review, trainingReviews), reviewRating))
+        rankedReviewList.append(Review(reviewText, score(review, trainingReviews), reviewRating))
     
+    #sorting the reviews by their cosine similarity scores
     rankedReviewList.sort(key=lambda x: x.score, reverse=False)
 
+
+
+
+
+
+    #getting quarterly usefulness summations to estimate usefulness of the ranker 
     outfile = open(os.path.join(CORPUSROOT, OUTFILE), "w")
+    metrics = open(os.path.join(CORPUSROOT, METRICCOMPILATION), "a")
+    metrics.write(OUTFILE + " results: \n\n")
+    i = 0
+    usefulVotes = 0
+    revLength = len(rankedReviewList)
+    while i < (.25*revLength):
+        usefulVotes += rankedReviewList[i].actualRating                
+        i = i + 1
+    outfile.write("number of useful votes in each quarter:\n")
+    outfile.write("first quarter: " + str(usefulVotes) + "\n")
+    outfile.write("first quarter median: " + str(rankedReviewList[round(.125*revLength)].actualRating) + "\n")
+    metrics.write("number of useful votes in each quarter:\n")
+    metrics.write("first quarter: " + str(usefulVotes) + "\n")
+    metrics.write("first quarter median: " + str(rankedReviewList[round(.125*revLength)].actualRating) + "\n")    
+    
+    usefulVotes = 0
+    while i < (.5*revLength):
+        usefulVotes += rankedReviewList[i].actualRating
+        i = i + 1
+    outfile.write("second quarter: " + str(usefulVotes) + "\n")
+    outfile.write("second quarter median: " + str(rankedReviewList[round(.375*revLength)].actualRating) + "\n")
+    metrics.write("second quarter: " + str(usefulVotes) + "\n")
+    metrics.write("second quarter median: " + str(rankedReviewList[round(.375*revLength)].actualRating) + "\n")
+        
+    usefulVotes = 0
+    while i < (.75*revLength):
+        usefulVotes += rankedReviewList[i].actualRating
+        i = i + 1
+    outfile.write("third quarter: " + str(usefulVotes) + "\n")
+    outfile.write("third quarter median: " + str(rankedReviewList[round(.625*revLength)].actualRating) + "\n")
+    metrics.write("third quarter: " + str(usefulVotes) + "\n")
+    metrics.write("third quarter median: " + str(rankedReviewList[round(.625*revLength)].actualRating) + "\n")
+    
+    usefulVotes = 0
+    while i < (revLength):
+        usefulVotes += rankedReviewList[i].actualRating
+        i = i + 1
+    outfile.write("fourth quarter: " + str(usefulVotes) + "\n")
+    outfile.write("fourth quarter median: " + str(rankedReviewList[round(.875*revLength)].actualRating) + "\n")
+    outfile.write("===============================end metrics==================================\n\n")
+    metrics.write("fourth quarter: " + str(usefulVotes) + "\n")
+    metrics.write("fourth quarter median: " + str(rankedReviewList[round(.875*revLength)].actualRating) + "\n")
+    metrics.write("===============================end metrics==================================\n\n")
+    
+    metrics.write("====================================================\n\n")
+    metrics.close()
+    
+
+
+
+
+
+    #printing out individual review results
     for review in rankedReviewList:
-        outfile.write(review.review)
+        outfile.write(removeNonAscii(review.review))
         outfile.write("\n")
         outfile.write("-------------------\n")
         outfile.write("similarity summation: " + str(review.score) + "\n")
         outfile.write("actual Rating: " + str(review.actualRating) + "\n")
-        outfile.write("===================\n")
+        outfile.write("===================\n\n\n")
 
-    
+    outfile.close()
     
     
         
@@ -294,37 +350,57 @@ def main():
     print("the runtime was: " + str(runTime) + " seconds")
     
     
-    #getting quarterly usefulness summations to estimate usefulness of the ranker 
-    i = 0
-    usefulVotes = 0
-    revLength = len(rankedReviewList)
-    while i < (.25*revLength):
-        usefulVotes += rankedReviewList[i].actualRating                
-        i = i + 1
-    outfile.write("number of useful votes in each quarter &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&\n")
-    outfile.write("first quarter " + str(usefulVotes) + "\n")
-    
-    usefulVotes = 0
-    while i < (.5*revLength):
-        usefulVotes += rankedReviewList[i].actualRating
-        i = i + 1
-    outfile.write("second quarter " + str(usefulVotes) + "\n")
-        
-    usefulVotes = 0
-    while i < (.75*revLength):
-        usefulVotes += rankedReviewList[i].actualRating
-        i = i + 1
-    outfile.write("third quarter " + str(usefulVotes) + "\n")
-    
-    usefulVotes = 0
-    while i < (revLength):
-        usefulVotes += rankedReviewList[i].actualRating
-        i = i + 1
-    outfile.write("fourth quarter " + str(usefulVotes) + "\n")
-    
-    outfile.close()
+
     
 
 
 if __name__ == "__main__":
-    main()
+    print("make sure that you have a file named \"metricComp.txt\" in your corpus root")
+    response = ""
+    while 1:
+        response = input("would you like to cycle the variables for data metric collection? (y/n): ")
+        
+        if response == "y":
+            i = 100
+            while(i >= 10):
+                OUTFILE = "resultsThresh" + str(i)
+                USEFULTHRESHOLD = i
+                main()
+                i -= 1
+            break
+        elif response == "n":
+            response = input("what would you like the number of useful votes to be considered useful to be?(positive integer please): ")
+            USEFULTHRESHOLD = int(response)
+            main()
+            break
+        else:
+            print("please give a valid response")
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
