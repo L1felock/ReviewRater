@@ -11,22 +11,23 @@ import math
 
 
 class Review:
-    def __init__(self, review, score):
+    def __init__(self, review, score, actualRating):
         self.review = review
-        self.score = score        
+        self.score = score
+        self.actualRating = actualRating
+        
 
-
-
-#CONSTANTS-----------------------------------
-USEFULTHRESHOLD = 20 #represents the number of upvotes a review has to get before it
-#is considered useful
-CORPUSROOT = 'C:\\Users\\Joey\\Desktop\\DataMining Project Results\\'
+#CONSTANTS----------------------------------- ONLY CONSTANTS WITH COMMENTS AFTER THEM SHOULD BE CHANGED
+USEFULTHRESHOLD = 15 #represents the number of upvotes a review has to get before it
+#is considered useful -- divy the corpus if changed
+CORPUSROOT = 'C:\\Users\\Joey\\Desktop\\DataMining Project Results\\' #change me! -- divy corpus if changed
 TESTFILE = "testSet.json"
 TRAINFILE = "trainSet.json"
 CORPUSFILE = "yelp_academic_dataset_review.json"
-PROCESSEDTRAINFILE = "trainSet2.json"
+PROCESSEDTRAINFILE = "objectStorage.json"
 OUTFILE = "results.txt"
-KCOUNT = 20
+TESTCOUNT = 1000 #number of reviews to be ranked --- divy corpus if changed
+KCOUNT = 20 #number of k nearest neighbors
 
 
 def divyData(openFile, testFile, trainFile, corpusRoot):
@@ -35,6 +36,7 @@ def divyData(openFile, testFile, trainFile, corpusRoot):
     openTestFile = open(os.path.join(corpusRoot, testFile), "w")
     openTrainFile = open(os.path.join(corpusRoot, trainFile), "w")
     
+    testLineCount = 0
     totalLineCount = 1
     line = ""
     line = openFile.readline()
@@ -43,13 +45,14 @@ def divyData(openFile, testFile, trainFile, corpusRoot):
         #use ['votes']['useful']  and   ['text'] to reference the number of useful
         #votes and the text of the review
         lineDict = json.loads(line)
-        if lineDict['votes']['useful'] > USEFULTHRESHOLD:
+        if (lineDict['votes']['useful'] > USEFULTHRESHOLD):
             if usefulLineCount % 2 == 0:
-                openTestFile.write(line)
-                usefulLineCount = usefulLineCount + 1
-            else:
                 openTrainFile.write(line)
-                usefulLineCount = usefulLineCount + 1
+            usefulLineCount = usefulLineCount + 1
+        else:
+            if testLineCount <= TESTCOUNT:
+                openTestFile.write(line)
+                testLineCount += 1
         line = openFile.readline()
         totalLineCount = totalLineCount + 1
         
@@ -160,15 +163,15 @@ def classify(reviewVec, trainingReviews):
     tempDistance = 0
     for index in trainingReviews:
         currentDistance = docDocSim(trainingReviews[index], reviewVec)
-        if(currentDistance == 0):
-            print(str(reviewVec))
-            print("---------------------")
-            print(str(trainingReviews[index]))
-            print("=======================")
+        #if(currentDistance == 0):
+            #print(str(reviewVec))
+            #print("---------------------")
+            #print(str(trainingReviews[index]))
+            #print("=======================")
             
         i = 0
         while i < len(nearestNeighbors):
-            if currentDistance < nearestNeighbors[i]:
+            if (currentDistance < nearestNeighbors[i]) & (currentDistance > 0):
                 tempDistance = nearestNeighbors[i]
                 nearestNeighbors[i] = currentDistance
                 currentDistance = tempDistance
@@ -180,24 +183,11 @@ def classify(reviewVec, trainingReviews):
     #all of the "bad" reviews distance weights from the "good" reviews' distance
     #weights
     
-    posNeighbors = []
-    negNeighbors = []
-    i = 0
-    while i < len(nearestNeighbors):
-        if nearestNeighbors[i] > 0:
-            posNeighbors.append(nearestNeighbors[i])
-        else:
-            negNeighbors.append(nearestNeighbors[i])
-        i = i + 1
+    mySum = 0
+    for element in nearestNeighbors:
+        mySum += element
     
-    posSum = 0
-    negSum = 0
-    for pos in posNeighbors:
-        posSum += pos
-    for neg in negNeighbors:
-        negSum += neg
-    
-    return (posSum - negSum)
+    return (mySum)
     
 
 def getTermFrequency(tokenList):
@@ -241,6 +231,10 @@ def processReviews():
         
     return trainingReviews
 
+def removeNonAscii(s): 
+#removes non-ascii characters from a string
+    return "".join(i for i in s if ord(i)<128)
+    
 
 
 def main(): 
@@ -270,23 +264,27 @@ def main():
     test = {}
     for line in openFile:
         test = json.loads(line)
+        reviewText = removeNonAscii(test["text"])
+        reviewRating = test['votes']['useful']
         reviewTokens = tokenizeDocument(test["text"])
         reviewTokens = removeStopWords(reviewTokens)
         reviewTokens = stemTokens(reviewTokens)
         
         review = getTermFrequency(reviewTokens)
         review = convertReviewToTFIDF(review, trainingReviews)
-        rankedReviewList.append(Review(review, classify(review, trainingReviews)))
+        rankedReviewList.append(Review(reviewText, classify(review, trainingReviews), reviewRating))
     
     rankedReviewList.sort(key=lambda x: x.score, reverse=False)
 
     outfile = open(os.path.join(CORPUSROOT, OUTFILE), "w")
     for review in rankedReviewList:
-        outfile.write(str(review.review) + "\n")
+        outfile.write(review.review)
+        outfile.write("\n")
         outfile.write("-------------------\n")
-        outfile.write(str(review.score) + "\n")
+        outfile.write("similarity summation: " + str(review.score) + "\n")
+        outfile.write("actual Rating: " + str(review.actualRating) + "\n")
         outfile.write("===================\n")
-    outfile.close()
+
     
     
     
@@ -294,6 +292,37 @@ def main():
     stop = time.time()
     runTime = stop - start #measured in seconds
     print("the runtime was: " + str(runTime) + " seconds")
+    
+    
+    #getting quarterly usefulness summations to estimate usefulness of the ranker 
+    i = 0
+    usefulVotes = 0
+    revLength = len(rankedReviewList)
+    while i < (.25*revLength):
+        usefulVotes += rankedReviewList[i].actualRating                
+        i = i + 1
+    outfile.write("number of useful votes in each quarter &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&\n")
+    outfile.write("first quarter " + str(usefulVotes) + "\n")
+    
+    usefulVotes = 0
+    while i < (.5*revLength):
+        usefulVotes += rankedReviewList[i].actualRating
+        i = i + 1
+    outfile.write("second quarter " + str(usefulVotes) + "\n")
+        
+    usefulVotes = 0
+    while i < (.75*revLength):
+        usefulVotes += rankedReviewList[i].actualRating
+        i = i + 1
+    outfile.write("third quarter " + str(usefulVotes) + "\n")
+    
+    usefulVotes = 0
+    while i < (revLength):
+        usefulVotes += rankedReviewList[i].actualRating
+        i = i + 1
+    outfile.write("fourth quarter " + str(usefulVotes) + "\n")
+    
+    outfile.close()
     
 
 

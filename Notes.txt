@@ -1,0 +1,26 @@
+-ran into issue with an nltk library not working properly because it was initially written for python 2.7
+
+-ran into an issue with non-unicode characters being used in reviews
+
+-longer reviews tend to get better ratings from the classifier than other reviews. This is due to the nature of cosine similarity between documents since having more words gives you a higher chance of having something in common with another review. It is also extremely appropriate due to the fact that longer reviews tend to contain more relevant and useful information.
+
+-we changed how the data was partitioned constantly so as to gain a better understanding of the data and how our classifier worked with the data
+
+
+
+
+-useful threshold was 10 for the generation of the website figures
+
+RUNTIMES---------------------
+-running with 200 test reviews in the corpus and k = 20 took 2.5 minutes
+-running with 1000 test reviews in teh corpus and k = 20 took about 3.5 minutes
+
+VERSIONS----------------------
+
+-classifier 1.0 and 2.0 only ranked kno
+
+-made it so divying data in ranker 3.0 puts mostly unknown reviews (reviews without a high usefulness rating) in the test set, but also puts well known reviews in as well
+
+-classifier 4 only considers nouns
+
+-4.1 reinstitutes the divying method of using only reviews that we know to be positive

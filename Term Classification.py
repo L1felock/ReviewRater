@@ -38,7 +38,7 @@ def classify_terms(filename):
         # puts key in a list so that the pos_tag function will classify it properly
         list = [key]
         # classify token according to its purpose
-        token_classification = pos_tag(list)
+        token_classification = pos_tag(list) #pos_tag takes a list as an arg
         # access results
         token = token_classification[0][0]
         classification = token_classification[0][1]
