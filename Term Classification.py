@@ -67,7 +67,6 @@ def find_ratios(filename):
 # file which contains the terms to be classified
 filename = "unstem_freq.txt"
 #filename = "termfreq.txt"
-
 term_input = 'term_classes.txt'
 count_dict = {}
 find_ratios(term_input)

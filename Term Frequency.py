@@ -59,9 +59,12 @@ def process_terms():
         list = tokenizeDocument(line)
         tokens = removeStopWords(list)
         getTermFrequency(tokens)
-
+    file.close()
     # store term frequency dictionary in file
-    json.dump(freqDict, open('unstem_freq.txt', 'w'))
+    #json.dump(freqDict, open('unstem_freq.txt', 'w'))
+    output = open('unstemfreq.txt', 'w')
+    for key in freqDict:
+        output.write("{\""+key+"\": "+str(freqDict[key])+"}\n")
 
 # find the most common terms in the corpus
 def most_common_terms(filename):
@@ -90,7 +93,17 @@ stemmed_words = "termfreq.txt"
 unstemmed_words = "unstem_freq.txt"
 corpus = "yelp_academic_dataset_review.json"
 
-most_common_terms(unstemmed_words)
+#most_common_terms(unstemmed_words)
+#process_terms()
+
+data = open("unstemfreq.txt", 'r')
+total = 0
+for line in data:
+    linedict = json.loads(line)
+    for key in linedict:
+        total += linedict[key]
+
+print(total)
 '''
 data = open(corpus, 'r')
 print("reading corpus")
