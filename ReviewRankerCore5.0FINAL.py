@@ -272,8 +272,19 @@ def main():
     
     #sorting the reviews by their cosine similarity scores
     rankedReviewList.sort(key=lambda x: x.score, reverse=False)
-
-
+    revLength = len(rankedReviewList)    
+    
+    
+    
+    #these are rough calculations of estimates of the metrics
+    q1OrderedUsefulness = rankedReviewList[0:round(.25*revLength)]
+    q1OrderedUsefulness.sort(key=lambda x: x.actualRating, reverse=False)
+    q2OrderedUsefulness = rankedReviewList[round(.25*revLength):round(.5*revLength)]
+    q2OrderedUsefulness.sort(key=lambda x: x.actualRating, reverse=False)
+    q3OrderedUsefulness = rankedReviewList[round(.5*revLength):round(.75*revLength)]
+    q3OrderedUsefulness.sort(key=lambda x: x.actualRating, reverse=False)
+    q4OrderedUsefulness = rankedReviewList[round(.75*revLength):(revLength-1)]
+    q4OrderedUsefulness.sort(key=lambda x: x.actualRating, reverse=False)
 
 
 
@@ -291,9 +302,8 @@ def main():
     outfile.write("number of useful votes in each quarter:\n")
     outfile.write("first quarter: " + str(usefulVotes) + "\n")
     outfile.write("first quarter median: " + str(rankedReviewList[round(.125*revLength)].actualRating) + "\n")
-    metrics.write("number of useful votes in each quarter:\n")
     metrics.write("first quarter: " + str(usefulVotes) + "\n")
-    metrics.write("first quarter median: " + str(rankedReviewList[round(.125*revLength)].actualRating) + "\n")    
+    metrics.write("first quarter median: " + str(q1OrderedUsefulness[round(.5*len(q1OrderedUsefulness))].actualRating) + "\n")    
     
     usefulVotes = 0
     while i < (.5*revLength):
@@ -302,7 +312,7 @@ def main():
     outfile.write("second quarter: " + str(usefulVotes) + "\n")
     outfile.write("second quarter median: " + str(rankedReviewList[round(.375*revLength)].actualRating) + "\n")
     metrics.write("second quarter: " + str(usefulVotes) + "\n")
-    metrics.write("second quarter median: " + str(rankedReviewList[round(.375*revLength)].actualRating) + "\n")
+    metrics.write("second quarter median: " + str(q2OrderedUsefulness[round(.5*len(q2OrderedUsefulness))].actualRating) + "\n")
         
     usefulVotes = 0
     while i < (.75*revLength):
@@ -311,7 +321,7 @@ def main():
     outfile.write("third quarter: " + str(usefulVotes) + "\n")
     outfile.write("third quarter median: " + str(rankedReviewList[round(.625*revLength)].actualRating) + "\n")
     metrics.write("third quarter: " + str(usefulVotes) + "\n")
-    metrics.write("third quarter median: " + str(rankedReviewList[round(.625*revLength)].actualRating) + "\n")
+    metrics.write("third quarter median: " + str(q3OrderedUsefulness[round(.5*len(q3OrderedUsefulness))].actualRating) + "\n")
     
     usefulVotes = 0
     while i < (revLength):
@@ -319,9 +329,8 @@ def main():
         i = i + 1
     outfile.write("fourth quarter: " + str(usefulVotes) + "\n")
     outfile.write("fourth quarter median: " + str(rankedReviewList[round(.875*revLength)].actualRating) + "\n")
-    outfile.write("===============================end metrics==================================\n\n")
     metrics.write("fourth quarter: " + str(usefulVotes) + "\n")
-    metrics.write("fourth quarter median: " + str(rankedReviewList[round(.875*revLength)].actualRating) + "\n")
+    metrics.write("fourth quarter median: " + str(q4OrderedUsefulness[round(.5*len(q4OrderedUsefulness))].actualRating) + "\n")
     metrics.write("===============================end metrics==================================\n\n")
     
     metrics.write("====================================================\n\n")
@@ -355,15 +364,15 @@ def main():
 
 
 if __name__ == "__main__":
-    print("make sure that you have a file named \"metricComp.txt\" in your corpus root")
+    print("make sure that you have a file named \"metricComp.txt\" in your corpus root and clear it if you want fresh data")
     response = ""
     while 1:
         response = input("would you like to cycle the variables for data metric collection? (y/n): ")
         
         if response == "y":
-            i = 100
+            i = 50
             while(i >= 10):
-                OUTFILE = "resultsThresh" + str(i)
+                OUTFILE = "resultsThresh" + str(i) + ".txt"
                 USEFULTHRESHOLD = i
                 main()
                 i -= 1
