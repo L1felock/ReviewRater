@@ -20,7 +20,8 @@
 <body>
 <h1> Review Rater website</h1>
 <p> This website will display the results of the Review Rater project.</p>
-</body>
+<h2> Word Clouds</h>
+
 <script>
 
     var frequency_list = [{"text":"start", "size":10},
@@ -38,7 +39,6 @@
 {"text":"called", "size":12},
 {"text":"part", "size":13},
 {"text":"without", "size":14},
-{"text":"m", "size":66},
 {"text":"clean", "size":12},
 {"text":"rice", "size":16},
 {"text":"outside", "size":12},
@@ -53,7 +53,6 @@
 {"text":"back", "size":62},
 {"text":"location", "size":15},
 {"text":"restaurants", "size":12},
-{"text":"com", "size":20},
 {"text":"family", "size":10},
 {"text":"long", "size":22},
 {"text":"ordered", "size":32},
@@ -79,15 +78,12 @@
 {"text":"three", "size":16},
 {"text":"day", "size":32},
 {"text":"years", "size":13},
-{"text":"re", "size":39},
-{"text":"ve", "size":52},
 {"text":"served", "size":17},
 {"text":"service", "size":50},
 {"text":"better", "size":28},
 {"text":"shrimp", "size":12},
 {"text":"said", "size":31},
 {"text":"next", "size":29},
-{"text":"ll", "size":31},
 {"text":"point", "size":11},
 {"text":"located", "size":10},
 {"text":"always", "size":23},
@@ -123,7 +119,7 @@
 {"text":"guy", "size":11},
 {"text":"friendly", "size":20},
 {"text":"less", "size":11},
-{"text":"wasn", "size":23},
+{"text":"wasn't", "size":23},
 {"text":"walked", "size":10},
 {"text":"much", "size":43},
 {"text":"new", "size":30},
@@ -131,7 +127,7 @@
 {"text":"someone", "size":10},
 {"text":"order", "size":39},
 {"text":"waiting", "size":11},
-{"text":"didn", "size":42},
+{"text":"didn't", "size":42},
 {"text":"perfect", "size":16},
 {"text":"stop", "size":10},
 {"text":"give", "size":22},
@@ -146,7 +142,6 @@
 {"text":"steak", "size":14},
 {"text":"end", "size":14},
 {"text":"makes", "size":10},
-{"text":"las", "size":19},
 {"text":"another", "size":25},
 {"text":"really", "size":66},
 {"text":"fan", "size":10},
@@ -168,9 +163,7 @@
 {"text":"old", "size":16},
 {"text":"cool", "size":14},
 {"text":"fish", "size":11},
-{"text":"d", "size":28},
 {"text":"also", "size":63},
-{"text":"www", "size":18},
 {"text":"delicious", "size":23},
 {"text":"first", "size":43},
 {"text":"tell", "size":13},
@@ -197,7 +190,6 @@
 {"text":"almost", "size":12},
 {"text":"get", "size":96},
 {"text":"let", "size":19},
-{"text":"w", "size":14},
 {"text":"else", "size":11},
 {"text":"beer", "size":11},
 {"text":"good", "size":108},
@@ -274,7 +266,7 @@
 {"text":"huge", "size":15},
 {"text":"select", "size":14},
 {"text":"special", "size":14},
-{"text":"doesn", "size":10},
+{"text":"doesn't", "size":10},
 {"text":"look", "size":18},
 {"text":"away", "size":17},
 {"text":"different", "size":19},
@@ -284,7 +276,6 @@
 {"text":"flavors", "size":12},
 {"text":"everything", "size":23},
 {"text":"strip", "size":19},
-{"text":"http", "size":19},
 {"text":"stuff", "size":10},
 {"text":"sauce", "size":33},
 {"text":"friends", "size":16},
@@ -379,7 +370,7 @@
                 .append("g")
                 // without the transform, words words would get cutoff to the left and top, they would
                 // appear outside of the SVG area
-                .attr("transform", "translate(320,200)")
+                .attr("transform", "translate(550,250)")
                 .selectAll("text")
                 .data(words)
                 .enter().append("text")
@@ -391,11 +382,230 @@
                 .text(function(d) { return d.text; });
     }
 </script>
+<div id="pieChart"></div>
 
-<div style="width: 40%;">
-    <div class="legend">
-        Commonly used words are larger and slightly faded in color.  Less common words are smaller and darker.
-    </div>
+<h2>Pie Charts</h2>
 
-</div>
+<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.4/d3.min.js"></script>
+<script src="d3pie.min.js"></script>
+<script>
+var pie = new d3pie("pieChart", {
+	"header": {
+		"title": {
+			"text": "Most Common Types of Words",
+			"fontSize": 24,
+			"font": "open sans"
+		},
+		"subtitle": {
+			"text": "A pie chart that displays the most common types of words used in reviews deemed \"useful\".",
+			"color": "#999999",
+			"fontSize": 12,
+			"font": "open sans"
+		},
+		"titleSubtitlePadding": 9
+	},
+	"footer": {
+		"color": "#999999",
+		"fontSize": 10,
+		"font": "open sans",
+		"location": "bottom-left"
+	},
+	"size": {
+		"canvasWidth": 590,
+		"pieOuterRadius": "90%"
+	},
+	"data": {
+		"sortOrder": "value-desc",
+		"content": [
+			{
+				"label": "Noun",
+				"value": 39422,
+				"color": "#0066cc"
+			},
+			{
+				"label": "Verb",
+				"value": 6980,
+				"color": "#003366"
+			},
+			{
+				"label": "Adjective",
+				"value": 2883,
+				"color": "#336600"
+			},
+			{
+				"label": "Adverb",
+				"value": 1875,
+				"color": "#669966"
+			},
+			{
+				"label": "Preposition",
+				"value": 976,
+				"color": "#990000"
+			},
+			{
+				"label": "Pronoun",
+				"value": 461,
+				"color": "#cc6600"
+			}
+		]
+	},
+	"labels": {
+		"outer": {
+			"pieDistance": 32
+		},
+		"inner": {
+			"hideWhenLessThanPercentage": 3
+		},
+		"mainLabel": {
+			"fontSize": 11
+		},
+		"percentage": {
+			"color": "#ffffff",
+			"decimalPlaces": 0
+		},
+		"value": {
+			"color": "#adadad",
+			"fontSize": 11
+		},
+		"lines": {
+			"enabled": true
+		},
+		"truncation": {
+			"enabled": true
+		}
+	},
+	"effects": {
+		"pullOutSegmentOnClick": {
+			"effect": "linear",
+			"speed": 400,
+			"size": 8
+		}
+	},
+	"misc": {
+		"gradient": {
+			"enabled": true,
+			"percentage": 100
+		}
+	}
+});
+</script>
+<script>
+var pie = new d3pie("pieChart", {
+	"header": {
+		"title": {
+			"text": "Most Common Types of Words",
+			"fontSize": 24,
+			"font": "open sans"
+		},
+		"subtitle": {
+			"text": "A pie chart that displays the most common types of words used in reviews deemed \"useful\".",
+			"color": "#999999",
+			"fontSize": 12,
+			"font": "open sans"
+		},
+		"titleSubtitlePadding": 9
+	},
+	"footer": {
+		"color": "#999999",
+		"fontSize": 10,
+		"font": "open sans",
+		"location": "bottom-left"
+	},
+	"size": {
+		"canvasWidth": 590,
+		"pieOuterRadius": "90%"
+	},
+	"data": {
+		"sortOrder": "value-desc",
+		"content": [
+			{
+				"label": "Verb",
+				"value": 6980,
+				"color": "#0066cc"
+			},
+			{
+				"label": "Adjective",
+				"value": 2883,
+				"color": "#003366"
+			},
+			{
+				"label": "Adverb",
+				"value": 1875,
+				"color": "#336600"
+			},
+			{
+				"label": "Preposition",
+				"value": 976,
+				"color": "#669966"
+			},
+			{
+				"label": "Pronoun",
+				"value": 461,
+				"color": "#990000"
+			}
+		]
+	},
+	"labels": {
+		"outer": {
+			"pieDistance": 32
+		},
+		"inner": {
+			"hideWhenLessThanPercentage": 3
+		},
+		"mainLabel": {
+			"fontSize": 11
+		},
+		"percentage": {
+			"color": "#ffffff",
+			"decimalPlaces": 0
+		},
+		"value": {
+			"color": "#adadad",
+			"fontSize": 11
+		},
+		"lines": {
+			"enabled": true
+		},
+		"truncation": {
+			"enabled": true
+		}
+	},
+	"effects": {
+		"pullOutSegmentOnClick": {
+			"effect": "linear",
+			"speed": 400,
+			"size": 8
+		}
+	},
+	"misc": {
+		"gradient": {
+			"enabled": true,
+			"percentage": 100
+		}
+	}
+});
+</script>
+<!-- total number of terms in the good reviews corpus is 1777204 -->
+<form action=">
+Please enter a word to see how often it appears in good reviews.<br>
+<input type="text" name="searchbox" id="searchbox"><br><br>
+<button onclick="searchTerms()">Submit</button>
+
+<script>
+
+function searchTerms("unstemfreq.txt", function(text))
+{
+	if (text == null)
+	{
+		text is empty
+	}
+	else
+	{
+		var term = document.getElementById('searchbox');
+	}
+	
+}
+
+</script>
+</body>
 </html>
