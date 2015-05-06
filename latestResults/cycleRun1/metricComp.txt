@@ -1,0 +1,615 @@
+resultsThresh50.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 576
+first quarter median: 52
+second quarter: 454
+second quarter median: 63
+third quarter: 455
+third quarter median: 54
+fourth quarter: 496
+fourth quarter median: 69
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh49.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 577
+first quarter median: 69
+second quarter: 447
+second quarter median: 54
+third quarter: 462
+third quarter median: 66
+fourth quarter: 497
+fourth quarter median: 51
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh48.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 772
+first quarter median: 74
+second quarter: 574
+second quarter median: 49
+third quarter: 580
+third quarter median: 52
+fourth quarter: 621
+fourth quarter median: 63
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh47.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 758
+first quarter median: 57
+second quarter: 660
+second quarter median: 49
+third quarter: 705
+third quarter median: 48
+fourth quarter: 748
+fourth quarter median: 51
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh46.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 872
+first quarter median: 52
+second quarter: 710
+second quarter median: 52
+third quarter: 733
+third quarter median: 85
+fourth quarter: 908
+fourth quarter median: 166
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh45.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 888
+first quarter median: 46
+second quarter: 800
+second quarter median: 60
+third quarter: 818
+third quarter median: 64
+fourth quarter: 913
+fourth quarter median: 166
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh44.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 958
+first quarter median: 57
+second quarter: 831
+second quarter median: 67
+third quarter: 844
+third quarter median: 49
+fourth quarter: 841
+fourth quarter median: 51
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh43.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1046
+first quarter median: 46
+second quarter: 887
+second quarter median: 55
+third quarter: 972
+third quarter median: 85
+fourth quarter: 966
+fourth quarter median: 58
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh42.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1030
+first quarter median: 48
+second quarter: 912
+second quarter median: 48
+third quarter: 1055
+third quarter median: 64
+fourth quarter: 914
+fourth quarter median: 43
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh41.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1107
+first quarter median: 126
+second quarter: 981
+second quarter median: 51
+third quarter: 939
+third quarter median: 54
+fourth quarter: 1135
+fourth quarter median: 48
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh40.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1249
+first quarter median: 41
+second quarter: 1080
+second quarter median: 106
+third quarter: 1066
+third quarter median: 45
+fourth quarter: 1179
+fourth quarter median: 49
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh39.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1304
+first quarter median: 74
+second quarter: 1225
+second quarter median: 55
+third quarter: 1145
+third quarter median: 70
+fourth quarter: 1086
+fourth quarter median: 40
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh38.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1359
+first quarter median: 39
+second quarter: 1290
+second quarter median: 44
+third quarter: 1282
+third quarter median: 39
+fourth quarter: 1353
+fourth quarter median: 40
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh37.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1598
+first quarter median: 74
+second quarter: 1406
+second quarter median: 40
+third quarter: 1440
+third quarter median: 52
+fourth quarter: 1335
+fourth quarter median: 49
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh36.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1535
+first quarter median: 40
+second quarter: 1399
+second quarter median: 43
+third quarter: 1404
+third quarter median: 50
+fourth quarter: 1626
+fourth quarter median: 38
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh35.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1717
+first quarter median: 43
+second quarter: 1503
+second quarter median: 36
+third quarter: 1649
+third quarter median: 40
+fourth quarter: 1490
+fourth quarter median: 37
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh34.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1916
+first quarter median: 102
+second quarter: 1691
+second quarter median: 43
+third quarter: 1683
+third quarter median: 49
+fourth quarter: 1741
+fourth quarter median: 49
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh33.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1774
+first quarter median: 51
+second quarter: 1810
+second quarter median: 51
+third quarter: 1781
+third quarter median: 35
+fourth quarter: 1849
+fourth quarter median: 49
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh32.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 1969
+first quarter median: 34
+second quarter: 1835
+second quarter median: 52
+third quarter: 1869
+third quarter median: 34
+fourth quarter: 1893
+fourth quarter median: 38
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh31.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 2191
+first quarter median: 32
+second quarter: 2242
+second quarter median: 35
+third quarter: 2103
+third quarter median: 36
+fourth quarter: 2247
+fourth quarter median: 32
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh30.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 2559
+first quarter median: 51
+second quarter: 2213
+second quarter median: 35
+third quarter: 2255
+third quarter median: 33
+fourth quarter: 2168
+fourth quarter median: 49
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh29.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 2577
+first quarter median: 41
+second quarter: 2549
+second quarter median: 30
+third quarter: 2466
+third quarter median: 53
+fourth quarter: 2591
+fourth quarter median: 30
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh28.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 3073
+first quarter median: 29
+second quarter: 2745
+second quarter median: 29
+third quarter: 2699
+third quarter median: 53
+fourth quarter: 2839
+fourth quarter median: 29
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh27.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 3344
+first quarter median: 28
+second quarter: 2960
+second quarter median: 29
+third quarter: 2898
+third quarter median: 34
+fourth quarter: 2929
+fourth quarter median: 56
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh26.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 3611
+first quarter median: 35
+second quarter: 3263
+second quarter median: 31
+third quarter: 3202
+third quarter median: 39
+fourth quarter: 3414
+fourth quarter median: 34
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh25.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 3825
+first quarter median: 35
+second quarter: 3515
+second quarter median: 28
+third quarter: 3493
+third quarter median: 38
+fourth quarter: 3646
+fourth quarter median: 32
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh24.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 4455
+first quarter median: 29
+second quarter: 3878
+second quarter median: 25
+third quarter: 3805
+third quarter median: 27
+fourth quarter: 4239
+fourth quarter median: 49
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh23.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 4536
+first quarter median: 32
+second quarter: 4283
+second quarter median: 30
+third quarter: 4224
+third quarter median: 26
+fourth quarter: 4505
+fourth quarter median: 29
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh22.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 5163
+first quarter median: 30
+second quarter: 4711
+second quarter median: 23
+third quarter: 4687
+third quarter median: 43
+fourth quarter: 5159
+fourth quarter median: 29
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh21.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 5355
+first quarter median: 30
+second quarter: 5389
+second quarter median: 37
+third quarter: 5089
+third quarter median: 25
+fourth quarter: 5330
+fourth quarter median: 26
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh20.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 5995
+first quarter median: 26
+second quarter: 5920
+second quarter median: 24
+third quarter: 5782
+third quarter median: 25
+fourth quarter: 6127
+fourth quarter median: 32
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh19.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 6632
+first quarter median: 25
+second quarter: 6355
+second quarter median: 28
+third quarter: 6450
+third quarter median: 24
+fourth quarter: 6912
+fourth quarter median: 26
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh18.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 7513
+first quarter median: 52
+second quarter: 7232
+second quarter median: 19
+third quarter: 7074
+third quarter median: 21
+fourth quarter: 7361
+fourth quarter median: 21
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh17.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 8400
+first quarter median: 21
+second quarter: 8353
+second quarter median: 20
+third quarter: 8212
+third quarter median: 21
+fourth quarter: 8631
+fourth quarter median: 18
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh16.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 9594
+first quarter median: 17
+second quarter: 9731
+second quarter median: 18
+third quarter: 9207
+third quarter median: 53
+fourth quarter: 9719
+fourth quarter median: 36
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh15.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 10931
+first quarter median: 28
+second quarter: 10568
+second quarter median: 21
+third quarter: 10495
+third quarter median: 16
+fourth quarter: 10583
+fourth quarter median: 16
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh14.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 12484
+first quarter median: 16
+second quarter: 12387
+second quarter median: 15
+third quarter: 12096
+third quarter median: 16
+fourth quarter: 12062
+fourth quarter median: 16
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh13.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 14202
+first quarter median: 28
+second quarter: 13717
+second quarter median: 19
+third quarter: 13506
+third quarter median: 15
+fourth quarter: 14101
+fourth quarter median: 14
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh12.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 16311
+first quarter median: 13
+second quarter: 16293
+second quarter median: 18
+third quarter: 15974
+third quarter median: 15
+fourth quarter: 16342
+fourth quarter median: 17
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh11.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 19105
+first quarter median: 21
+second quarter: 18405
+second quarter median: 12
+third quarter: 18593
+third quarter median: 19
+fourth quarter: 19064
+fourth quarter median: 13
+===============================end metrics==================================
+
+====================================================
+
+resultsThresh10.txt results: 
+
+number of useful votes in each quarter:
+first quarter: 21798
+first quarter median: 12
+second quarter: 21692
+second quarter median: 19
+third quarter: 22331
+third quarter median: 29
+fourth quarter: 22725
+fourth quarter median: 12
+===============================end metrics==================================
+
+====================================================
+

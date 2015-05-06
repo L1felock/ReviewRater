@@ -1,0 +1,1511 @@
+number of useful votes in each quarter:
+first quarter: 1046
+first quarter median: 46
+second quarter: 887
+second quarter median: 55
+third quarter: 972
+third quarter median: 85
+fourth quarter: 966
+fourth quarter median: 58
+The staff has always been helpful.
+-------------------
+similarity summation: 0.9647095735947128
+actual Rating: 48
+===================
+
+
+The orange chicken is great. This place is always packed.
+-------------------
+similarity summation: 1.1485805278270653
+actual Rating: 64
+===================
+
+
+Green Acres killed my 3 dogs and 19 others last week. I hope they have shut down. Yelp please don't delete this truthful post as you have all the others. You could be saving a dogs life by keeping this up !
+-------------------
+similarity summation: 1.3182008604125124
+actual Rating: 103
+===================
+
+
+We recently moved to our new home in Las Vegas and called ABC Locksmith to change our locks. Ryan showed up promptly and changed the locks right there and then. Very professional company. I highly recommend their services.
+-------------------
+similarity summation: 1.5911890194745955
+actual Rating: 107
+===================
+
+
+Secret pizza is the shit. Sober or drunk, it's worth the wait and the ridiculous conversations and interactions from all the sloppy mcsloppersons standing in line for a slice makes it quite entertaining as well. I liked the pepperoni, but I loved the white pizza with ricotta, mushrooms (?) and pepperoni! Just get a whole pizza for your group instead of ordering individual slices, because they're like the Pringles of the pizza world, once you pop you can't stop.
+-------------------
+similarity summation: 1.7898444724406903
+actual Rating: 47
+===================
+
+
+They are killing dogs. Abusive. They should not be in business. They are running a tourture ring.Gabby Ugartte -Recently our dog, Shadow, stayed at Green Acres Boarding in Gilbert. When my mom picked him up he was covered in paint and what looked to be chemical burns. Along with a 106 degree fever. They didn't contact our family or the vet and refused to help with any bills despite the fact this was because of their negligence. I want as many people to know as possible that this place is a terrible place for your pets. Please please please help inform people about this place by sharing these pictures or just letting people know. I don't want any other pets lives to be put at risk.
+-------------------
+similarity summation: 2.0058612690913025
+actual Rating: 74
+===================
+
+
+Used Creative moving about a month ago. What a great, family-run business. The guys were on time, courteous, and professional. They don't drag their feet - their goal is to get the job done right and as efficiently as possible. As a matter of fact, they came in UNDER the estimate! Not one broken item in the whole move. They carefully wrapped and padded our furniture, and took great care to avoid dinging walls, etc.
+Would use Creative again in a heartbeat, and will be recommending them to everyone we know. Could not be more pleased after you hear so many negative things about other movers.
+-------------------
+similarity summation: 2.290971834867847
+actual Rating: 57
+===================
+
+
+You don't know how much I love you,
+You don't know how much I care.
+
+This review is way old but since I'm sick and have nothing better to do than stare at my feet and feel like crap I thought I'd catch up on old reviews before they are erased from memory.
+
+Happy Hour is where its at son!
+1/2 off Steaks (and a gnocchi I just couldn't pass up)
+
+The vibe is straight up sexy, (I never use that word because I feel awkward saying it out loud) but its just dark, sultry and sleek and straight out of an old-school movie.  
+
+The specialty cocktails are divine, the bartenders take their time and they know wassup.  Quality drinks cost money, but oh what a way to burn.
+-------------------
+similarity summation: 2.31124090419637
+actual Rating: 48
+===================
+
+
+Sorry to ruin the party concerning the high Yelp rating for this company, but this is my story. 
+
+I called these guys and we agreed that they would come over to my house at 4pm for a regular service call. So I took off some time from the office to meet them at my house. I called them at 4:10pm and asked them what was going on, I had to leave a message. After a few minutes, they called me back and said they didn't have a technician near my house since they were in other parts of the valley so we would have to reschedule. WTF?
+
+I rescheduled for the next week and while they called me about 15 minutes before the scheduled appointment, I told them that I was in another part of the valley and couldn't make the appointment. I then continued with my awesome lunch.
+-------------------
+similarity summation: 2.4080469483785203
+actual Rating: 46
+===================
+
+
+This is a nice casual place to get some fish. They cook it up anyway you want it (cue Journey), whether it be fried, grilled, blackened, etc.
+
+I have ordered the Taco Mountain every time I've been there. You have a choice of other types of meat besides fish. I always go for the fish. I find that the fish is always fresh and cooked just right. The next time I go in there I'll have to order something different. Pro Tip - This place is a zoo during Fridays when Lent is in season. When you can't find a parking spot, you might as well go with Plan B.
+-------------------
+similarity summation: 2.4147601446738407
+actual Rating: 46
+===================
+
+
+1300+ reviews don't lie. This place is quite delicious. 
+
+Why the one star? Because I ate here on Tuesday 4/23 and started having food poisoning symptoms two days later. It's been five days and I'm still in pain and have lost 13 pounds due to so much water loss. I had to visit the ER yesterday for dehydration. After multiple complaints from other patrons, Firefly was shut down today for a health inspection. 
+
+However, this is not the first time I became ill after eating here. A couple years ago, I had their fish sticks and started violently vomiting soon after. After some time, I decided to give this place another chance. Everything was good...until now. 
+
+It's such a shame because Firefly has delicious tapas and drinks. This was my go-to place for a long time. But apparently staff members aren't keeping clean and washing their hands or they're not handling their food properly.
+
+I've already given this place a second chance. A third chance? I highly doubt it. Eat here at your own risk.
+-------------------
+similarity summation: 2.5308190063304
+actual Rating: 49
+===================
+
+
+Just used them to move from Ahwatukee to Central Phoenix and these guys were outstanding! I've moved 5 times in the Phoenix area and each move has had problems. One time the movers didn't bring enough wardrobes. I didn't have any problems with Creative. Jesse and Eric were terrific! They were very fast and professional. I had to store my stuff for a week because my new place wasn't ready and Conrad (the owner) quoted me a fair price. They are the best and deserve all the great reviews. I have no complaints about this moving company and highly recommend them. One thing I appreciated was fact Conrad always answered my emails and was in constant contact with me about the move. It relieves a lot of stress when you have a professional mover. I called a lot of movers but based my decision on Yelp. I always use Yelp to find local businesses.
+-------------------
+similarity summation: 2.553102546993512
+actual Rating: 44
+===================
+
+
+We were in Vegas this past weekend and decided to check out Sushi Samba.  We did the tasting "omakase" menu and it was a hit with everyone on the table.  We got a nice sampling of everything there, it was all superb.  My favorite were the yellowtail tacos, yumm!  Most of all, we had a really great waitress, unfortunately i can't remember her name but she was very well informed and on top of it and she's the reason i'm giving this place 5 stars.
+-------------------
+similarity summation: 2.5937966201998295
+actual Rating: 126
+===================
+
+
+I vividly remember my first bite of their red velvet cupcake 8 years ago at their Beverly Hills location.  I'd never had cupcake like that before or since.  There have been copycats sneaking their way into Las Vegas over the years with mixed results and never living up to Sprinkles for me.  They finally made it and I am psyched!  
+
+Yeah so 6 cupcakes costs $22.50.  I was surprised when the cashier asked me if those were for here or to go but then I saw a guy with 6 of them at a table by himself.  Damn, dude.
+
+We ordered 3 red velvet, a peanut butter chip, lemon meringue and black & white.  Those other 3 were nice and all but it's all about the red velvet.  The cake was perfectly moist and the frosting is like no other.  Funny how they put the takeout box into a resealable plastic bag...like drugs.  I am sure Sprinkles is well aware of their addictive qualities.
+
+Even the line on Sunday at 11pm was about 15 minutes.  Looking forward to giving the cupcake ATM a whirl when the line is an hour plus.
+-------------------
+similarity summation: 2.624572680842825
+actual Rating: 44
+===================
+
+
+I had my first taste of Firehouse Subs today and decided to go with the Beef & Cheddar eight inch sandwich with a large Diet Dr. Pepper from their fabulous soda machine. That machine kind of reminds me of Rodney Dangerfield's character in the Caddyshack where he had that golf bag that played music, so versatile just like the soda machine delivering many different types of sodas. http://www.youtube.com/watch?v=W3A9rLoz_0o
+
+The Beef and Cheddar sandwich comes with bbq sauce and mayo. I got it without the mayo and it tasted fabulous. The only problem was that I felt a little hungry after eating it. So there's the rub, an excellent tasting meal with just a little bit of meat. Five stars for taste but one star for not putting out my 5 alarm hunger pangs.
+-------------------
+similarity summation: 2.643460608822361
+actual Rating: 47
+===================
+
+
+If I could give Green Acre Dog Boarding no stars...I would.  Stay away from this dog boarding facility.  It appears that Yelp has been removing ALL of the negative reviews that this place has had, and I this facility is STILL taking in animals despite what happened two weeks ago (and Yelp saying they are closed).  Four of my five dogs died while under the care of this boarding facility.  I was "promised" that no more than ten dogs would be cared for at a time.  When we dropped our dogs off, there was only two "larger" dogs and about four small dogs at their house.  My dogs ran around the yard, and seemed to be OK.  We were going out of town for two funerals, and our five dogs (English Bulldog puppy, Manchester Terrier, Pit Bull, Great Dane, and rescue dog) were to stay at their facility for about ten days.  I received a call very late at night that four of our dogs had ran away and died from heat exhaustion (one of which being a six month old puppy and one being a 12 year old blind/deaf dog).  I later found out that my four "furry children" were only four of the twenty-some dogs that died under their care, and i was lied to...they did not run away; they were neglected.  I had NO CLUE the owners were going to be out of town, or I would have had ANYONE I could think of go pick them up.  On top of this tragedy, not once have we received any type of apology for our loss from the owners.  They met my family upon drop off, and knew we had two small children we would have to explain this to...no remorse...no apology.  Please don't take any animal here.  They shouldn't be allowed to care for animals.
+-------------------
+similarity summation: 2.7607381436404874
+actual Rating: 45
+===================
+
+
+I stopped in for lunch to check out this new pizza place. Mark Rich's NY Pizza and Pasta used to be here. I recognized the girl at the register when I walked in, so I asked her if they just changed the name, but she said that Mark Rich's recipes transferred over when the new owners bought the business in this location. Mark Rich's NY Pizza and Pasta still currently operates another location, using the same recipes and ingredients, but has nothing at all to do with Giani's NY Pizza and Pasta.
+
+I ordered the lunch special for $5.95 which was 2 slices of cheese pizza and a drink. The pizza slices were a good size. I didn't care for the pizza though. They might be using the same recipe the previous owner used, but it doesn't mean it comes out the same and it just didn't for me. The pizza was somewhat burnt and had a stale taste to it like maybe it was from the day before. This is a real disappointment for me because I regularly shop in the shopping center Giani's is in and enjoyed stopping for pizza. Good thing "Above the Crust" is just around the corner though on Ann Rd so there still is a solid pizza joint in the neighborhood I can go to.
+-------------------
+similarity summation: 2.7899153547239464
+actual Rating: 51
+===================
+
+
+My favorite free attraction in Vegas.  Yes, even beating the street people giving out cards with naked women on them J/K ;p
+
+The Fountains of Bellagio are located in the heart of the Strip, where visitors can enjoy a beautiful display of water being shot high into the sky, in tune with music.  
+http://www.vegas.com/attractions/on-the-strip/bellagio-fountains/
+
+Strolling along the Strip, especially at night, it's a great sight to behold, whether with friends or your significant other.  Last time I was there, we saw the Fountains with Michael Jackson's "Billie Jean" playing.  Later on, on the way back to our hotel, we saw it again with Celine Dion's "My Heart Will Go On".  Such an extravagant spectacle for the senses!  There's just something about an oasis of moving water right before your eyes in the middle of the searing desert,  music tickling your tympanic membranes.  All for free!
+
+Great views from the front of Bellagio, or when dining at Mon Ami Gabi at Paris.  The show runs every 15-30 mins, with the start times depending upon the day.  
+
+You can't miss this attraction at the Strip, literally & figuratively.  I know when I'm in Vegas again, I'll certainly enjoy checking out the Fountains of Bellagio several times more.
+
+Highly recommmend!
+-------------------
+similarity summation: 2.801031480377181
+actual Rating: 60
+===================
+
+
+You want some bread to go with that cheese?
+
+I'm immediately reminded of Chuck E.  Cheese, The Country Bears etc.
+
+Cheap animatronics with some fire & water thrown in for spectacle, Fall of Atlantis is a free attraction located in the Forum Shops of Caesar's Palace.  King Atlas has to decide upon who his replacement should be to the  throne, his daughter who has special water effects, or his son who contributes the pyrotechnics.  Gods itervene & have some choice words for King Atlas & his offspring.  The climax brings about a dragon who lays the smackdown on all the Atlanteans & lays waste to Atlantis
+http://www.vegas.com/attractions/on-the-strip/caesars-atlantis-fountain/
+
+I know it's free, but I feel like the Fall of Atlantis cheapens the "baller" atmosphere of Caesar's Forum Shops.  I mean, with Versace, Dolce & Gabbana, Louis Vuitton and Ferragamo attracting the rich clientele, you'd think there would be something more worthy of the demographic?  To me, the best part of the Fall of Atlantis is the large aquarium, with rays, puffers and other assorted marine creatures.  Of course, I grew up on Jacques Cousteau, so I'll always be partial to the sea ;p
+
+Fall of Atlantis shows at the top of the hour, every hour, starting at 11am.  
+
+I suppose if you were slurring your speech & crap-faced drunk, this show would be more entertaining.  All in all, I say let the tourists watch this lame spectacle of out-dated robotics & head over to something more worthy of your time, like the Bellagio fountains or one of the buffets.
+-------------------
+similarity summation: 2.8206707630860124
+actual Rating: 57
+===================
+
+
+While I was in Vegas and bored outta my mind, I called my "friend" Chris who moved to Vegas a few years ago so we could "chat".
+
+I was staying at the Cosmo so I told him to meet me at the Vesper Bar so we could have a drink and he could possibly slip me a quaalude *kidding*
+
+People watching here is amazing.  The bar area is pretty much empty most of the time, but there are so many people moving past from the hotel.  All kinds of walks of life, from everywhere.  
+
+The drinks all have interesting names and even more interesting ingredients.  Drinks are average prices, anywhere from 10-15 bucks, but they're worth it.  The bartenders are nice, and easy on the eyes.  
+
+If you happened to see an Asian guy making out with a tall white guy...That was probably me...God I'm such a slut, at least Chris cured my case of boredom.
+-------------------
+similarity summation: 2.83262434267013
+actual Rating: 45
+===================
+
+
+The newest kid on the strip is still the sexiest!
+
+Yup, as soon as you walk into the lobby, you are invited in with the allure of large glass columns with ever changing themes. Chic mirrors and chandeliers dripping with crystals from the ceiling and everything around you just seems to sparkle with a sleek, sexy flare that is all Vegas. 
+
+I checked in for the July 4th weekend and got up sold by a very aggressive front desk clerk that insisted on getting me into the penthouse.  I settled for a 910sq. ft. angle suite on the 58th floor with additional Japanese soaking tub, terrace with a view of the Bellagio fountains, kitchenette with fridge & microwave and an additional full sized bath with shower. Not too shabby.   
+
+The room I must say was very spacious, the view off the expansive terrace was breathtaking and i used the soaking tub practically every night after the clubs so it worked out great!
+
+My only complaint was with housekeeping.  There's a circular red paper note you're supposed to leave on the bed to have your linens changed, which i did but every night i came back to the room, my sheets were done but not changed! It was ridonkulous! Even the dirty pillow that had some sketchy black skid mark smeared on it (that i never used from day one) remained in my room til the last day i was there....nuts!
+
+Perhaps all the smoke and mirrors at the entrance lobby had me blinded by the hotel's sexy charm but with all due respect, my stay was very enjoyable and despite the minor flaws, I had a fantastic time... 
+
+With that said, the hotel was conveniently located in the heart of the strip. It's steps away from the Bellagio, Planet Hollywood and Paris...and the Sahra Spa, brunch and pool were very enjoyable...and partying at the Marquee & Bond was priceless!
+
+
+Happy Times!
+-------------------
+similarity summation: 2.834692096919033
+actual Rating: 48
+===================
+
+
+Completely and utterly RIDICULOUS.
+
+We came here for - surprise, surprise - a bachelorette party, but in stark contrast to the other partygoers, we were completely sober.  
+
+Which ensured that I can reiterate with absolute confidence: completely and utterly RIDICULOUS.
+
+The show started with a very loud montage of shows that these guys have been on - the View, Oprah, Jennifer Love Hewitt talking *about* them on Jay Leno.  It was essentially an extended commercial for something that we were already there for.  Then the guys came out and did a group dance that looked more like an aerobics routine than the HAWTEST ALL-MALE REVUE IN THE WORLD.  
+
+This is how it went:
+
+1.  Group dance: aerobics, aerobics, aerobics...FLASH CHEST! (crowd screams)...aerobics, aerobics, aerobics...FLASH ABS! (crowd screams)...aerobics, aerobics, aerobics...FLASH CHEST AGAIN! (crowd screams).  Guys go amongst the crowd (crowd screams).
+
+2.  Individual dance: guy comes out, does aerobics, comes out into the crowd to find a cute veiled bachelorette to join him onstage.  Said bachelorette accepts lapdance, fondles chest and ass, gets a hug, and goes back to her seat.  Dancer does more aerobics then returns backstage.
+
+Repeat steps 1 and 2 ad nauseum, then end show with step 1 again.
+
+We were hoping for a lot of ass, maybe a glimpse of the package, but all we got was a lot of aerobics performed by men with too many clothes on.  Seriously, when they took off a pair of pants, (SURPRISE!) there was ANOTHER pair of pants on underneath.  When they took off the boxer briefs, (SURPRISE!) there was a g string on underneath.  They would have lasted freaking forever in a game of strip poker.  
+
+I'm giving them an extra star for the sheer amusement they gave me (I laughed A LOT during this show), and because one of the guys shook my hand at the end.  Oh, and for all the Guns 'N Roses and Bon Jovi.  But really, why do women have to sit through all this crap when female strippers get right to the point and go straight for the pole?  
+
+Hey Mick Dundee, dispose of the cheese and just show me your damn goods.
+-------------------
+similarity summation: 2.8352547307143285
+actual Rating: 54
+===================
+
+
+Up until this past week it's been about four years since I've been to Corleone's. My wife ordered a chicken sandwich which she loved. So that was a major hurdle to satisfy the picky eater in the family.
+
+ I had the sausage, greenpeppers and onions with the marinara sauce. Since I've been minimizing my consumption of bread lately, I just ate everything except the bun. The presentation of the meal is pretty impressive when you look at two large buns filled with stuff. But when you get into the meat of the meal you find that there's a lot more bun than meat. I have to say that I enjoyed the meal but thought the ratio of meat to bun was pretty weak.
+
+I say this place is Yelped correctly at 3 1/2 stars.
+-------------------
+similarity summation: 2.8355845435392375
+actual Rating: 45
+===================
+
+
+Three Birds left and pounds of Steel makes for good target practice! 
+
+The Pittsburgh Steelers have one of the best records in football history. They have won 5 out of 42 Super Bowls. Only 3 teams have won 5 and that is the Steelers, the Cowboys and the SF 49's. Seeing the Steelers are the only one of those three in the playoffs, they could break all records this year, by winning 6 Super Bowls. IF they go to the Super Bowl again this year, it will be their 7TH appearance.
+
+IF, is the biggest word in the English language. If my grandmother had 4 wheels, she would be a box car. 
+
+I was not thrilled when Bill Cowher left the Steelers, but I must say Mike Tomlin has done a fine job and we were blessed, to have had two great coaches. 
+
+I have been an avid collector of autographed sports memorabilia for many, many years. I have quite a lot of autographed Steelers merchandise, including a football jersey signed by the Steel Curtain. 
+
+I can't help but admire that more and more each week and think of how Mean Joe Green and LC Greenwood will be watching the games, with nerves of steel and how Ernie Holmes and Mad Dog Dwight White will be smiling down upon Big Ben, Willie Parker, Hines Ward, Troy Polamalu, Harrison, Holmes and the rest of the team. 
+
+This week the Steelers have home field advantage of a ridiculous time of 6:30 against the Ravens. The Ravens play hard and rough and my fingers are crossed that we beat them for a third time this year. 
+
+Everyone is thinking of how great it would be to have a PA. Super Bowl. I went to Heinz Field for the 2004 Eagles/Steelers game. I drove from Philadelphia along with Eagles Fans galore. We won and it was an awesome ride home. 
+
+GO STEELERS!! You rock my world! Give me one for the other hand!
+-------------------
+similarity summation: 2.879244267443947
+actual Rating: 52
+===================
+
+
+"What would you do if I sang out of tune?
+Would you stand up and walk out on me?
+Lend me your ears and I'll sing you a song,
+And I'll try not to sing out of key."-"With A Little Help From My Friends", Beatles
+
+Beatles LOVE, with seating in the round, so not a bad seat in the house.  It's been showcased on the Strip for a long time now, and still draws the crowds nightly.
+http://www.yelp.com/biz_photos/cirque-du-soleil-the-beatles-love-las-vegas?select=z2BQr5kmAM5La12sRzvQSg#z2BQr5kmAM5La12sRzvQSg
+
+We used Tix4Tonight to score some primo seats for cheap.  There's a part of the act where a surpise is brought out to the audience and we happened to be the very last row to participate.  I won't spoil it, but it was fun!
+
+Pre-show, some clowns put on some comic relief by, literally, blowing smoke up people's arses.  Kinda creepy, kinda funny - it was great seeing people's reactions.
+
+The highlights of Beatles LOVE, for me, were the aerialist during "Lucy In The Sky With Diamonds" & the act featuring "Strawberry Fields Forever".  Very touching.  I didn't care much for the halfpipes and rollerbladers.  Oh, and the music is on blast!  I'm talking loud!  So, just be mindful of that, if you have sensitive hearing.
+
+Overall, a great show worth the money & time while in Vegas!  I highly recommend using Tix4Tonight for purchasing tickets the day before/day of.  Our seats were great & we saved a lot of money.  I'm generally not a Cirque du Soleil fan, but I highly enjoyed this eclectic & colorful show.
+-------------------
+similarity summation: 2.952314385797995
+actual Rating: 59
+===================
+
+
+"Thank you for calling Cox Communications. My name is Melika. How may I assist you today?"
+"Hello Melika. I'd like pay the minimum on our cable bill please."
+"OK sir. I would be happy to assist you with this today. May I please have your PIN."
+"I have no idea what our PIN is. I"m sorry. What other information may I give you."
+"The social security number for the primary customer."
+"Oh, well that's my partner and I'm not sure what it is. I have our address, phone number, our account number..."
+"Yes sir, well I do understand that you have that information, I will not be able to assist you."
+"OK Melika. Look honey. I'm trying to GIVE you money. I'm not changing my plan or even making fun of your dumb ass company yet. Just wanna GIVE you money."
+"Without your PIN or social security number I cannot tell you the minimum due but I can take a payment."
+"Oh. Well now we're getting somewhere. Melika. By the way, we're you named after a coffee maker? Great let's pay $165 like I did last month and see where that gets us."
+"Thank you sir for you payment. And, yes, I was named after a coffee maker. Thank you for choosing Cox Communications for all your media and digital needs. Have a nice day."
+Two days later. Our cable and internet is turned off. Because she could not tell me my minimum amount and I was short by $4.83. Our services were turned off. And I didn't "choose" Cox. It was forced on me like Catholicism and puberty. Cox? You suck!
+-------------------
+similarity summation: 2.9597084049455327
+actual Rating: 55
+===================
+
+
+2014 YELP 100 CHALLENGE - 60/100
+
+Pretty solid shopping mall in Vegas! One of the best ones I visited during my most recent trip. It's huge and actually feels like a real mall as opposed to some of the hotels who have a few shops (less than 20-30) and consist of stores that nobody would ever be interested in actually shopping at.
+
+At the front of the mall, there's a smaller area that consists of several floors with an awesome winding escalator. On the second (or third? I can't remember), it leads further back into a whole other section of the mall...which goes on for forever! So many stores! They range from normal/average, to high end and luxury brands. There are also lots of restaurants and cafes located in the mall.
+
+The one reason why I don't give it 5 stars is because I felt like I was getting kind of confused as to the layout of the mall. It's weird how there's the small-ish entryway area (reminds me of the big mall in San Francisco), and then on one floor it kinda just continues further and farther away from everything else. Also, the mall map directory was kind of confusing and I wasn't sure what direction to walk in.
+
+I would say this mall is comparable to the Venetian's, except slightly different architecture! Both very European.
+-------------------
+similarity summation: 2.993650097354206
+actual Rating: 44
+===================
+
+
+I was reading in my IBD yesterday that Zoe's Kitchen was going public today. So why not write a review.
+
+My first experience with Zoe's Kitchen was a couple of years ago at a CMYE at this location. I thought it was good but unfortunately too far from the house or work. Well, since the office moved nearby, I go here about once a week.
+
+I order the 2 Chicken Kabobs which comes with a Greek Salad, rice and a few very small pitas. I really enjoy this meal even though I think it's a bit too pricey. I saw a couple of dudes enjoying the Steak Kabobs the last time I was in there, so I'll probably order that next time.
+-------------------
+similarity summation: 3.005768703692805
+actual Rating: 47
+===================
+
+
+I really like this place because it has a lot of potential. One of the tweaks I would make is to get a decent honey mustard dipping sauce. Also, I thought calling out people's name in the restaurant with their food order was annoying. I guess I find that annoying because I was trying to get some reading in during the lunch break. I did like their ketchup dispenser. No more worrying about ketchup splattering on your shirt. Next time I'll have to take a picture of it.
+
+This was my first time in a Raising Cane so I decided to order the Caniac which consists of 6 chicken strips plus a bunch of crinkle fries and a soda for about $8 dollars. I thought you get a lot for your money. I enjoyed the chicken strips but they would have tasted much better with the honey mustard sauce.
+-------------------
+similarity summation: 3.0275907066542045
+actual Rating: 45
+===================
+
+
+In 24 hours...
+
+You are committed to getting your dinner, midnight snack, breakfast, lunch, afternoon snack, pre-dinner and dinner again.  Well, that was my original plan when I first heard about this deal but here's what really happened...
+
+8:11pm dinner - Caesars Palace's Bacchanal Buffet.  This is the hottest spot in town for buffets right now.  If you decide to dine here, there is a supplemental charge of $15 on top of what you already paid.  And it's for each time you decide to dine here within 24 hours. (Retail value $49.99)
+
+9:30am breakfast - Paris Le Village Buffet.  Such a darling place to dine at. (Retail value $20.99)
+
+3:30pm lunch - Flamingo Paradise Garden Buffet.  All the grannies and pappies dine here.  I believe they are locals.  But they have an amazing desert spread and the food was not too shabby. (Retail value $19.99)
+
+6:15pm dinner - Planet Hollywood The Spice Market Buffet.  We were still full from lunch but forced ourselves to sit and eat more crab and nibbled on everything else.  Since this was our last buffet stop, I made sure I enjoyed as much crab as I could squeeze into my already bloated belly. (Retail value $29.99)
+
+Did I get enough to eat?  Yes
+Did I get my money's worth?  You bet I did
+Was the supplemental charge at Caesars worth it?  Yes, it was
+Would I do this again?  Hell no!
+
+We planned our entire day around making it to these buffets and it added in some unnecessary stress.  I did it, I loved it, I won't be doing it again.  But for those of you who love to eat buffets, then this is seriously the best deal in town.  Go for it.
+
+Cost savings analysis!
+Paid $49.99 + $15 = $65
+Retail value $49.99 + $20.99 + $19.99 + $29.99 = $120.96
+-------------------------------------------------------------------------------
+SAVINGS!!!!  $55.96 
+
+OR
+
+$65/4 meals = $16.25 for each buffet (winning!)
+
+Just don't throw up afterwards, then you'll really get your values worth :)
+-------------------
+similarity summation: 3.0744842403582884
+actual Rating: 67
+===================
+
+
+"You never count your money,
+while you're sittin at the table.
+There'll be time enough for countin,
+when the dealing's done." - "The Gambler", Kenny Rogers
+
+Do you think you're a high roller?  Well, do ya, punk?
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#3fm-EVs3SBT7NHWxD_djXw
+
+High Roller, the world's largest observation wheel, is located at the rear of the LINQ, between the Quad & Jimmy Buffett's Margaritaville.
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#_9LTPN7u1YmKUJPOpuJtRA
+
+Air-conditoned pods slowly move from beginning to end in 30 mins
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#L0OSF4b_uWh6nIwiRJemMg
+
+Loading/unloading is on the move, with safety nets underneath to deter any unfortunate accidents. 
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#Nyt2U4sx7nHJRtbcMJ7BNg
+
+I'm glad we weren't packed like sardines.  TV's keep passengers abreast of how many feet high they are with some funky music to keep the party atmosphere going.
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#pAoz7D8Cd-KDUSRGbljfYg
+
+A view going up
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#tKKALBtgPx50nI_r8U_Ezw
+
+A view at the top
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#TsCGcB6yo0ge18MLx3njHQ
+
+Fountains of Bellagio, from a distance
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#nqQ_yN7wC1IPlvKUPnZJGA
+
+The ride was pretty smooth, with a little rocking near the top.  After about 10-15 mins, I was done & ready to go already.
+
+Celebrity sighting!  Levar Burton, of Roots/Reading Rainbow/Star Trek:The Next Generation fame, shooting a new episode of Reading Rainbow
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#jpsyHvgquUbaXlHVtH4BHw
+
+I'm glad I had the chance to ride the High Roller, but at $21.95 during the day & $36.95 at night, I find it to be too pricey for just a souped up ferris wheel.  I recommend the High Roller as something to take a pic of from a distance, with or w/o selfie.
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#bgzSv2jFMKPKDP3e1vu9Dw
+
+BTW, I have a free ticket voucher for the High Roller, which expires Dec. 30, 2014.  If you're interested, I'll trade it for dinner ;)
+-------------------
+similarity summation: 3.102637073483586
+actual Rating: 56
+===================
+
+
+"Where does my heart beat now?
+Where is the sound?
+That only echoes through the night."
+
+The French Canadian with pipes like an angel, the gifted Celine Dion.
+http://www.yelp.com/biz_photos/celine-las-vegas-2?select=qKgA_mxajVkBkSBtJRwkdQ#Kbvx9GtNiElinZ0HzpQ_Lw
+
+Celine looked absolutely stunning, captivating the Friday night audience with her melodic voice & touching lyrics.  I felt quite a few goosebumps as she sang hits such as-
+
+"But when you touch me like this,
+and when you hold me like that.
+I just have to admit,
+that it's all coming back to me."
+
+Our seats located in the rear orchestra had a great view of the stage, off center left.
+http://www.yelp.com/biz_photos/celine-las-vegas-2?select=qKgA_mxajVkBkSBtJRwkdQ#w6Yz3Dx-Wgzi0dRHERURxQ
+
+Celine did several covers of other artists' songs, but I would've preferred if she sang more of her music library.  She even performed 2 hologram duets, one of which was interestingly enough, with herself.  Can't say I didn't get the most Celine Dion for the dollar ;p
+
+"Cause I am your lady,
+and you are my man.
+Whenever you reach for me
+I'll do all that I can."
+
+Of course, the song that everyone anticipates, "My Heart Will Go On", lived up to all expectations & mesmerized the fortunate concert goers.  Towards the end of the song, Celine was surrounded by falling water that artistically cascaded down to make a magical experience, both audio & visual.  Think Fountains of Bellagio in reverse.
+
+Can't have a concert w/o merchandise
+http://www.yelp.com/biz_photos/celine-las-vegas-2?select=qKgA_mxajVkBkSBtJRwkdQ#84ZlgUYEgyq-PDy-eNr-YA
+
+A true showstopper & deserving of headlining the Colosseum at Caesar's Palace,  Celine Dion puts on an extravagant show that will pull the heartstrings & touch you to your very soul.  Her powerful voice wil captivate & strike you with awe as to how such strength can come from such a small frame.  A tremendous show that absolutely has to be experienced before her run is done.
+
+Highly recommend!
+-------------------
+similarity summation: 3.105491218896157
+actual Rating: 56
+===================
+
+
+My family and friends have been getting together for a few years here to grub. That will be happening no longer. The last 3 visits were terrible and the last visit specifically was not good. I'm sad about this because I really loved the food before, but now it's just not consistent. On this last visit we were the only customers in the restaurant yet it still took over an hour to receive our food and the food came out staggered. My niece only wanted Egg Drop Soup and they totally forgot to bring it to her and only did so after asking a 3rd time about it. When she finally got her soup it was like a bowl of gloppy gel. I loved the soup here before, so I have no idea what has happened, but it wasn't even edible. What I loved ordering here most, Strawberry Chicken, tasted awful. One thing that wasn't easy to ignore was the nasty smell inside. It smelled so badly of like sewage or something. Then at the end of the meal we noticed roaches on the floor! OMG I was so ready to leave. Drinks come in cans and refills aren't free. After loving this place for so long it's a major disappointment to see New China Cuisine go so downhill.
+-------------------
+similarity summation: 3.1359985393519487
+actual Rating: 49
+===================
+
+
+Ted's is a Phoenix original by way of Buffalo and has probably fed tens of thousands ASU students and teachers over the years.
+
+Ted's history is similar to that of other Hot Dog pioneers like Paul and Betty Pink, Nathan Handwerker, and Dick Portillo. All who started with just a Hot Dog cart, and grew their business into something very special. 
+
+But Ted's is the immigrant story of Theodore Spiro Liaros, who came to the US from Greece at the turn of the last century.  
+
+One of these days, someone will take the time to write the history of all the hard working Greeks who came here with just the shirt on their back, to start a restaurant or food business.
+
+But I digress, because you come to Ted's to enjoy the charcoal grilled hot dogs and hamburgers and all the friendly conversation on line. Ahh, and those charcoals are white hot (see photo), which makes their food oh so delicious.  
+
+They have Hot Dogs, Hamburgers, Brats, Italian Sausages, French Fries and home made beer batter like Onion Rings (photo), along with Milk Shakes and Malts.
+
+Ted's is really just great food, served simply. I can highly recommend those afore mentioned All Beef Hot Dogs, Sausage and Onion Rings. All the tube steaks are $3.79 and you can take home some of their special bottled mustard for $5.39 as I did.
+
+Enjoy!
+-------------------
+similarity summation: 3.1453701835980734
+actual Rating: 48
+===================
+
+
+The year: 2010.
+  
+The episode: "Phoenix."
+
+The Man: Adam Richman, himself.
+
+The Challenge: Chompie's "The Ultimate Slider Challenge."
+
+...12 Original Jewish Sliders: each one brisket-filled and gravy-drizzled, stacked as well with mini potato pancakes, Jack cheese, and onion strings.  Knock this 5-pound nemesis on its ass within 30 short minutes, and you rule the stoop, my friend!  Myself, I don't entertain delusions: I'm weak.  I didn't even consider the Challenge.  Instead, I ordered the Combo.  And after tearing through an incredibly tasty two, alongside a cup of Matzo Ball soup, I was full.  Adam, however, he Manned-up!  Sadly, though, after a hard-fought battle, he--as many have before him--ultimately threw in the towel. The Challenge, it seemed, proved too hefty.  Food had won.
+
+...However, if one, brave soul decides to accept this heaping challenge ($39.95) and conquers this plattered beast, it's free.  But not only that: upon winning, you will be forever immortalized on Chompie's "Hall of Fame" website (http://chompies.com/wall-of-fame/) and an "Ultimate Slider Challenge" T-shirt awaits you and your bragging self!! You bad!!  (By the way, there's no California representation on that website, zero, none, not one, nada...  Who'll step up?
+
+This having been my first time to Chompie's, I was truly impressed!  A Yelp check-in offer allowed for a free bagel from their awesome deli/bakery; our very cool server, Trudy, brought out a few, free cookie samples for this first-timer; and our just-as-cool host made lunch suggestions, which we ordered verbatim.  As promised, those Sliders were "deli-icious."  And the Matzo Ball and Chicken soup hit the spot.  But I couldn't leave...not yet.  As full as I was, I couldn't head back to CA without first trying the carrot cake, could I?  I mean, you don't blame me, right?
+
+So, "Man vs Food"...  That takes care of Phoenix: Alice Cooper'stown (http://www.yelp.com/biz/alice-cooperstown-phoenix?hrid=esDZwjuGZQlkpKrZAC_guQ), Los Reyes de la Torta (http://www.yelp.com/biz/los-reyes-de-la-torta-phoenix-2?hrid=nJiqRCfTtxs2bIoFrPdmkA), and now Chompie's.  On deck, LA.
+
+=]
+-------------------
+similarity summation: 3.1575880493202804
+actual Rating: 46
+===================
+
+
+I like Firehouse Subs for their premium tasty sandwiches, they're absolutely outstanding!  
+
+Recently I've found it somewhat harder to swallow their premium prices.
+
+Years ago, the late Clara Peller became famous for her TV commercial "Where's the Beef?", while complaining at a burger place called, "Home of the Big Bun".
+
+While Firehouse isn't that bad, they are close and Which Wich isn't too far behind either for the same reason.  I'm tired of trying to figure out who is giving out 3oz, or 4oz of deli meat on their subs.  
+
+What I truly enjoy is a creative, well made sandwich, that has er, some beef on it, or in Firehouse's case, some meat.  
+
+Quiznos went though bankruptcy, I believe because they forgot that consumers could see them weighing the meat on a scale, and then removing a slice or two when it was too much.
+
+Okay, here's my beef (pun intended).  A group of us came here for lunch and universally found our checks in the $11.00 range.  So that's a sandwich 12" long, meat, chips and a drink.  How much does a 1/4 lb of the most expensive deli meat cost at Fry's or AJ's?
+
+Sadly, we've found it easier just going to Jimmy Johns down on Chandler Boulevard, asking for double meat and paying $9.50 for the same setup.
+
+I give the manager of this location high marks for draining the liquid from the heated pastrami/corn beef NY Steamer after it came out of the oven.  I was in a Firehouse in Florida recently where they forgot to do this and the sandwich just a mushy mess.
+
+In summary, "Yes, I am a Fan" of Firehouse Subs, particularly for all the local Outreach they do for our Bravest. But I only hope they consider taking their thumb off the scale and put some real meat on those sandwiches. 
+
+Enjoy!
+-------------------
+similarity summation: 3.2536777451441834
+actual Rating: 47
+===================
+
+
+This is the first (hopefully last) show I've ever attended where the headliner lip-synced the majority of their performance.  I knew going in that would be the case, but it still bugged the crap out of me.  There are a ton of Yelp reviews that mention it.  Almost none of them care and joyously devour her show like it's all you can eat ice cream.
+  
+Just being in the same (albeit very large) room as Britney Spears, wafting in her aura and celebrity is where their satisfaction is.  She could have been brushing her teeth on stage for all they cared.  My wife argued that I would go see Red Sox designated hitter David "Big Papi" Ortiz if he did a Vegas lip-sync/dance show and it's nothing different than this.  She's right.  I totally would.    
+
+The scene was a sea of ladies dressed in club clothes, packs of gay men that knew the words to every song, Eurotrash, and significant others like myself that questioned whether the metal detectors at the entrance were for Britney's safety or to prevent a person like me from shooting/stabbing myself mid-show if she sang (ummm...performed?) a song like the inadvertent sex change anthem "I'm Not a Girl, Not Yet a Woman".  The energy in the venue was palpable when you combined all that with the $45 "Work Bitch" caps, the homemade costumes worn, and people pre-gaming big by double fisting their $12 cocktails.
+
+Of course I got a bunch of dudes a row up that refused to sit at any point during the show. Ballads, dance interludes, parts that she wasn't even in; they were all "Fuck it!  We're standing!  It's Britney, bitch!"  That meant we couldn't see anything unless we stood too!  So even when the majority of people were sitting during certain parts, I was still out of my seat which probably made me look like a really big fan of Miss Spears.  Puke.  I actually shelled dough out for this show so I'd be damned if I were to miss a wardrobe malfunction.  
+
+Songs were....stage was...dancers were....screw that!  Go read other reviews for that stuff.   I didn't cross this show off my bucket list, I crossed it off my fuckit list.
+-------------------
+similarity summation: 3.2738144687264836
+actual Rating: 54
+===================
+
+
+I have never written a review, but I feel compelled to write one for the Marquee. From my experience, the Marquee staff is clearly racist against black people, and therefore regardless of everything else deserve the lowest rating possible.
+
+I got a table with bottle service for my little brother's 21st birthday. Our group had 7 people. When the staff came to escort us to our table, they let the 5 people that were not black in, and then stopped the two black guys and asked them if they are with us. The guys were clearly with our group.
+
+Then we show ID's. The girl checking ID's checks everyone's ID, and then when it gets to one of the black guys, checks the ID for a good 15 minutes, while the rest of us wait, on the other side of the ID check. They bring an extra person to check this clearly valid driver's license from Florida, while they harass us for waiting for our friends to get in to be escorted to our table.
+
+After that we got into the club, and by the end of the night, both of the black guys were kicked out of the club, with an 'X' marked in permanent marker on their wrists so they can't get back in.  While I did not see what happened, I know everyone in that group. They are long time friends of my little brother's and they are some of the coolest, nicest people I know. They are not the kind of people that cause trouble in clubs.
+
+It is inconceivable to me that this was a series of unfortunate mistakes or coincidences. My friends were kicked out for being black and not dressing "white" enough. I expect we would have had less problems if they put on a white button-up shirt, suite and tie and tried to look extra friendly and smile extra big for the racist Marquee staff. I think the Marquee staff saw two black males and assumed they would cause trouble, so they gave them as much trouble as they could and ultimately kicked them out.
+
+This was our experience and we had bottle service. One can only imagine how the staff must treat black males they determine are "too black" that just want to come in and have a good time. I'll never go to this club again.
+-------------------
+similarity summation: 3.334268720604948
+actual Rating: 53
+===================
+
+
+We used these guys to cater street tacos for our daughter's 1yo birthday party.
+If you have an upcoming event and need awesome food and great service at a great price, use Taqueria Guadalajara.  These are legit street tacos.
+   Hector was my contact person, and he was very accomodating and professional. We ended up increasing the guest list significantly near the party, and it was no problem. 4 types of meat are included - went with carne asada, chicken, chorizo, and al pastor (pork). All four were good, but the consensus was that the al pastor was the best. 
+   David came out to our house and set up about an hour before food was to be served. He started grilling, and set out the vegetable bar, which was huge. There were pickled onions, carrots/jalapeno, some sort of slaw, lettuce, pico de gallo, onions, and green and red salsas. David was extremely courteous, and stayed to serve until the last person was done eating - in 100 degree heat outside. Cleanup was great, you wouldn't even know they were there. 
+  I gave 4 stars instead of 5 because David did leave a "Tips" box out on the table. My feeling is that at a catered party, it is the host's responsibility to tip for good service. Expecting the guests to tip is a little awkward. Just my opinion, but not a huge deal. 
+Would use them again in a heartbeat, as will many of my guests.
+-------------------
+similarity summation: 3.4523172748714246
+actual Rating: 44
+===================
+
+
+Right now they are open Tuesdays, Thursdays and Saturdays from 7 am - 12 pm. Admission is free if you are walking in, but $3 to drive in with your vehicle. There is parking right across from the entrance if you decide not to drive in. I grew up coming to this orchard for school field trips as well with family and friends. I love that this place is still here! The area is rich in history, which could take a whole review alone so, I recommend reading up on it sometime and maybe you will appreciate the area even more. They have such a huge orchard that depending on the time of season you come, you really need to dress accordingly especially if you plan on walking through. There is about 60 acres to explore. They have a stand at the entrance if you just want to grab some stuff already picked, or you can take your time exploring the orchard and pick what you like. They provide wagons for you to use.
+
+When I visited yesterday they were offering the following:
+Carrots - $1 per pound
+Beets - $1 per pound
+Cucumbers - $1 per pound
+Green Tomatoes - $1 per pound
+Apricots - $1 per pound
+Squash - $1 per pound
+Zucchini - $1 per pound
+Peaches - $1 per pound
+Honey - $7 for the honey bear and $20 for a quart
+Garlic - $2 for 3 bulbs or $10 for 3 pounds
+New Potatoes - $2 per bag
+Onions - $1 each
+Peanut Butter - $6 each
+Almond Butter - $8 each 
+
+I came specifically for a honey bear and some peanut butter. Both sell out fast and aren't always available. If you can get your hands on some, I recommend it! The honey is fresh and comes right from the orchard. The peanut butter us a huge hit in our house and doesn't last long. If you ever at the orchard when they are making fresh apple cider donuts you must try some! They are usually only a couple bucks and SO worth it! Sign up for their weekly newsletter and find out when they have available for harvest and what types of food items they might be cooking up.
+
+Pets aren't allowed for health reasons.
+-------------------
+similarity summation: 3.5043276151136147
+actual Rating: 44
+===================
+
+
+Lord knows how many businesses have come and gone at this address over the years like Underworld, Black Label, and Emergency Room etc.  Its transformation into Gyu-Kaku has been nothing short of amazing.  The ultra cool lit entrance begged the question...does Tron eat here?  Being seated while a female sung cover of Savage Garden's "Truly, Madly, Deeply" at 300 BPM's blared through the stereo made me think it possible if he were drunk.  
+
+We considered the course dinners priced at $55, $66 and $77 for a moment but saw a lot of filler that would have ended up untouched like cheese wontons, chicken cheese fondue, house salad, fried chicken (ok,ok, maybe one piece), calamari and S'mores.  Our initial server, Keiko, recommended we start with the spicy cabbage salad over the kim-chee.  Thankfully, we listened.  Crispy, spicy and dare I say refreshing?  It was a fine way to whet our appetite.        
+ 
+Standing out among with meats was the beef tongue and harami skirt steak.  Quality matched the price and both delivered on what decent yakiniku should be.  We also enjoyed the kalbi short rib and although the Angus beef ribs were a little too fatty for the wife, I happily devoured it.  The mushroom medley cooked in an unbeatable combination of soy sauce and butter was a nice side dish.  
+
+The only letdown was the "Spicy Kalbi Bibimbap".  They got the stone pot right but the rest of it?  It was as if it were made by a northern Swedish resident with no knowledge of Korean cuisine attempting to replicate it through hearsay.  I would have rather ordered the sliced duck breast, an atypical yakiniku offering, or dessert over this pointless filler.  
+
+Despite that, I know I'll be back and stick to grilling.  It's yet another welcome dining choice around Spring Mountain.  3.46729311238987 stars.
+-------------------
+similarity summation: 3.5219970341914992
+actual Rating: 52
+===================
+
+
+Surreal pool party experience. Vegas does it unlike anywhere else, and Wet Republic is no exception when it comes to getting WET!
+
+So you know what you're getting into:
+
+1) Getting tickets in advance substantially cuts down waiting time.
+2) Arriving early (before 1pm) does the same.
+3) Cabanas cost $1,500.
+4) There are lockers available to stow your stuff.
+5) The bar sells drinks in enormous lidded cups. Get these and you won't regret it when the splashing starts! Unless you like chlorine as part of your alcoholic mix.
+6) It is calm and beautiful when you arrive early and hardly anyone is there. It gets increasingly more chaotic and cramped up through peak pool time (~3pm).
+
+* * * Now, so you know what you're REALLY getting into: * * *
+
+Be prepared for a poppin' party. And when I say poppin', I mean POPPIN'. Super crowded, off the chain, dope beats, crazy splashing. Beach balls are constantly flying, some that may come your way and bonk you on the head while you are distracted, completely unaware. Good thing they're only beach balls! Then the huge inflated whales start coming out. These are much heavier than the beach balls and have more of an impact on your head. But everyone is too busy dancing and having fun to care. NOTE: You can't ride the whales. You can try, but it's impossible.
+
+By the time the headliner DJ (Steve Aoki) takes over, it becomes so rowdy both outside and inside the pool. Outside the pool, a large crowd is clamoring up by the DJ booth. Aoki sprays the crowd with champagne and even throws a large cake with white frosting at them. He is carried overhead by the crowd. Rafts and inflatable animals (flamingos, ducks, and monkeys) are deployed. It's a hot, hot mess on land!
+
+In the pool there is so much splashing that tidal waves are straight up rolling. One guy was so ecstatic to be in the pool that as he thrashed around, he brought his hand down (with his phone) hard onto my forearm. Thanks for the enormous bruise! Of course I didn't feel it until the next morning, probably because of the booze and adrenaline. Before I know it, 4 hours have passed and the drinks and music are still flowing. Wet Republic sure knows how to make it last!
+
+TIP: Be ready to party. Go hard or go home!
+
+DATE TIP: You can most certainly find a date here. Enormous margaritas + dancing in the water + people in swimsuits? Oh yeah, no doubt.
+-------------------
+similarity summation: 3.551733909939493
+actual Rating: 48
+===================
+
+
+I moved from a condo to a house 6 streets away but wanted to use movers to move the heavy furniture. I found the glowing reviews on Yelp and decided to give them a try.
+
+I called to schedule my move in date 5 days before my move and they were able to accomodate. The representative on the phone was very nice and knowledgable, explaining everything about the process and an estimated cost based on the size of my condo and number of furniture.
+
+They called a couple days before the move to affirm the date and time, and then the movers called an hour before the scheduled time to let me know their arrival time. The movers were all very professional, very nice, and very attentive. Any items they weren't unsure about where to place it, they asked before moving it in. They also moved a couple pieces of furniture around since I wasn't completely sure where I wanted everything to go.
+
+Finally, I decided that morning that I wanted to switch out the washer and dryer between the condo and the house. Without hesitation, they said they'd be happy to do that, so they swapped them out and hooked them up in the two places without any complaints.
+
+Given that I was only having them move my furniture and I moved all my "stuff" myself, I did think it took them quite a while to move everything, but that's because they wrapped all pieces of furniture in plastic wrap before loading them on the truck and were very careful with all my furntiure. I had an antique large bookcase that they successfuly moved without any wear or tear.
+
+If you're looking for a cheap and quick place to move your stuff, this is not the company for you. But if you have good quality furniture that needs gentle care in moving between two locations, I would definitely recommend them.
+-------------------
+similarity summation: 3.5581537656373587
+actual Rating: 85
+===================
+
+
+I gave away our card with 4 stamps at the end of the meal.  THAT'S how sure our group was that none of us would ever return.  
+
+This isn't sushi in the Japanese sense.  These are crazy freakin rolls/inventions that contain some raw fish in, on or around them.  Calling this Japanese is very misleading.  The typical roll on the menu sounds like this:
+
+"Tastes and smells like your bitchy ex-mother in law's 1st semester college sophomore roommate who did the whole lacrosse team on a dare and got Hepatitis C roll:  Baked inside out roll stuffed with eel, cream cheese, bbq sauce, avocado, super super super white tuna, chopped yellowtail and spicy tuna, shishito peppers, scallop, garlic and salmon on top with orgasm, yum yum, and fuck me in the ass sauce on the side."
+
+As you can see, they used the whole "I Love Sushi" concept and took it way over the top.  This could be a potentially fun dinner (as many Yelp reviews can attest) trying all the insanity but there were enough misses to warrant my negativity.  It wasn't fun, but it sure was funny.  
+
+- Sushi rice was off.  Slimy?  Low quality?  I don't know for sure since there was a lot of sauce.  I see a lot of reviews raving about sashimi though.
+  
+-Speaking of sauce...what's up with drenching sauce all over nigiri?  Several pieces of nigiri came with sauce on top as a default.  We actually had to request it without.  Freshness of the fish was ok.  None of us died afterwards.  
+
+-Pretty sure that was shrimp cocktail drenched in a soy sauce base and topped with scallion advertised as amaebi. 
+
+-1 order of green tea was not green but it might have been due to the lipstick contamination on the side of the cup.  The liquid was a very, very light brown.  The server claimed it was green tea despite my protest.  Magically, the next cup of tea was suddenly very green.  So that's where Dirk Arthur has been performing all this time!!
+
+- I didn't know uni came in so many colors.  The most suspect pieces were left on the plate.  The server didn't even question it.  She just took them away like she knew.
+
+- My native Japanese dinnermates found the tamago presentation to be hilarious.  A tamago house!
+
+At least the unagi was good.  Congratulations on well cooked eel!  Have a good life.
+-------------------
+similarity summation: 3.574719397056254
+actual Rating: 69
+===================
+
+
+Wynn wins in my book, as far as buffets go.
+
+I am not much of a gambler or a buffet person, but I come here to increase my odds of being a winner.
+
+Since buffets are almost always a quantity over quality compromise, this place is not for everyone.  I'd rather dine at Michael Mina's, where I can get a lobster pot pie and their Kobe beef with seared foie gras.
+
+My attitude is that I am not going to eat like a pig so that I can get my money's worth.  I simply enjoy their wide selection of food presented in a classy way and savor the beautiful experience.
+
+Certainly, you will see some diners, like Yelpers Cat C, Janice C, Flora C and Angelique Q, pigging out on the crab legs and prime ribs for a few hours.  
+
+I, on the other hand, love to sample a little of everything.  Think of the buffet as one HUGE INTERNATIONAL SAMPLER PLATTER, which includes salad, fried rice, shrimp cocktails, bacon, soup, Mexican food, crme brulee, crepe, fruits, dim sum, sushi, prime rib, king crab legs, fish, grilled meat, and gelato/ice cream.  Plus bottomless champagne!
+
+The fiddy-dollar meal is not going to break anyone's piggy bank, so don't overstuff yourself.  Save $12 for their brunch.
+
+If you are a buffet fanatic, this is your first choice destination.  Bellagio takes second place.  Third comes Rio.  
+
+The staff is very attentive and friendly.  Seating is comfortable, but there is a long line to get in during peak hours.
+
+Most importantly, the bathroom is close by.
+It is true that what happens in Vegas, stays in Vegas.
+So did my #2.  Wooooosssshhhh!
+
+I dedicate this review to Janice C.  She's half-Chinese.
+-------------------
+similarity summation: 3.6042945520020044
+actual Rating: 70
+===================
+
+
+"GO WEST, YOUNG MAN" 
+
+That was one of the first things to pop into my mind when I first heard about our much loved Frost Bites Shavery opening a possible new second location somewhere near Chinatown.  Now that FBS has opened at Seoul Plaza (where you can find: Raku, Monta Ramen, Big Wong, Japanese Curry Zen, Trattoria Nakamura-Ya, Kabuto and that awkward "massage" place where tourists leaves via taxi with a big grin on them faces) rebranded itself as SnowFlake Shavery, the famous partial quote by the American author Horace Greeley  about westward expansion and Manifest Destiny could be applied to our favorite shaved snow biz from Hendertucky.  +2 for just being soooo mucho more closer to the Westsiders. 
+
+For those that have not tried shaved snow from SFS before, it is not the shaved ice you might have tried before with colorful syrups poured over the coarse shaved ice.  It is a more refined icy treat with powder snow or frozen cotton candy-like melt-in-your-mouth experience.  Think shaved ice version 2.3, so to speak.  All made with 100% NATURAL INGREDIENTS, no artificial flavorings or syrups used (which is the reason why taro is not one of the available flavors - sadly artificial taro flavorings trumps all natural taro shaved ice made from real taro only).
+
+Ordering 101:
+
+Step 1:  Choose a size: Small, Large, Monster
+Step 2:  Choose a flavor:  From Vanilla, Cantaloupe to Green Tea and Black Sesame.
+Step 3:  Add a topping ($0.50 per selection):  Fresh fruits to candy and cereal.
+Step 4:  Top it off with a sauce (first one free, +$0.25 after that one):  Condensed Milk, Strawberry Condensed Milk, Chocolate and Caramel.
+
+If you are not sure, they also have helpful combos for you to pick from or help jump start your shaved snow creativity.  Although I have had Green Tea and Black Sesame Shaved Snow all by itself, and didn't think it needed any toppings or sauce. It is that good!
+
+Come and try it now that it is closer for everyone that does not live in Henderson.
+
+I think it is better than the ones I tried in SoCal and Taiwan (except the fresh mango from Taiwan is way better).
+
+Here are just a sampling of other real customer testimonials:
+
+Cathy C loves this place, because it is dessert sans guilt.
+Sandy K said it is so good it is like [frozen] crack.
+Norm K said Mango with coconut sounds good to me!
+Philip T thinks he like this more than frozen yogurt now.
+Roger T thinks Green Tea + Mochi + just a drizzle of Condensed Milk is dessert heaven.
+
+So what you be waitin' for? Come get some SnowFlake!
+
+Are you a wanna be competitive eater?  Member of a Greek fraternal organization looking for out of the box activities?  Do the Shaved Block Ice challenge!  Successful competitors earn the coolest bragging rights in town + extra(?)
+
+
+DISCLAIMER:  To harry I:  I am not a shill (I am deeply offended by being called that even if I had to first look it up in a dictionary).  And I am not a professional reviewer, but I will take that as a compliment.  And I believe in paying for the products and services from businesses (I want to review the customer service and experience that everyone gets), and writing a honest review of my personal experience.  If I happened to be passionate about it and write the review with flair, all the better.  Being new to Yelp you should read Yelp's Terms of Service, plus the site's Content Guidelines and Review Guidelines.  You can go back to tell your celebrity chef friend that if he is really passionate about the food he serves, he will not be using artificial powders. Is his product bad? NO.  But it is like comparing real orange juice (SnowFlake Shavery) to SunnyD (KSC).
+-------------------
+similarity summation: 3.860625207748611
+actual Rating: 46
+===================
+
+
+FINALLY!! I've been waiting for this location to open f-o-r-e-v-e-r! With the location on the Strip closing, it couldn't have come at a better time. Walking in I saw the usual lines for adobada, asada, etc. You have to pay attention to the signs so you know what line to get in. I only ever get adobada, so I usually go straight to that line and hubby usually goes straight to the asada line. Sometimes I do feel like an asada taco, so hubby just gets mine when he gets his and that saves time and my food from getting cold. This last visit the line wasn't bad at all and the place had a good amount of heads in it. I only waited maybe 5 minutes in the adobada line and hubby waited less than that in his line. The wait time will no doubt change depending on the day at time, but the wait is worth it. I had an "Adobada Taco" ($2) and an "Adobada Mulas" ($4, I requested mine to me made on flour tortillas) and they were both so good! I asked for them both with pineapple and the dude hooked me up with a fair amount. The adobada has such great flavor and is very addicting! The taste just keeps you wanting more. They do have seating inside, but I noticed they are working on the other part of the building, so maybe they will add more seating there?? That will be good for those who like to eat inside, but a lot of people, myself included, just eat at our cars. They offer a variety of meats including asada, adobada, lengua, sesos, buche, tripa, suadero and chorizo. You can get any of these meats in a taco, mulas, tostadas, vampiro, sopes and even over fries. This place is absolutely legit when it comes to tacos and I'll be a regular for sure!
+-------------------
+similarity summation: 3.8639918891838643
+actual Rating: 47
+===================
+
+
+Maybe ramen really is the new pizza!  It's kind of mind blowing how I was dying for just one legit ramen joint in Las Vegas only a few years back and now I could do a week straight without going to the same spot.  I'd also have to chug 500 gallons of water during said week but still....
+
+I was looking for a basic, no frills ramen and their "Tonkotsu Assari" fit that bill perfectly.  Our server also mentioned it was his favorite.  Assari consisted of pork broth, chashu, green onion, egg and bean sprouts, but the thick noodles were the clincher for me.  Most of Jinya's ramen offerings come with thin noodles which I am usually not down with although I didn't ask if they would substitute.  
+
+It's a good thing they put me at a corner table since I slurped my face off.  From top to bottom, it was solid through and through.  There is better chashu to be had in town, but this was still a nice bowl of satisfaction.  I'd also skip the salad (dressing was gross) plus gyoza add-on and opt for another tapas dish instead.  
+
+To my knowledge, Jinya is also the first and only spot in Vegas to do takoyaki the right way.  I've had so many awful versions of it since moving from Japan that I had given up hope.  I was delirious after my first bite!  The light crunch, generous chunks of octopus with its signature sauce, mayonnaise and dried bonito flakes put my taste buds on another planet.  It was a terrific dish that I will be having multiple times in the future.  Love that they're open until 3am!!  
+
+Good call with giving only the ladies the nice Toto toilet.  :P
+-------------------
+similarity summation: 3.92698697717163
+actual Rating: 55
+===================
+
+
+So long Pink's, hello The Wiener's Circle! I was sad to see Pink's go, but the location was never going to work with the jacked up prices and confusion with the names they gave the hot dogs compared to what they are actually called at the original location in California. So, The Wiener's Circle enters in its spot. Will it last? Time will tell! I must admit, I did watch the TV show they had on a while back and found the games they played with the customers (at night they curse at the customers and play crazy ass games... It's intended, expected to all customers and hilarious) funny. I was surprised they opened up in Vegas, but hey it saved me the trip to Chicago for the moment! The original location in Chicago has been in business for over 30 years.
+
+Looking over the menu board, I was surprised at how fair the prices were. The prices here range from about $2-$3 higher depending on the item compared to the Chicago menu. Being in a casino we can expect higher prices, but they weren't too outrageous. I ordered "Wieners in a Blanket" priced at $4.99 for 6. They are made fresh to order. I had my choice of sauce and chose honey mustard. That honey mustard had a real good flavor and paired nicely with the tasty blanketed wieners. They also come 12 to a order, but the 6 was good enough for me. Priced at $4.99 I also ordered "Cheddar Fries" and wow were they good! The fries are fresh cut and come 1 pound per order. The cheese they put on top was very good! Hubby and I split a "Char Polish" priced at $6.99 and came with mustard, relish, onions, pickle, tomato, celery salt and sport peppers. It was pretty good. Next time I would ask for a lighter char, but a decent hot dog with nice toppings. All the burgers and dogs come with those toppings unless you tell them to leave it off. They are happy to customize your order so just ask! If you are in a pinch for time you can phone your order ahead and just pick it up. Aside from lunch and dinner they also serve breakfast and offer Krispy Kreme doughnuts.
+-------------------
+similarity summation: 3.9634359139970243
+actual Rating: 47
+===================
+
+
+Pizzeria Bianco isn't just a restaurant, it's an institution.  Ever since I moved to the Valley of the Sun five years ago, I've watched peoples' eyes glaze over as they ramble on and on about how amazing the food is there; many argue that it serves up the best pizza in Phoenix (if not the country).  Why it took me so long to get there is a mystery but after going today, I can unequivocally say that the rumors are all true - it is fabulous!
+
+LOGISTICS: Nestled in the Southeast corner of Heritage Square near the Arizona Science Center, Pizzeria Bianco sits in a rather small brick building with an outdoor patio and charming little bar.  While the space restriction makes for a more intimate dining experience, I could easily see this place becoming swarmed with diners during peak hours; so perhaps coming before or after the main lunch/dinner rush would be a good idea for those who are patience-challenged or in a time crunch.  Park in the structure off of 5th and Monroe - the restaurant validates your ticket (I ended up paying $0 instead of the usual $12).  
+
+FOOD: Wow!  Just wow!  I ordered the Market Salad, which consisted of fresh local cantaloupe and honeydew melon, cucumbers, mint, red onions, and peppers served in a yogurt dressing; it was hands-down one of the most creative and refreshing salads I've ever had!  They serve their sodas in old fashioned glass bottles and bring freshly-baked bread with olive oil to your table - haven't had olive oil that good in ages!  If you can't decide on one pizza combo, they're great about doing halfsies.  I ordered a half Margherita, half Rosa (red onion, parmigiano reggiano, rosemary, and Arizona pistachios) pizza - both were sheer perfection!  Crust is heavenly, ingredients are beyond fresh, innovative toppings - who'dve thunk pistachios would taste so good on a pizza?!      
+
+SERVICE: Pizzeria Bianco runs like a well-oiled machine.  The service staff is amazing - both friendly and fast.  They greet every single guest who comes and goes - pretty impressive! 
+
+I don't really think you can go wrong here.  I came in skeptical but left a believer; somehow they worked their magic over on me - another happy Pizzeria Bianco customer.  A thousand flies can't be wrong!  ;)
+-------------------
+similarity summation: 3.976797895278434
+actual Rating: 96
+===================
+
+
+I had three thoughts running through my head as my wife and I were walking out.
+
+1. Outfuckingstanding!!
+2. I am having this, this and this next time.
+3. We better come back soon because popularity is inevitable and I am going to dread when I'll have to wait 30+ minutes for a table.  I'll do it though.  
+
+Eating at the bar was great since we were able to chat with Woosuk aka Ryan aka the owner throughout our meal.  He handles everything with Moko except for the cooking.  That's left to Chef Hong who is a goooooodddddaaaamn culinary wizard!!  That guy is a total one man show coming in at 10am daily to prep all their amazing stuff for dinner when doors open at 5pm.    
+
+Just discussing the effort and detail Hong goes into preparing plates like the delectable beef short rib (butchering the beef himself, select bones to cook with to enhance the flavor, 3+ hours of cooking etc) was inspiring.  A well presented dish, the beefy fattiness of the short rib accompanied by crispy garlic, gratin and amazing sauce was heavenly.    Christina Perri's "A Thousand Years" was playing while I savored it all and it seemed very fitting.  
+
+It's not often that an Asian restaurant includes a spoon for their table setting but Ryan is smart enough to know the sauce for not only the short rib but others like their "Black Bean Noodle" will/need/must be scooped up out of the bowl.  It sure looks a lot more elegant than sticking my face into it.  Genius!   
+
+They offer Berkshire pork belly cooked for either 10 or 30(!!!) hours.  Even though the 10 hour belly is tenderer, how could I pass up 20 more hours of cooking for $1 more?  It was like nothing I'd ever had before.  The soybean paste marinade with the kimchi crepe and their homemade black raspberry marinated salt (who does that???) was exceptional. 
+
+The grilled then chilled eggplant salad with micro greens and tomato was refreshing and flavorful.  We also got an order of the fried soy chicken wings which was like modern soul food with the unique breading and honey glaze.  There was absolutely nothing left but bones.  
+
+I entered Moko expecting a decent meal and left having an excellent one.  There's nothing quite like this in Vegas at the moment.  Go go go!!
+-------------------
+similarity summation: 4.006216257773127
+actual Rating: 69
+===================
+
+
+I'm a fan of Papa Murphy's. Some people are weird about buying pizza and sides that they have to bake at home, but that's just some people being weird. There is usually some type of deal going on and they send coupons in the mail, so with any type of deal it is really worth it considering what a frozen pizza costs and tastes like. You can call your order ahead or stop in and watch them make it fresh. You can choose lighter or extra sauce, cheese and toppings to customize the pizza to your liking. The employees inside this Papa Murphy's are friendly and helpful with going over specials, but when I went on grand opening day, the people there from Sunny 106.5 were very rude and didn't help represent Papa Murphy's well. I was actually relieved to find out it was the radio station being so rude and not the actual Papa Murphy's employees because it would have detoured me from going back. I did score a free pizza (the very last one, nice!) because they were giving out 100 free pizzas to customers that day. 
+
+They have pizzas of all shapes and sizes. They have the mini-murph pizza kit to take home so your kids can put together a pizza for themselves and then see their creation after it bakes. The pizzas also come in signature, pan, delite and stuffed crusts. Most of the pizzas bake at 425 and only take around 10 minutes aside from the stuffed pizza which takes around 25 minutes. The pan pizza is definitely good, but beware when cooking the pan pizza and keep your eye on it because there is butter or something at the bottom of that one and it can burn easy if you let it go too long and when you take the pan pizza out of the oven it's really hot, so let it stand for 5 minutes before slicing. The cheesy bread comes in regular and thicker sizes, both being equally delicious. With a coupon I usually pay about $6 or $7 for a pizza and adding 2 sides it's $6, not including the thicker cheesy bread. One thing I tried on my last visit that I hadn't before is the s'mores dessert pizza. Wow that thing was good! I preferred the s'mores pizza much more than the chocolate chip cookie dough they offer and it is a great price as one of the 2 sides you can pick. My hubby likes the cookie dough here, but I personally do not. If you are signed up for the e-club they usually send you a coupon for free cookie dough on your birthday. They also have pumpkin shaped pizzas at Halloween time and heart shaped pizzas for Valentine's Day, usually at a special price that I like to pick up. All in all this is a decent take-n-bake pizza spot.
+-------------------
+similarity summation: 4.0310835308951845
+actual Rating: 47
+===================
+
+
+So, my only question for La Grande Orange Pizzeria is...can I please live here?  Seriously, this place is GREAT!  There really is no formal division between the pizzeria and grocery parts of the store, so I'm going to talk about both.  Grocery-wise, the place carries a broad mix of classic candies, wines, cookbooks, tchotchkes that rotate seasonally (I've picked up some great holiday items here in years past), and grocery staples; they also have a cafe that serves up oatmeal, eggs (friends rave about the Commuter Sandwich), salads, sandwiches, and sushi rolls.  Word to the wise - bring some extra napkins because their bakery will make you drool!  Order up front at the counter, pick a seat, and then keep your ears perked for when they call your name.  Friendly staff, cool ambience - I always find myself Shazam-ing the music here!  ;)         
+
+As far as the pizza is concerned, the crust is insane!  It almost reminds me of really good sourdough bread, toasted and crispy, not too thin and not too thick.  All the ingredients are fresh and the pizza permutations creative.  They serve up your pie on a slab of wood - nice presentation!  Sadly, I am a creature of habit - once I find something that's to my liking, I latch on and order it every time I return for the rest of my life :/ At this particular establishment, these personal faves would be the Rocket Man Pizza (spicy red fresno chilies, broccolini, roasted red peppers, roasted garlic, and sun-dried tomatoes) and the Classic Chocolate Pudding - wow, just wow!  I make my poor husband drive all the way across town to come here - he always grumbles but in the end, admits that the place IS pretty delicious.  
+
+The only negative - and it definitely a BIG negative - is the parking situation.  La Grande Orange has the tinsiest micro parking lot known to man.  On a good day if the parking lot gods are smiling down on you, you just might find an open 20 minute parking spot (I haven't been impressed that they actually enforce the time restrictions).  But, if you go on their website under the 'Secret Parking' link (shhhh!), you will find a diagram depicting other parking options that are slightly farther away.
+
+So yeah, come check out La Grande Orange for some great pizza, brunch, baked goods, groceries...the list goes on.  One of my favorite places in Phoenix!
+-------------------
+similarity summation: 4.131074472278419
+actual Rating: 70
+===================
+
+
+I can safely say this was my first time even remotely being excited to eat Italian food on the strip.  Currently the hottest restaurant in the city, Giada is bringing in the masses nightly.  I thought 90 days ahead of my 7th wedding anniversary would be adequate lead time for a 7pm-ish dinner on a Tuesday, but we ended up with 9pm.  Not a big deal.  That meant more drinks at the bar!  I had a few tasty "Flash Gordon" cocktails that made me feel semi-invincible; the sensation was unfortunately fleeting as I felt like Ming the Merciless had pointed his stupid ring to my head in the AM.  
+
+If you do one thing above anything else with your time at Giada, my advice would be to wait for a premium table.  The hostess initially walked us to a less than favorable area with only a partial strip view.  Despite her warning that it could take half an hour or more for a better spot, we stayed strong and went back to the bar.  Luckily, she came back in less than 15 minutes and brought us to an excellent table with grand views of Bellagio and Caesars Palace.  
+
+Like Rod U. said in his excellent review, antipasti are where it's at.  If I could do it all over again, I would order more small plates of seafood, salumi, cheese, crostini, salumi, cheese, seafood and cheese.  The burrata was magnificent.  It was a creamy, mozzarella dream that tasted more heavenly as I got to the center.  Accompanying this glorious gift from cows with anything else more than olive oil, garnish and balsamic salt would have been offensive.  
+
+I had some serious doubts about the waiter's recommendation of the "Prosciutto San Daniele" since we recently had Carnevino's "Prosciutto di Parma Riserva", but that all went away when the first slice melted in my mouth.  As unimaginable to me as it could be, it was better than Batali's.  The waiter had tried Mario's as well and agreed. Not that he was biased or anything.....
+
+Another highlight was Giada's signature spaghetti with 2 large shrimp, lemon and basil.  She really loves her citrus as it's all over the menu.  It was wonderful!  The handmade pasta was superb and the light cream sauce at the bottom of the bowl was well worth sopping up with the shrimp.  I am a huge sucker for fresh pasta.
+
+Although the "Veal Chop Saltimbocca" was an impressive looking entre in size, I felt it was underwhelming and quite plain.  This wasn't the kind of place that had salt and pepper shakers at the table, but I would have reached for some.  The massive leftover we brought home will definitely be getting some seasonal treatment.  The sauce it came with took it nowhere.  I wished we had given the branzino a shot instead.  At least the asparagus it came with was outstanding.  The wood grill brought out a whole new dimension of flavor to the standard upscale restaurant vegetable.  
+
+The dessert cart they rolled out made final decisions tough but the strawberry tart, blackberry lime tiramisu and white coffee gelato (I'd bath in it) were great conclusions to an overall solid meal.  With dinner clocking in at almost 3 hours, Giada isn't a dinner before a show kind of place, this is the show.
+-------------------
+similarity summation: 4.341596654060714
+actual Rating: 67
+===================
+
+
+As they say, "time marches on".
+
+The original POMO was a very special pizzeria, that transported it's diners back to Italy. It was located further south along Scottsdale Road in the Borgata Shopping Center, next to Blanco's. Though small, it had an intimate feel where you could have an easy conversation with you server. 
+http://www.yelp.com/biz/pomo-pizzeria-napoletana-scottsdale-2#hrid:DP4ygw0P_5831sjXGX5ecA
+
+The "new" Pomo Cucina & Pizzeria feels like a concept restaurant, sort of like Fox's Olive & Ivy or North, which is not a bad thing. But gone is that old world Italian Grotto elegance and feel. I guess it's only fitting that it's in the former Blooms space. 
+
+Also gone is any mention of POMO's being a certified Napoletana pizzeria, from either APN (Associazione Pizzaiuoli Napoletani) or VPN (Verace Pizza Napoletana). But in truth, the pizzas are still very good and they now have a new, much larger wood fired brick oven. 
+
+The square footage feels three times larger. At times it seems like a dozen or so wait staff are rushing around, delivering pizzas to almost forty tables and that is just inside the restaurant. The outside space is equally large, with a heavy duty tarp covering the diners. I eyed at least two Culinary Managers on the floor keeping track of the staff and food. Nice!
+ 
+The three of us arrived around two o'clock on Black Friday. We were seated pretty quickly, with a good view of the pizza oven. I would highly recommend the location and view. The menu has been updated. And yes it may seem more expensive, given the pricier location near Gainey Ranch and the Hyatt Regency, but it's not. 
+http://www.pomopizzeria.com/pomo-scottsdale-menu.pdf. 
+
+I started out by ordering a Cappuccino ($4.00) which was as good as anything I've had at the green mermaid. It had a nice taste but lacked foam. My friends ordered a diet soft drink and a black ice tea, both $2.50. 
+
+Since we remembered how tasty the bruschetta was at the old POMO's we decided to start there. We had the Sorrentina for $7.95 (see photo), which was very good with a hint of garlic. 
+
+Next we decided to share two pizzas. One was their famous Regina Margherita.  It was as tasty and good (though somewhat smaller) as it's predecessor.  I've posted two pictures, a before and after if you will. It was priced at $12.95, same as before.  
+
+The other pizza was their Amatriciana, which comes with saut onions and tiny amount of diced panchetta. It too was very good and priced at $14.95. I believe the key to their delicious tasting pizzas, is the constant and watchful eye as they cook in an over 850 F oven. 
+
+A new addition not found in the old Restaurante, is a grab and go sandwich annex, called "Forno Fabbri, an Italian Market & Mozzarella Bar".  It's to the left as you come into Pomo Cucina and very similar in size and setup to the ones found in Olive and Ivy or the Herb Box. It's a major plus for a quick weekday lunch, one which I will try in the near future. 
+
+Our total for three came to $48.42, including taxes but before gratuities. It seemed fair and the food as I've mention is very good. So Four Stars and yes, we are a Fan of the new Pomo Cucina & Pizzeria. 
+
+Enjoy!
+-------------------
+similarity summation: 4.373083212587325
+actual Rating: 49
+===================
+
+
+WED, MARCH 27, 2013 // 12:00PM-2:00PM 
+                 PRICE FOR 2: $63.98 (TR price) + $5.18 (tax) + $10.84 (tip) = $80.00
+                 WAIT: 15-20mins
+                 SERVER: DAWN - (4/5). She looked frazzled but always made time to check up on us. Asked me if I wanted more Peachy Tea when I finished, refilled our waters, & brought us 2 carafes when we asked for coffee.
+
+FRI, MARCH 29, 2013 // 5:00PM-7:30PM
+                 PRICE FOR 2: $99.98 (TR price) + $8.10 (tax) + $16.42 (tip) = $124.50
+                 WAIT: 25-30mins
+                 SERVER: IRANDA - (1/5). We had to chase her down 3x, she ignored our table completely. When we asked for coffee, she brought us 1/2 empty cups (spilled coffee all over the saucers). VINCE (4/5), not our server, was friendly, paid closer attention & cleared our table multiple times.
+_________________________
+
+Bacchanal can be overwhelming since there are a LOT of dishes to choose from. Between Bacchanal & Wicked Spoon, if you only have time for one and care more about the selection - go to Bacchanal. (Save room for the CREPES!) 
+
+THINGS I CRAVE: 1.) Lasagna, 2.) Prime Rib, 3.) Crepes, 4.) Machaca, 5.) Posole.
+
+Personally, though, Wicked Spoon still wins in just a few minor areas: a few key dishes that are well executed, bone marrow at dinner, and smooth creamy gelato as opposed to the grainy ice cream at Bacchanal. It's also slightly less expensive, less crowded, and comes with much more consistently reliable service.
+
+CONSENSUS: Would try to make time for both on my next trip to Vegas - Bacchanal for lunch, Wicked Spoon for dinner.
+
+_________________________
+
+KEY:
+(-) Skip
+(+) Try
+(++) Love
+(D) Dinner
+
+No Symbol: 1.) never tried or 2.) feel indifferent
+_________________________
+
+::: [ SAMPLE OF THE SPREAD ] :::
+
+DID NOT SEE: Foie gras soup
+
+[ FRESH JUICES (Lunch) ]
+
+Orange
+Carrot
+Melon
+Tropical (-)
+Cucumber
+Tomato
+Grapefruit
+Watermelon (+)
+Apple
+
+
+[ ASIAN ]
+
+Mapo Tofu (+)
+Pork & Shrimp Fried Rice
+Vegetable Lo Mein
+Beef Broccoli
+Kung Pao Chicken
+Vietnamese Spring Roll
+Potstickers
+Xiao Long Bao (-) dry shell, no soup inside
+Leek Cake Dumpling
+Lotus Wrapped Sticky Rice
+Siu Mai (+)
+Char Siu Bao
+Hot & Sour Soup
+Congee w/Chinese Doughnuts
+Edamame
+Seaweed Salad (++) better than some of my fave SF sushi bars'
+Vietnamese Spring Roll
+Tuna Poke Salad (+)
+Salmon Poke
+Ebi Salad
+Spicy Fish (+)
+Orange Chicken
+Char Siu Pork
+Chinese BBQ
+Chinese Roasted Duck w/Hoisin Sauce (+) not comparable to Asia/SF, but tasty
+*SUSHI: Spicy Tuna Roll, Ebi, Shrimp Tempura Roll, California Roll
+*ASIAN SOUPS: Pho, Udon Noodle, Tonkatsu Ramen
+
+
+[ ITALIAN ] 
+
+Large Meatballs (+)
+Meatball Slider (+)
+Penne ala Vodka (+)
+Chicken Primavera w/Orecchiette & Pesto
+Baked Rigatoni w/Spicy Italian
+Baked Beef Lasagna w/Ricotta (++)
+Mozarella Pinwheel
+Garlic Knot
+*PIZZA: Four Cheese Pizza, Pepperoni
+
+
+[ MEXICAN ]
+
+Chiccharones (-)
+Machaca con Salsa (++)
+Carnitas con Salsa Mexicana (+)
+Chile Verde (+)
+Red Posole (+)
+Mexican Rice & Beans
+*TACOS TO ORDER: Carnitas, Al Pastor, Pollo, Carne Asada
+
+
+[ RANDOM SOUPS & BREAD ]
+
+Chili
+Clam Chowder
+"Baked" French Onion Soup
+Assorted Breads: 8+ kinds
+
+
+[ MEATS ]
+
+Chicken Sausage
+Spicy Sausage (+)
+Turkey Sausage
+Slow Roasted Prime Rib (++)
+Veal Steak
+KC Style Spare Ribs (D)
+Sliders w/Cheddar Cheese
+Fried Chicken
+Chicken Wings
+Waffle Fries
+Onion Rings
+Potato Tater Tots
+Sweet Potato Tater Tots
+Mashed Potatoes
+Classic Brown Gravy
+Baked Beans
+Carrots
+Corn on the Cob
+Broccoli & Cheddar Cheese Casserole (+)
+Mac & Cheese
+
+
+[ SEAFOOD ]
+
+Oyster Shooter
+Ceviche (+)
+Seafood Gazpacho
+Seafood Salad
+Lobster Corn Chowder (+)
+Clam Bake
+Mussels Meuniere
+Shrimp
+Grilled Salmon w/Arugula
+Crawfish
+Shrimp & Grits
+Cocktail Shrimp
+Green Lip Mussels
+Oysters
+Crab (D) (+)
+
+
+[ COLD FOODS, SALADS ]
+
+Pineapple Slices
+Watermelon Slices
+Greek Salad
+Seven Bean Salad
+Potato Salad
+Watermelon & Feta Salad
+Lechuga Orajona con Aguacate
+Artichoke, Asparagus & Radicchio Salad
+*COLD CUTS: 6 Types
+*CHEESES: 5 Types
+
+
+[ DESSERT ]
+
+Apple Pie
+Red Velvet Cake
+Tropical Cake
+Panna Cotta
+Tiramisu
+Chocolate Passion Fruit
+Baba
+Pecan Tart
+Chocolate Praline Slice
+Cheesecake
+Key Lime
+Creme Caramel (+)
+Vanilla Creme Brulee (++)
+Chocolate Chip Cookie
+Chocolate Creme Brulee
+Chocolate Covered Strawberry
+Chocolate Decadence Pops
+Chocolate Mousse Cone
+Gula Melaka (+)
+*SUGAR FREE: Vanilla Brulee, Cheesecake
+*CUPCAKES: Chocolate, Lemon Strawberry, Peanut Butter
+*CREPES: (++) DO NOT SKIP THIS. I recommend you open up the crepe after they pass you one, then using the Nutella sauce, banana foster, & cinnamon sugar before you close it back up. Then ask for a scoop of ice cream. ;-) The best crepes I've had in the US.
+
+
+[ DESSERT: ICE CREAM ]
+
+French Toast
+Fig Balsamic
+Red Bean
+Valhrona Chocolate
+Brown Butter Caramel
+Toasted Pistachio
+Thai Tea
+Strawberry Cheesecake
+Aztec Chocolate
+Espresso
+Sour Cherry
+Baklava
+Roasted Coconut
+Blood Orange
+Sticky Toffee
+Watermelon Mint Sorbet
+Mango Chile Lime Sorbet
+*MOCHI: 7 Types (++)
+
+OUT OF CHARACTERS
+-------------------
+similarity summation: 4.390231109477892
+actual Rating: 48
+===================
+
+
+2014 YELP 100 CHALLENGE - 52/100
+
+Stayed in this hotel with my bf for the first time a few weeks ago and absolutely LOVED IT!
+
+I had never heard of THEhotel at Mandalay Bay before. Apparently it's the nicer of the two towers at Mandalay Bay, and consists entirely of suite-style hotel rooms. 
+
+My bf had booked our stay about four months in advance through Expedia, and he only paid around $110 per night for a HUGE suite for the two of us! It was amazing and you definitely get a bang for your buck!
+
+Parking is free, as with most if not all of the hotels in Vegas. The parking garage is HUGE and has stairs, escalators, and elevators. There's also valet parking and a taxi drop off/pick up area.
+
+Check-in was quick and easy. Lines weren't long and it took us around 5 minutes.
+
+Decor/ambience is really great in this hotel. It doesn't really have a theme like a lot of the other hotels on the strip. It's just modern, classy, and trendy. I really liked it!
+
+Elevators were kinda confusing since depending on what floor you're on, you have a certain set of elevators you have to take. However, the elevators are AWESOME and INCREDIBLY fast! We stayed on the 20th floor and it only took a few seconds to get from our room down to the lobby and back!
+
+Our suite was AMAZING. There was a living room area that had a couch, desk, chairs, coffee table, and a huge television! There was also a guest bathroom located right by the door if you have people over. It's a 1/2 bath so just a sink and toilet, but still really awesome! There's also a mini-bar area, but make sure you don't touch any of the items there because they are monitored with a weight system, and you are automatically charged for anything you pick up. 
+
+The bedroom area of our room was really nice. We had an incredible king sized bed with a HUGE wall unit that had a TV in the middle, and his and hers closets on either side of it. The closets even had lights inside to see your clothes, and robes, slippers, hangers, etc.!
+
+Our main bathroom was HUGE! It came with two sinks, toilet, a big shower, and a ginormous bathtub that could fit like 3 people in it. My college dorm room was honestly smaller than this bathroom...it was crazy!
+
+The Cirque du Soleil Michael Jackson show plays at THEhotel at Mandalay Bay. We didn't watch it, but we plan on watching it during one of our future visits! 
+
+The MIX Lounge at the top of the hotel is supposed to be da bomb. We didn't end up going up there but we saw a ton of people waiting in line to go up.
+
+The ONLY things I didn't love about THEhotel were:
+
+1) LACK OF WIFI IN ROOMS. I think they only had ethernet but that is useless when you only have your smart phone and iPad with you.
+
+2) NO REFRIGERATOR IN SUITE. The bf tried to create a makeshift refrigerator with our ice bucket. Didn't really work...
+
+3) LOCATION. That it's on the far south end of the strip. Like literally the last hotel. Fortunately we drove to Vegas so we used our car to drive further up the strip, but if you don't have a car I can imagine it being a huge issue. It's quite a long walk from THEhotel towards the middle/north end of the strip.
+
+I would definitely stay at THEhotel again and highly recommend it! 5 stars!
+-------------------
+similarity summation: 4.393179082273596
+actual Rating: 56
+===================
+
+
+Thomas Keller is known for being a freakin' genius and since French Laundry is super expensive, Bouchon is a more cost-effective way to taste Chef Keller's masterpieces. 
+
+So, I dragged 17 of my closest relatives here to experience one helluva breakfast! Many in my family, by the way, think IHOP is the best breakfast place on earth...*groan* *eyes roll* I hoped this place would give them an eye-opening, revelatory, perspective-altering dining experience!
+
+FOOD (And yes, I sampled ALL these dishes):
+Moules au Safran et a la Moutarde ($25.50) - WHOA. Mussels and fries for breakfast??? Oh hell yeah! I HAD to try it! Fries were cooked and salted perfectly. Tiny mussels steamed in white wine, mustard, and saffron...so tasty, so fresh! After the mussels were devoured, I wanted to grab the egg-shaped metal bowl and gulp down the remaining liquid. The white wine in that liquid was so distinct! Don't worry, I didn't lose my composure, I subtly used my spoon to enjoy the leftover yumminess.
+
+Breakfast Americaine ($22) - This was served with two eggs any style, bacon, sausage, and toasted brioche. It also came with your choice of breakfast pastry, juice, and coffee. The most memorable thing about this dish was the surprisingly delicious strawberry croissant that didn't even look like a croissant. It was actually kind of ugly, but when I put a piece of it in my mouth...HOLY MOLY! I was surprised by how tasty it was! Warm, moist, sweet, with a hint of strawberry; soft and crunchy at the same time.
+
+Bouchon French Toast ($12) - Brilliantly executed! A French toast cylinder with layers of bread pudding, brioche, custard, and apples. So light! so sweet! So moist! So nice to look at, I almost didn't want to eat it!
+
+Gauffres ($12) - Waffles with fresh strawberries, sweetened with maple syrup and vanilla butter. Light, sweet, crunchy! Oh yesssss...
+
+Les Oeufs ($13) - Nothing impressive. The scrambled eggs and country sausage were decent. The toasted brioche was good after I covered it with the made-in-house strawberry jam. I am not a fan of fruit preserves, actually I hate them but this strawberry jam was excellent. The potato croquettes were alright. Christopher C said they were good with ketchup.
+
+Cinnamon Oatmeal w/Candied Orange Peel & Raspberry Puree ($7) - Bland but it was served in a cute little metal bowl. The raspberry puree was so subtle I could hardly tell it was there. And where was the candied orange peel? I couldn't see or taste it. The raspberries on top added a little flavor. It was a little better when we added the small cup of brown sugar that was included. We experimented and added some strawberry jam and oatmeal was way better!
+
+Pecan Sticky Bun ($4.25) - Oh myyyyyy! Topped with crunchy pecans, this bun is very sticky, very sweet, and very good!
+
+Hibiscus Champagne Cocktail ($12.50) - I ordered a mimosa but when they brought it, I saw this drink on the tray going to another table and I had to have one too! What a pretty cocktail! The hibiscus was fun to eat! When a person says no to this champagne, they say no to life!
+
+SERVICE:
+We had two waiters all to ourselves. We didn't wait too long for our drinks & food but they seemed to disappear after our food was served. It was hard to flag down our waitress when I wanted another champagne. Also, it took a while for my dad to get his coffee refilled.
+
+I was proud of my family for being adventurous and trying something other than Ihop or McDonald's for breakfast. Even though we didn't get stellar service, they enjoyed their breakfast here. I sure LOVED it! After eating top quality food at this restaurant, I would love to eat at French Laundry. Hmmm...I might have to wait to win the lottery.
+-------------------
+similarity summation: 4.415820753702432
+actual Rating: 51
+===================
+
+
+I'm the first real person to review this place, let all other fake spammers be gone!  Yelp should really work that shizzle out.  Zack S...um this place closes at 11 so you couldn't have possibly hit the bar...so yeah if your gonna post fake reviews at least check your facts..
+
+This place has so much potential, yet the ridiculously bad service just overshadowed everything good they did.
+
+This is probably the worst service I have ever received in my life.  
+
+Do you guys remember in Pretty Woman when Julia Roberts goes into the first store on Rodeo and the snooty lady acts like she's too good for this place?  Well that's what they did to us.
+
+Where's the hostess?  Oh she's chatting with her friend...*ignoring me*
+
+We finally get seated and then we sit and wait...
+
+and wait...
+
+and wait...
+
+finally I get up and ask one of the waiters at the cash register to send over someone...
+
+She treats us like we're a nuisance to her, she's singing along to the song that's playing...(WTF?)  I think they turned up the music louder as more people left because by the time it was near closing time it was blaring hip hop music...really weird considering it was a nice casual Italian restaurant.
+
+We order almost 200 bucks worth of food, and then she's like "is that it?"
+
+excuse me bitch...watch the attitude...
+
+Wait, wait, watch as all the waiters get together to talk about us...seriously I can see you whispering about us....this is so unprofessional right now....
+
+We seriously waited for like an hour and a half, it was ridiculous!  The place was practically empty!  The waiters were standing around and chatting with each other.  I took pictures as evidence!
+
+This place is supposed to be a nice place, for the prices they charge they should have a whole restaurant re-staffed because it was ridiculous!  I have never felt more uncomfortable and treated so rudely in my life!
+
+I also wanted to order take out for later and apparently they don't have take out boxes?  You're a restaurant?  You don't have boxes?  Seriously?
+
+This is the worst experience in a restaurant I have ever had.  I've gotten better service at Carls Jr in a shady neighborhood than this.  
+
+I won't hesitate to tell everyone to avoid this restaurant when you're in Vegas because this was outrageous!  No one treats me like that and gets away with it!  I wish I had a You've been yelped card so I could give them a piece of my mind.
+
+I'm like those crazy housewives who have nothing better to do...I won't stop calling to speak to management until someone is fired.  I'm serious, no one gets away with treating me like that without suffering repercussions.  We don't play that, I'm sorry I'm not one of those quiet asian people who take your shit...I will not be silenced... You best believe.  You're done..The end.
+
+
+*note I left for the manager*
+
+"This is probably the most unprofessional and ridiculous restaurant I have ever had the misfortune to experience, not just from the our waitress, but the waitstaff and blatant ignorance from most of the employees I had to encounter."
+                                                                   Anthony Nguyen
+-------------------
+similarity summation: 4.41757231078897
+actual Rating: 166
+===================
+
+
+HAPPY HOUR REVIEW:
+
+Imagine you had a long day. And you wanted to relax and indulge in something incredibly scrumptious, delectable, and sinfully good.  Well... Think Sow.  Salty Sow.
+
+We were over near the PV Mall and we decided, spur of the moment, to get something nearby. We thought of sushi and a few other places. But then we saw the three golden neon arrows pointing to the front door of the Salty Sow. 
+
+AMBIANCE/MOOD:
+The Salty Sow has that nouveau feel to it. The bar is off to the left as you enter, with a large kitchen straight in front of you. You see a lot of wood and interesting lighting (photos). But the feeling is very intimate. Even with other diners nearby, you cannot hear their conversations. The clientele is mixture of millennials and older, with a dozen or so sitting at both the bar and the dinning area. 
+
+MENU:
+Like most places in the Valley, the Happy Hour menu is a jumping off point for the  Dinner menu. When you are seated you are given both menus. There seems to be no pressure to order off of one or the other. The focus of the food is all things pork. So if you love bacon, then you have found your Nirvana in this life. LOL
+
+Almost all the items on the Happy Hour menu are $5,00 and you find things like: Triple Fried Duck Fat Fries, Truffled Deviled Eggs, Pork Belly Tacos and Braised Beef Tacos and much, much more
+
+SERVICE:
+Everything is relaxed and our server Holly was excellent.  Folks stop by and ask about your meal and dishes are bused quickly
+
+FOOD:
+Okay, the best thing we tried was the HH Fried Chicken that came with a honey glaze and a large sweet potato biscuit (photo).  Even here there was bacon on the underside of the chicken.  It was moist, flavorful and delicious!
+
+We also order two tacos which were equally good that came with a fried egg on top (photo).  But you must try the Duck Fat Fries, which were seasoned with herbs and salt.  It also comes with a poached egg yoke on top (photo).  Great stuff.
+
+PRICES:
+Everything at Happy Hour is $5.00 and it ends at 6:30 with the ringing of a cow bell.  Ahh, "we need more cow bells!"  LOL  Our bill came to $37.50 before taxes and gratuities, including two items to go and a soft drink ($2.50).
+
+Debbie Downer:
+Just before the check, we asked our server if we could order two items to go.  We also asked what the up-charge would be.  To our surprise, she said it would be the same price.
+
+As we were leaving, the Culinary Manager approached us and said: 
+"We normally don't allow people to order off the Happy Hour menu to go."  As I stamered to say we had checked first with our server, she said: "I'm going to let it go this time, but don't do it again."
+-------------------
+similarity summation: 4.519228072799626
+actual Rating: 58
+===================
+
+
+I stopped in here for dinner and wasn't disappointed. It's inside Doc Holliday's if you can really say that since it seems more of a next door neighbor to the bar. I figured I would be walking through the bar to get to Maribel's and you can, but the door I went into led me straight inside Maribel's. Hubby and I were greeted right away and told to sit wherever we wanted. Our server was excellent! She got our drink order and brought us some chips and salsa right away. I usually like chunky salsa and this salsa was thin, but it had a lot of good, fresh flavor and the chips were tasty. For $3.99 I ordered a side of Chips and Guacamole and my oh my was it so good! It was made fresh to order and had such great flavor. I'm very impressed at the price of the chips and guac considering it was fresh and the portion was good. If you are a fan of guacamole you must try it here at Maribel's! They have daily specials for just $5 that includes a drink. 
+
+Monday - Chicken Enchiladas 
+Tuesday - Carne Asada Tacos
+Wednesday - Fish Tacos
+Thursday - Carne Asada Burrito
+Friday - Chicken Sub
+Saturday - Shredded Beef Burrito
+Sunday - Hamburger or Cheeseburger
+
+I was there on a Tuesday, so I decided to go with the Carne Asada Tacos. You get 3 tacos, rice, beans and a drink. If you want flour tortillas you can also get that for no additional charge, but you get 2 tacos instead of 3 and our sever said they are bigger than the regular ones. Options are nice! The asada had good flavor and the tacos were filled nicely, especially for the price. The beans were good and the rice was even better. It's awesome that you can get quality food that tastes so good for $5 plus tax and leave stuffed. Inside was clean and they have TV's. I can't say enough about our server. She checked on us often and took the time to chit chat with us for a bit letting us know about other specials and I could tell she was genuinely passionate about the food being served here. They even take phone orders if you don't have time or want to eat inside. I saw several people picking up to-go orders. I don't live in the neighborhood that Maribel's is in, but when I am on this side of town, I will definitely be stopping by for some good grub!
+-------------------
+similarity summation: 4.570484722014339
+actual Rating: 49
+===================
+
+
+An award winning dining experience that will leave you sated and infinitely satisfied!
+
+As soon as we stepped inside the restaurant, we were immediately greeted by the restaurant manager who proceeded to lead us to our seats by the window. 
+Located inside the newly erected Augustus tower of Caesar's Palace, the restaurant embraced a contemporary elegance that was refined yet simple and unfussy.  With warm tones from the rich wood panels, ceilings that soared high up, and large glass paneled windows with a peek a boo view of the Bellagio fountains, the ambiance was nothing less than magnificent!
+  
+The sommelier was helpful and knowledgeable as he started us with some bubbly and as soon as I saw a bottle of vintage Krug, I knew I was in for a treat!
+
+The server was equally friendly and suggested The Chef's Signature Tasting Menu, which showcased the restaurant's acclaimed dishes.  Frankly, It goes without saying I went with the chef's signature tasting menu.  When in Rome, right folks?
+
+Amuse Bouches
+
+Foie gras with black truffle
+Crisp toastettes pierced together with creamy smooth foie gras and irresistible black truffle was a decadent play of flavors and textures in the mouth. 
+
+Parmesan waffle
+Light fragrant and perfectly crisp and a delightful start to a sumptuous meal.
+
+Cold zuchini soup with diced Radish & celery seed powder - very refreshing with a pleasant bite from the diced radishes
+
+Fingerling potatoes with cream cheese and ham and topped with watercress. A charming little surprise that came with the cold zucchini soup.  This accompaniment rounded out our amuse plates wonderfully but something was telling me it probably wasn't the last surprise of the evening!
+
+First Course
+
+Heirloom tomatoes wedges with watermelon and tomato gelee - refreshing and vibrant! the addition of the frozen tomato added just enough saltiness to the sweet heirloom tomatoes and the addition of the crisp basil was surprisingly delightful!
+
+Surprise #2 A tomato tartar topped with a pomegranate gelee and  basil drops was lightly flavorful and beautifully plated.
+
+2nd dish
+
+Colors of caviar - elegant and perfectly composed with layers of complex flavors and rich textures that paired beautifully with the champagne and meant to be savored slowly
+
+3rd dish
+
+Fish with ratatouille - Perfectly cooked, and the fish was imported from the southeast of France...Si Bon! Presented with its natural jus foam, the flesh was supple and soft to the touch with my fork. The ratatouille added the perfect amount of rustic flavor to this light yet incredibly flavorful fish
+
+4th dish
+Foie Gras - Considering its recent ban in California, I have found my new mecca for foie gras...Vegas baby! Served with a side of duck jus in a shot glass steeped in chopped fresh beets, green tea with crispy rice, the foie gras was absolute perfection. It was decadently rich and the orange zest cleansed the palate perfectly! Without a doubt, one of my favorite dishes of the evening!
+
+5th
+Black Truffle Soup - served with a warm buttery brioche that tasted like a flaky pastry. We were encouraged to dip the brioche into the velvety smooth soup. Infused with an incredibly rich depth of flavor imparted from the black truffle shavings and Parmesan flakes, this well composed soup was absolutely sublime and left my taste buds dancing long after i finished it!
+
+6th dish
+Filet mignon tenderloin with bone marrow was simply exquisite. The filet was insanely tender and very flavorful. The bone marrow that topped the filet was buttery soft and paired nicely with the filet. The shoulder cut of beef wrapped in delicate ribbons of carrot exhibited a briny flavor that added an earthy element to the dish, as well.
+
+Desserts
+
+Dessert Amuse Bouche - Apricot sorbet and with diced apricot. Tart, refreshing, and an excellent palate cleanser
+
+Coconut 6 ways - An splendid little dessert with an interesting mix of textures that made it a sheer joy to eat!
+
+Chocolate ganache with praline cream. Divine & a chocolate lover's dream come true!
+
+Everything ended with a citrusy sorbet with creme fraiche as a final palate cleanser...
+
+But our sweet journey didn't end there!  A large dessert cart was then rolled out for us to choose to our heart's content. We went with a variety of the server's tempting suggestions and then came the cheese cart! Seriously, the dinner lasted over 3 hours, but i hardly felt the time pass because i was enjoying myself so much!
+
+At the end of the meal, we were greeted by the chef and left with complementary muffins to enjoy the following morning.
+
+In short, the wait staff was kind courteous and very informative. Food was brought out at a very good pace and we never felt rushed or felt like we waited forever between dishes.
+
+I would highly recommend Guy Savoy for any special occasion. It will leave you with an unforgettable experience that you will cherish for years to come.
+
+Happy Eats!
+-------------------
+similarity summation: 4.582207696598767
+actual Rating: 47
+===================
+
+
+I went to Del's with my girlfriend on the night of the Restaurant Impossible relaunch, eager to see how the show transformed it. While hectic, the night was a lot of fun and the food was reasonably tasty. The menu was small (as is usual on relaunch night), but had plenty of good choices. There were some high points- the mozzarella sticks, garlic bread and biscotti. As for dinner, I had an average chicken cacciatore, while my girlfriend had chicken parmigiana that was crispy on the outside and moist on the inside. She was happy enough with it that she was looking forward to having it again.
+
+The servers were enthusiastic and accommodating, which was impressive considering everything they went through that day. As the night went on, we were both troubled when we overheard the owner complaining to regulars that the show had forced her to severely shrink her menu. She pledged to go back to the old menu once things were back to normal. I couldn't help but wonder why. After all, if you appear on Restaurant Impossible, isn't that a pretty glaring sign that something is wrong with your current menu?
+
+About three months later, we figured that it was time to go back with a couple of friends. As expected, the smaller menu was gone and the bloated original menu was back, plus a few of the Restaurant Impossible dishes. I was dumbfounded by the breadth of choices. In addition to the long list of entrees, Del's also offers pizza and 12 kinds of pasta that can be combined with 13 different sauces. I can't help but think that our meal would have been better if the menu was tightened up.
+
+We started with mozzarella sticks and garlic bread, the strongest parts of the meal. The mozzarella sticks were a tad overdone, but were still very tasty, especially with the accompanying tomato sauce. The strong garlic bread was a welcome change of pace from what often passes for garlic bread elsewhere. Unfortunately, my French onion soup was middling at best. In addition to being very sweet, it had an unappetizing layer of oil on top of the melted cheese. My girlfriend and buddies found their iceberg salads to be mediocre.
+
+The meal continued to go downhill with the entrees. I had gnocchi with butter and garlic sauce. The butter and garlic sauce was flavorful and strong, but the gnocchi were dense and slightly chewy. My girlfriend, pleased with her chicken parmigiana on our first visit, ordered it again and was severely disappointed. The chicken was buried in sauce. I tried it and agreed- the breading was a soggy mess, while the chicken was drier and tougher than on our first visit.
+
+The desserts that we saw floating around looked very good, but we were all far too stuffed from dinner to try anything. Del's portions are huge, which they charge accordingly for. As it is, I think the large portions are meant to counteract the middling quality of the food. Three out of the four of the people in our party had enough leftovers for another full meal.
+
+The restaurant itself is still bright and clean, just as it was on relaunch night. Service was well-paced, friendly, and honest. The food and menu need work, though. Cut out some of the dead weight on the menu and give the staff the opportunity to focus on creating better quality dishes. I'm sure Del's doesn't want to shake things up too much for fear of losing their regulars... but if they fail to change, they're never going to create any new regulars.
+-------------------
+similarity summation: 4.595734238259618
+actual Rating: 48
+===================
+
+
+Have you often wondered why so many middle-aged  Japanese people here in Las Vegas always tell you that they go to SUSHI ON RAINBOW for sushi instead of the multi-million dollar bankrolled sushi restaurants like Kabuto or Goyemon? Why do these former or current Japanese nationals prefer to eat at an older sushi bar that doesn't have fancy or exciting dcor? The answer is that SUSHI ON RAINBOW to MANY of us people of Japanese descent is actually a symbol of pride for our community. And, the owner is a very respected man to us Japanese-Americans.
+
+When I was a little kid in Southern California, I first heard about Shogo-san and the famous sushi restaurant in Newport Beach. Sushi just did not exist in the area. Everytime a sushi restaurant poped up, it would quickly go out of business. Remember that sushi, and the idea of eating raw fish was not accepted by the American mainstream back then. The sushi bar that Shogo worked at was the only sushi bar in the area that had made it. Japanese people would drive 50+ miles just to eat there. Shogo-San was one of the 1st generation sushi chefs, along with the famous Ichiro Mashita who came to America from Japan with a dream to one day popularize sushi in America. They had to endure so much hardships during those days, but like most Japanese and Asian-Americans during that era, they fought hard to find success in the land of opportunity. Today, there is a Sushi bar on every street due to their labor. So, when I found out that Shogo had purchased SUSHI ON RAINBOW from the original owner, I was ecstatic! A great legend of California Sushi was now here in Las Vegas! This was a dream come true. 
+
+Shogo-san has over 40 years of Sushi experience. During his youth in Kyushu, he was a very respected edo style sushi chef. Went through years of apprenticeship before he even get the opportunity to the touch the actual fish. Today, his years of experience really shows. Though the majority of his day revolves around making California Rolls for westerners, there is also a "secret menu" for those who appreciate real sushi. What I love is how every week they got something different. I've had an Edo Chirashizushi, Shinko, Engawa, a Uni-Ika mix, Maguro no Zuke, Yamaimo, and many other traditional Japanese dishes that aren't in any other J-restaurant in town. Every time I eat here I feel even more proud to have Japanese blood in my veins. 
+
+Unlike most sushi bars in LV, SUSHI ON RAINBOW get's all it's items from true Japanese and Japanese-American distributors. The fish is from a real Japanese seafood distributor(not a Korean distributor), that get's their fish from cold waters such as Canada, and Alaska. Fish from colder waters will have meat that has more of that fatty marbling that we enjoy so much. Even the Japanese ice creams(plum wine, green tea) come from a famous Japanese ice cream company in Torrance.  
+
+If you are a true sushi lover, the 1st thing you will notice is how Shogo's nigiri technique is unrealistically perfect compared to the other Sushi joints in town. Remember that he has had over 40 years experience. You will see immediately that even the chefs at Kabuto don't have his precision. And the funniest thing is that Shogo is very humble + modest and doesn't even brag about how great he is.
+
+There used to be a guy named Hiro-san who worked here who was also a former edomaezushi chef from Japan.  Holy crap, that guy was like the best chef I had ever seen. But, he retired a few months ago. That totally depressed the hell out of me. 
+
+Kyuu-chan is their new apprentice sushi chef. He is of Chinese descent but he makes a lot of Japanese chefs look like amateurs due to his amazing talent. Shogo is such a a hardcore Japanese man, that he made Kyuu learn how to speak Japanese to be a chef here. He also made the Latino cooks in the back learn Japanese, or they couldn't work. It's the coolest thing ever! There is so much old school Japanese discipline in this kitchen. But, Shogo himself is such a friendly and positive guy. You can talk to him for hours. And the coolest thing about him is that he knows everything about Japanese history and pop culture! I've had the most fascinating conversations with him.
+
+I love coming to SUSHI ON RAINBOW and showing my respect to these great Japanese heroes. Also, every time I come here it's like that scene in "Goodfellas" when Robert DeNiro walks into the club and everyone knows his name, they get him whatever he wants, and they even got a spot saved for him. I NEVER order here, all I say is "Omakase" and they take care of everything for me. 
+
+I've written 100s of Yelp reviews, but SUSHI ON RAINBOW is my absolute favorite restaurant in not just Las Vegas, but the whole world.
+-------------------
+similarity summation: 4.6232529686620785
+actual Rating: 46
+===================
+
+
+When I stopped in for dinner the other night, I was surprised to see this place still called Martinez Taco Bar. I came by about 2 months ago and the girl who took my order said they were using the name Martinez Taco Bar for now, but said they would be changing to "Aranda's Taco Shop" and gave me a business card and coupon for a free agua fresca upon their re-opening. I was hoping after 2 months they would have worked out necessary kinks and have the menu in better order. That's something they are still working on according to the girl who took my order this time. it's confusing though because the menus posted on yelp and the menu they have posted on their walls and the printed menus they have out all are different from from the items offered to the price of them. I wanted to try certain things and couldn't because they say they aren't Martinez Taco Bar anymore and are changing the menu around some. Why still use that name after all this time and still not have your menu together? Loco! 
+
+They have a large menu with basically the same thing over and over just in different sizes and maybe a couple different toppings. If you want a basic street taco those are $2 each and come with onions and cilantro. If you want a bit more on your taco and double the meat, the regular tacos are for you. The regular tacos were $3.75 and came with cheese, salsa, guacamole and double meat. They were out of guacamole on my first visit and so they gave me freshly sliced avocado instead and the same thing happened on this last visit. I don't know how they are out of guacamole again, but I have to admit that I really liked the sliced 'cado on my taco and wouldn't mind it that way each time. The street taco had decent flavor and for $2 is a great deal. There is a free salsa bar where you can dress your food as you wish or they have containers for you to fill up what you want if you are taking your order to-go. The price of the regular taco was steep, but it did taste good and I appreciated the amount of stuff inside it. I tried their Al Pastor and Carne Asada. The Al Pastor isn't the best in town, but it was OK as far as taste (a bit overcooked yet had a decent flavor) and something I'd order again if they weren't out of pineapple like they were on both my last visits. The asada was just OK for me, but my hubby did enjoy it. They weren't shy with filling up the asada tacos and that is a plus. There is a good size patio with tables and chairs outside. The food was good, but other kinks still seem to be holding them back in my opinion.
+
+Both visits the soda fountain was out of order. I feel like this place has something, but they certainly have kinks to work out. if they are changing names they should do it and they should have menus that are all the same. It's frustrating to order 3 different things and be told that they don't serve it anymore. Hopefully they will get it together because I'd like to see them succeed being a local family run business. 3.5 stars.
+-------------------
+similarity summation: 4.642639795866758
+actual Rating: 49
+===================
+
+
+When I was asked to dine at a AAA Five Diamond, Forbes Five Star, Three Michelin Star, Wine Spectator Grand Award and Chef of the Century's restaurant, the question wasn't IF...It was WHEN!
+
+My last night in Vegas marked the unforgettable occasion and as soon as I opened those shiny glass paned double doors, I knew I was in for a treat!  As I walked across the foyer into the main dining room,  I left the hustle and bustle of the frenzied casino behind me and I was instantly transported into a luxurious 1930's style French bistro with a huge crystal chandelier cascading above me. Honestly, this place was dripping with opulence!
+Truth be told, I do get a bit uncomfortable in fancy schmancy restaurants.  Perhaps it's the well pressed white table cloths or the half dozen stuffy staff serving my every whim, but this place was not like that at all.  The servers were warm, friendly and present without being overbearing, which was really nice!  Add to that the elegant yet inviting atmosphere and I was feeling like a king! A hungry one at that!    
+ 
+As soon as we were seated and handed our nicely bound menus, I instantly knew in my mind that I wanted to try the 16 course tasting menu.  Heck, you only live once, right? 
+
+Because we were in a festive mood, we decided on a bottle of bubbly and for me, a bottle of Veuve Clicquot fit the bill perfectly!
+
+Then came the famous bread cart in all its glory! Wow! It was a sight to see! There were more than a dozen breads to choose from to start the meal and i think we tried almost all of em!  Three magnificent breads, however, stood out from the pack.  Those being the buttery cheese brioche, savory bacon epi, and chewy cheese baguette.  
+
+Then, of course, came the food! Honestly, it was so beautifully plated there were times I simply felt it was a shame to eat it! But I got over that hurdle fairly quickly. 
+
+Now, I don't plan on boring you with the entire 16 course blow by blow, but I will focus on the dining highlights which made the evening extra special for me!
+
+Amuse Bouche "sangria emulsion" refreshingly light citrusy blood orange cream emulsion above a chilled jam in a whimsical dry ice bowl with small chunks of apples and berry sangria gelee.  Lip smacking tartness with a delightfully smooth & creamy finish! Excellent way to awaken the palate!  
+
+Trio of Caviar 
+Caviar with Asparagus - Although not the most interesting pairing of the evening, the flavors of the fresh green asparagus and salty caviar played well against each other. 
+Salmon Tartare with Shiso Sprouts and Caviar - The textures were delicate and the flavors were refined.  
+Daikon Cous Cous with Caviar - The thin delicate slivers of cool daikon wrapped around fluffy cous cous and topped with caviar was an exhilarating finish to an interesting play on Japanese cuisine.       
+
+Lobster - Topped with fragrant black truffle, the langoustine ravioli was magnificent! The grilled lobster was simple yet beautifully presented. Subtle flavors but hey it's lobster! Sometimes a good thing shouldn't be messed with! The smooth & creamy sea urchin fennel potato puree was inspiring and texturally inviting, as well.
+
+Chestnut Soup over Foie Gras Foam - Rich frothy and flavorful with savory bacon bits. The chunks of roasted chestnuts added a subtle sweetness to this warm and rustic soup. 
+
+Bone marrow - One of my personal favorites! The marrow was luscious, rich and supple in texture. It also exhibited the most irresistible aroma! The popcorn added a pleasant textural dimension to this delightful dish.
+
+Sea bass - Beautifully seared, this magnificent piece of fish came bathing in an irresistible butter sauce. The artichoke balanced the flavor profiles nicely. 
+
+Birthday Cake - As the evening came to a close, the staff came out with a cart embellished with lavish decorative baubles and a small sign that read "Happy Birthday" The accompanying birthday cake was extraordinary! Perched on a large black pedestal, it was absolutely majestic but all I could think of was digging into it!  To my surprise, it was a mango meringue ice cream cake and although we couldn't take it home with us, we did indulge in two large decadent slices and it was fantastic! Bravo to the dessert chef!
+
+If that wasn't enough we were given free reign of the mignardises (dessert cart) that had a vast selection of petit fors, small cookies and yes...macarons!
+
+They boxed up the cookies and gave us an additional box of marshmallow treats to take home with a copy of the menu and a nicely bound colored brochure documenting the magical evening.
+
+I'd have to say this was by far the most amazing dining experience
+of my life.  Would i do it again? Someday. 
+
+But for now, I'll just revel in the fine memories of an unforgettable evening that will leave my palate in infinite bliss!
+
+Happy "Birthday" Eats, Part Deux!!
+-------------------
+similarity summation: 4.7424702166489805
+actual Rating: 53
+===================
+
+
+First and foremost this is my first review and I cant believe how absolutely appalled I am.  But, here it goes.....So my wife and I are in town for a family emergency and decided to have lunch because we had a lil time on our hands. We drove past HAG on LV blvd and it caught my eye because of the name and I love a great burger. Upon entering I was excited and looking forward to it the place seems almost like a Hooters but for Burgers. The smock thing they have you wear when you come in is cool and gimmicky for the place but it didnt sit well with me to wear items that others have wore before but I figured hey WTH the waitress we had was very personable and  nice but was new. the prices were very high for such a simple menu. My wife ordered the smallest burger and fries and I was talked into the Quad bypass burger. with like 20 strips of bacon! I asked our waitress if the restaurant offered military discount as I often do when I am on a budget and travelling. She said "Let me ask" upon returning she said "No sorry" I was thanked her for asking. Either way I though it was a good time to have lunch with the wife and a new place so I was looking forward to the food regardless. At this point I was very excited and amused on the place and was talking to my wife about how this place should/would be a goldmine. They offered malt liquor (Strange in a restaurant)in a can I ordered a Tecate she a sugar Coke.
+Now for the twist of events..... Our food arrived in less than 10 minutes which is great but I was skeptical, The Burger was massive and looked so good but it was warm to the touch at best I had approx 3 bites and noticed the bacon looked as if had been microwaved from being cooked days ago and was the same a spaghetti in consistency-(Gross) The cheese was not melted, The fries looked like they were cooked in old oil due to the almost black color in nature. I tried my hardest to stomach this but I couldnt. I proceeded to flag down my waitress and ask her if this was old vice cooked to order at first she replied yes and then said something that made me raise an eyebrow, she began on informing me and my wife that she wouldnt doubt if the food was old because of the way the owner is. I asked her to elaborate and she said he is so cheap that he makes his staff count each napkin and plastic cup everyday in order to cut costs. She also informed me she almost walked out her second day on the job because of what he acts like in his day to day operations. She looked excited when I asked to speak to him about the quality and preparation of my food. When the Owner/manager Jon came to the table he sat down opposite from me and was very hostile. At this point I was pretty much amazed I would assume he would address my concerns in a professional and couteous manner vice an attempt at intimidation and apprehension. I said I would please like another burger due to the dissatisfaction of it not being fresh. He looks at myself and my wife and says' " In six years I have never comped a meal and it won't be today!!" I proceeded to inform him I simply wanted another burger and I am not looking for a comp. He then informed us that he would call the police if we didnt pay I said I would not pay for a burger like this especially one that i didnt touch. From his demeanor at this point I wanted to leave so i said look I will pay for my wifes and her drink and the beer i did not even drink but i will not pay for this quality of food.
+At this point I felt threatened and was basically being held against my own will. I said fine Please call the police. He proceeds to lean over and say, You know what " you started it when you asked for a discount" I was like "What"? He then says I cant stand the "F" ing military I was so appalled that he was addressing me like this in general and then he begins to say, I'm from Oxnard, Ca. and we used to beat the "S" out of filthy mexicans like you! At this point myself and my wife are in utter disbelief He leaves and the table next to me were also expressing there disgust in the food and as he saw us speaking with them he said to leave right now we were trespassing! As I leave I attempt to tip my waitress and he rips the money from my hand! My wife and I wait outside for the police THE WHOLE TIME WE are waiting quietly the owner is harrassing us going on a tirade about my race and my occupation being totally distasteful in front of my wife around 15 min later the show up (LVPD) I provide them ID and they are in absolute disbelief they resolve the issue after questioning and bottom line it does not matter the police officer said I had to pay I totally understand and uphold the law but requested that I receive what I pay for (At least I gave it away to a homeless man.
+BOTTOM LINE UP FRONT: 1. DO NOT GO THERE FOR QUALITY OR FRESHNESS  IT LOOKS GOOD BUT IS NOT 2. THE OWNER IS A DISGUSTING HUMAN BEING. 3.YOU ARE WARNED. PLEASE DONT BE ROBBED OR DEGRADED LIKE ME  GO ANYWHERE ELSE.
+-------------------
+similarity summation: 4.9024531583842075
+actual Rating: 62
+===================
+
+

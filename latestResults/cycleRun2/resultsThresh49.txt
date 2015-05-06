@@ -1,0 +1,721 @@
+number of useful votes in each quarter:
+first quarter: 577
+first quarter median: 69
+second quarter: 447
+second quarter median: 54
+third quarter: 462
+third quarter median: 66
+fourth quarter: 497
+fourth quarter median: 51
+The orange chicken is great. This place is always packed.
+-------------------
+similarity summation: 0.5305790837102466
+actual Rating: 64
+===================
+
+
+The best Brazilian food in Vegas. Family owned and run. Family recipes. Just like mama makes!!!!  And shes the one in the kitchen.  Heard about it all the way from CA. A must stop when in town!!!!
+-------------------
+similarity summation: 0.8669516890499076
+actual Rating: 56
+===================
+
+
+We recently moved to our new home in Las Vegas and called ABC Locksmith to change our locks. Ryan showed up promptly and changed the locks right there and then. Very professional company. I highly recommend their services.
+-------------------
+similarity summation: 1.0133650296785124
+actual Rating: 107
+===================
+
+
+Neiman Marcus meet Salvation Army. Salvation Army meet Neiman Marcus. Nice. 
+
+Wow. A vintage/thrift store that doesn't smell like my Aunt Helen's wig closet. No stench of mothballs, decaying bodies or stale smoke from an old pack of Capri Ultra Light Menthol 120s. 
+
+Organized. Well staffed. Well, staffed by people who are actually engaging and interested in you. Unlike SO many other similar shops in this area where you get a little bit of "OH, you are so lucky to peruse my crap" attitude. 
+
+Most importantly...great stuff. Vintage Italian dishware (think Fiesta with a Tuscan twist), Disney movie stills, framed, and selling for a mere Abraham and an entire case of well lit (much like myself at the time of shopping) Prada, Jimmy Choo and Minola Blanaks!! Just my luck! None in my size. 
+ 
+Flo. I love you! So glad you found another gig after Mel's. And for those who aren't a fan of Flo's. 
+
+KISS MY GRITS!
+-------------------
+similarity summation: 1.2610207845120087
+actual Rating: 52
+===================
+
+
+I used these guys 3 times so far...the first time I used them it was a hot summer day in August and I remember the owner had a sprained arm wrapped up in a sling. He was out there assisting his team moving furniture with one arm.  Creative moving defiantly exceeded my expectations.
+-------------------
+similarity summation: 1.2682866430958781
+actual Rating: 69
+===================
+
+
+If I could give 10 stars to Conrad, Robert and the team, they earned them! These guys were the greatest! I moved from Scottsdale to South Florida - a difficult move alone with two puppies. Conrad was creative and flexible, solved every challenge; he called me along the drive out, and every step of the way to my arrival. Robert was my "Guardian Angel" on the trip; He made it Fun! (well, as much fun as you can have moving). I so appreciate all the hard work, the integrity and genuine care that they took to get me to my new home. All the "stuff" made the trip in great sted!   Robert and Conrad are the best !!
+-------------------
+similarity summation: 1.4179766472881636
+actual Rating: 52
+===================
+
+
+This location is in Green Valley just off the 215 freeway.
+
+TOTAL meltdown in service. Slow and non apologetic about the service from the management. Wasn't just me, it was all tables and they keep filling em up no matter what. Was there 1 1/2 hours and couldn't even get dessert. CRAZY!
+
+Huge food portions, blah nothing to taste but presentation of the food was nice.
+
+Lack of leadership with excuses. Didn't really care too much about excuses as I'm the customer and went with an expectation of quality food and professional service.
+Neither was delivered on this visit.
+
+I may or may not go there again
+-------------------
+similarity summation: 1.4303657315685478
+actual Rating: 51
+===================
+
+
+They are killing dogs. Abusive. They should not be in business. They are running a tourture ring.Gabby Ugartte -Recently our dog, Shadow, stayed at Green Acres Boarding in Gilbert. When my mom picked him up he was covered in paint and what looked to be chemical burns. Along with a 106 degree fever. They didn't contact our family or the vet and refused to help with any bills despite the fact this was because of their negligence. I want as many people to know as possible that this place is a terrible place for your pets. Please please please help inform people about this place by sharing these pictures or just letting people know. I don't want any other pets lives to be put at risk.
+-------------------
+similarity summation: 1.5424675883421413
+actual Rating: 74
+===================
+
+
+My favorite part of Vegas - right here.
+
+Sure it's nice to walk around in the daytime, but it's better in the night. Why? Because that's when everything is completely lit up! Keep those cameras handy when you're walking around here. You can even take some pictures of certain areas of the strip when you're walking on the "overhead" crosswalks. It's not just the lights to enjoy, but also some of the free shows that are available, including Mirage's Volcano and Bellagio's Dancing Water Fountains.
+
+Be mindful of your surroundings when walking around, especially in the night. Sure it's touristy, but as what some other reviewers pointed out, there were some sketchy people hanging around (panhandlers, con artists, etc.). For this reason, I take away one star.
+
+Next time I'm in Vegas, I'll definitely be back here!
+-------------------
+similarity summation: 1.7651557668497009
+actual Rating: 52
+===================
+
+
+My favorite free attraction in Vegas.  Yes, even beating the street people giving out cards with naked women on them J/K ;p
+
+The Fountains of Bellagio are located in the heart of the Strip, where visitors can enjoy a beautiful display of water being shot high into the sky, in tune with music.  
+http://www.vegas.com/attractions/on-the-strip/bellagio-fountains/
+
+Strolling along the Strip, especially at night, it's a great sight to behold, whether with friends or your significant other.  Last time I was there, we saw the Fountains with Michael Jackson's "Billie Jean" playing.  Later on, on the way back to our hotel, we saw it again with Celine Dion's "My Heart Will Go On".  Such an extravagant spectacle for the senses!  There's just something about an oasis of moving water right before your eyes in the middle of the searing desert,  music tickling your tympanic membranes.  All for free!
+
+Great views from the front of Bellagio, or when dining at Mon Ami Gabi at Paris.  The show runs every 15-30 mins, with the start times depending upon the day.  
+
+You can't miss this attraction at the Strip, literally & figuratively.  I know when I'm in Vegas again, I'll certainly enjoy checking out the Fountains of Bellagio several times more.
+
+Highly recommmend!
+-------------------
+similarity summation: 1.767821373493653
+actual Rating: 60
+===================
+
+
+"What would you do if I sang out of tune?
+Would you stand up and walk out on me?
+Lend me your ears and I'll sing you a song,
+And I'll try not to sing out of key."-"With A Little Help From My Friends", Beatles
+
+Beatles LOVE, with seating in the round, so not a bad seat in the house.  It's been showcased on the Strip for a long time now, and still draws the crowds nightly.
+http://www.yelp.com/biz_photos/cirque-du-soleil-the-beatles-love-las-vegas?select=z2BQr5kmAM5La12sRzvQSg#z2BQr5kmAM5La12sRzvQSg
+
+We used Tix4Tonight to score some primo seats for cheap.  There's a part of the act where a surpise is brought out to the audience and we happened to be the very last row to participate.  I won't spoil it, but it was fun!
+
+Pre-show, some clowns put on some comic relief by, literally, blowing smoke up people's arses.  Kinda creepy, kinda funny - it was great seeing people's reactions.
+
+The highlights of Beatles LOVE, for me, were the aerialist during "Lucy In The Sky With Diamonds" & the act featuring "Strawberry Fields Forever".  Very touching.  I didn't care much for the halfpipes and rollerbladers.  Oh, and the music is on blast!  I'm talking loud!  So, just be mindful of that, if you have sensitive hearing.
+
+Overall, a great show worth the money & time while in Vegas!  I highly recommend using Tix4Tonight for purchasing tickets the day before/day of.  Our seats were great & we saved a lot of money.  I'm generally not a Cirque du Soleil fan, but I highly enjoyed this eclectic & colorful show.
+-------------------
+similarity summation: 1.7711879123904974
+actual Rating: 59
+===================
+
+
+Fukuburger, Fuku so good!
+
+Located inside FAME at the LINQ, Fukuburger offers innovative Asian-inspired burgers, fries and loco moco for those looking to tantalize the palate.
+http://www.yelp.com/biz_photos/fukuburger-las-vegas?select=Ecg4xdQxfeIFIsxmF6GQTA#k0iG_a95OyoEJpJz9Fumsg
+
+When I saw the Tamago burger ($7.99), I knew I had to have it.  I'm an egg slut from way back.
+http://www.yelp.com/biz_photos/fukuburger-las-vegas?select=Ecg4xdQxfeIFIsxmF6GQTA#gr4jTA0IVQkD2Pw7J-Qd9w
+Fuku-patty with furikake & teriyaki, finished with crispy onion rings & fried egg.  The first bite was like a rainbow shining down on me. Like Willy Wonka farted candy into the air.  Runny egg oozing over the delicious patty, the sweetness of the teriyaki married together with the crunch of the onion rings.  A fairly sized burger, I felt the pricepoint was a decent value, considering it is Vegas.  I relished each delicious bite.
+
+Service was okay.  It took a while for my burger to be cooked, but I know it's made fresh to order so I can't complain.  There is bar seating directly in front, with tables insided & outside FAME.
+
+Free jelly candy!
+http://www.yelp.com/biz_photos/fukuburger-las-vegas?select=Ecg4xdQxfeIFIsxmF6GQTA#DNzhAcLMgJFh-kOR8wLL_w
+
+Fukuburger, I'm a big fan!  The Tamago burger was the real deal & one of the highlights, of many, from my trip to Vegas.  I hope you come back to SoCal so I can satisfy my cravings for your Asian-inspired delectables again!
+
+Highly recommend!
+-------------------
+similarity summation: 1.7769564543832503
+actual Rating: 52
+===================
+
+
+Completely and utterly RIDICULOUS.
+
+We came here for - surprise, surprise - a bachelorette party, but in stark contrast to the other partygoers, we were completely sober.  
+
+Which ensured that I can reiterate with absolute confidence: completely and utterly RIDICULOUS.
+
+The show started with a very loud montage of shows that these guys have been on - the View, Oprah, Jennifer Love Hewitt talking *about* them on Jay Leno.  It was essentially an extended commercial for something that we were already there for.  Then the guys came out and did a group dance that looked more like an aerobics routine than the HAWTEST ALL-MALE REVUE IN THE WORLD.  
+
+This is how it went:
+
+1.  Group dance: aerobics, aerobics, aerobics...FLASH CHEST! (crowd screams)...aerobics, aerobics, aerobics...FLASH ABS! (crowd screams)...aerobics, aerobics, aerobics...FLASH CHEST AGAIN! (crowd screams).  Guys go amongst the crowd (crowd screams).
+
+2.  Individual dance: guy comes out, does aerobics, comes out into the crowd to find a cute veiled bachelorette to join him onstage.  Said bachelorette accepts lapdance, fondles chest and ass, gets a hug, and goes back to her seat.  Dancer does more aerobics then returns backstage.
+
+Repeat steps 1 and 2 ad nauseum, then end show with step 1 again.
+
+We were hoping for a lot of ass, maybe a glimpse of the package, but all we got was a lot of aerobics performed by men with too many clothes on.  Seriously, when they took off a pair of pants, (SURPRISE!) there was ANOTHER pair of pants on underneath.  When they took off the boxer briefs, (SURPRISE!) there was a g string on underneath.  They would have lasted freaking forever in a game of strip poker.  
+
+I'm giving them an extra star for the sheer amusement they gave me (I laughed A LOT during this show), and because one of the guys shook my hand at the end.  Oh, and for all the Guns 'N Roses and Bon Jovi.  But really, why do women have to sit through all this crap when female strippers get right to the point and go straight for the pole?  
+
+Hey Mick Dundee, dispose of the cheese and just show me your damn goods.
+-------------------
+similarity summation: 1.7831997931627201
+actual Rating: 54
+===================
+
+
+Three Birds left and pounds of Steel makes for good target practice! 
+
+The Pittsburgh Steelers have one of the best records in football history. They have won 5 out of 42 Super Bowls. Only 3 teams have won 5 and that is the Steelers, the Cowboys and the SF 49's. Seeing the Steelers are the only one of those three in the playoffs, they could break all records this year, by winning 6 Super Bowls. IF they go to the Super Bowl again this year, it will be their 7TH appearance.
+
+IF, is the biggest word in the English language. If my grandmother had 4 wheels, she would be a box car. 
+
+I was not thrilled when Bill Cowher left the Steelers, but I must say Mike Tomlin has done a fine job and we were blessed, to have had two great coaches. 
+
+I have been an avid collector of autographed sports memorabilia for many, many years. I have quite a lot of autographed Steelers merchandise, including a football jersey signed by the Steel Curtain. 
+
+I can't help but admire that more and more each week and think of how Mean Joe Green and LC Greenwood will be watching the games, with nerves of steel and how Ernie Holmes and Mad Dog Dwight White will be smiling down upon Big Ben, Willie Parker, Hines Ward, Troy Polamalu, Harrison, Holmes and the rest of the team. 
+
+This week the Steelers have home field advantage of a ridiculous time of 6:30 against the Ravens. The Ravens play hard and rough and my fingers are crossed that we beat them for a third time this year. 
+
+Everyone is thinking of how great it would be to have a PA. Super Bowl. I went to Heinz Field for the 2004 Eagles/Steelers game. I drove from Philadelphia along with Eagles Fans galore. We won and it was an awesome ride home. 
+
+GO STEELERS!! You rock my world! Give me one for the other hand!
+-------------------
+similarity summation: 1.8062828412173293
+actual Rating: 52
+===================
+
+
+"You never count your money,
+while you're sittin at the table.
+There'll be time enough for countin,
+when the dealing's done." - "The Gambler", Kenny Rogers
+
+Do you think you're a high roller?  Well, do ya, punk?
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#3fm-EVs3SBT7NHWxD_djXw
+
+High Roller, the world's largest observation wheel, is located at the rear of the LINQ, between the Quad & Jimmy Buffett's Margaritaville.
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#_9LTPN7u1YmKUJPOpuJtRA
+
+Air-conditoned pods slowly move from beginning to end in 30 mins
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#L0OSF4b_uWh6nIwiRJemMg
+
+Loading/unloading is on the move, with safety nets underneath to deter any unfortunate accidents. 
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#Nyt2U4sx7nHJRtbcMJ7BNg
+
+I'm glad we weren't packed like sardines.  TV's keep passengers abreast of how many feet high they are with some funky music to keep the party atmosphere going.
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#pAoz7D8Cd-KDUSRGbljfYg
+
+A view going up
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#tKKALBtgPx50nI_r8U_Ezw
+
+A view at the top
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#TsCGcB6yo0ge18MLx3njHQ
+
+Fountains of Bellagio, from a distance
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#nqQ_yN7wC1IPlvKUPnZJGA
+
+The ride was pretty smooth, with a little rocking near the top.  After about 10-15 mins, I was done & ready to go already.
+
+Celebrity sighting!  Levar Burton, of Roots/Reading Rainbow/Star Trek:The Next Generation fame, shooting a new episode of Reading Rainbow
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#jpsyHvgquUbaXlHVtH4BHw
+
+I'm glad I had the chance to ride the High Roller, but at $21.95 during the day & $36.95 at night, I find it to be too pricey for just a souped up ferris wheel.  I recommend the High Roller as something to take a pic of from a distance, with or w/o selfie.
+http://www.yelp.com/biz_photos/high-roller-las-vegas-2?select=kqAy-nV5PY-cN0jUdwc5WQ#bgzSv2jFMKPKDP3e1vu9Dw
+
+BTW, I have a free ticket voucher for the High Roller, which expires Dec. 30, 2014.  If you're interested, I'll trade it for dinner ;)
+-------------------
+similarity summation: 1.8253691502916307
+actual Rating: 56
+===================
+
+
+The grilling of food over an open flame is almost 125,000 years old.
+
+And, the Habit Burger story is an interesting one. http://www.habitburger.com/story/  Yet the charbroiling of hamburgers and chicken is a cooking technique that many fast food places have yet to master.  Until now that is. We came here this past Saturday and came away thinking, Wow.
+
+The menu is very familiar.  It will remind many of "In 'n Out" in it's simplicity and style of service.  Their Char-burger is $2.95 and the Double Char is $3.95. I don't know if you can order it animal style, but the burgers are delicious.  Yes, delicious.  It has that smokey char-boiled taste down to where you will want lick your fingers.
+
+Other grilled Habit Burger sandwiches include, Chicken for $5.75, Tri-Tip beef $6.25, as well as Veggie options and Albacore Tuna.  The Sides include French fries, Onion Rings, Sweet Potato Fries and a salad range in price from $1.85 to $2.65.  
+
+Besides a side of salad, Habit Burger also has six different Specialty Salads to choose from, ranging from a Garden for $3.95 to a Santa Barbara Chicken Cobb for $6.95.
+
+A couple of burgers, a side of sweet potato fries and a drink ran us $12.68, including tax.  Wow.  Less expensive than "SmashBurger", slightly more than "In 'n Out"; but a lot better tasting.  Nice.
+
+Enjoy!
+-------------------
+similarity summation: 1.8323578348619316
+actual Rating: 51
+===================
+
+
+Buh, whaddaya mean you don't have chocolate cactus? ;p
+
+Ethel M Chocolate Factory and Cactus Garden is a free & worthwile distraction when you want to be away from the Strip for awhile, but still close enough to head back to continue availing yourself of sinful debauchery and/or losing your entire savings account.  
+
+The Cactus Garden greets visitors as they arrive.  When I went, I admittedly wasn't a huge cactus fan.  I dunno - maybe it's the spines, maybe it's the phallic looking Saguaro cactus.  Cactus just wasn't my cup of tea.  Ethel M has an assortment of cacti on display, which I've read are adorned with lights during the Holiday season.  My horticultural buddy, who collects cacti, has given me various fruiting cacti like the Peruvian Apple cactus, which has made me appreciate the hardy & resourceful cactus.  If I were to go back, I would look at the garden with a more loving glance.
+
+The Chocolate Factory is a self-guided tour.  Visitors read the various displays on the voyage of a caocao bean into fancy packaging.  The highlight of course, free samples!  Halfway through the tour, visitors get their choice of sample - milk, dark or white chocolate.  I may have obtained a couple samples via a few well-timed out walkthroughs ;p  The tour ends in the chocolate shop, with the chocolates fetching a pretty hefty price.  Looking for more familiar choices?Then, on the left is.............
+
+M&M's World!  Purveyor of all things M&M.  Lots of cute lil knickknacks for the M&M lover.  I remember seeing a chess set, which is pretty dope.  It was interesting to see all the items available to buy, but nothing that I wanted to take home.  Now, if they had M&M colored nipple stickers, then M&M's World would be in business.  I'm Asian, so they'd be milk chocolate M&M's ;p
+BWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+
+Overall, a cool free place to check out while you're in Vegas.
+
+Recommend!
+-------------------
+similarity summation: 1.852600283715886
+actual Rating: 63
+===================
+
+
+In 24 hours...
+
+You are committed to getting your dinner, midnight snack, breakfast, lunch, afternoon snack, pre-dinner and dinner again.  Well, that was my original plan when I first heard about this deal but here's what really happened...
+
+8:11pm dinner - Caesars Palace's Bacchanal Buffet.  This is the hottest spot in town for buffets right now.  If you decide to dine here, there is a supplemental charge of $15 on top of what you already paid.  And it's for each time you decide to dine here within 24 hours. (Retail value $49.99)
+
+9:30am breakfast - Paris Le Village Buffet.  Such a darling place to dine at. (Retail value $20.99)
+
+3:30pm lunch - Flamingo Paradise Garden Buffet.  All the grannies and pappies dine here.  I believe they are locals.  But they have an amazing desert spread and the food was not too shabby. (Retail value $19.99)
+
+6:15pm dinner - Planet Hollywood The Spice Market Buffet.  We were still full from lunch but forced ourselves to sit and eat more crab and nibbled on everything else.  Since this was our last buffet stop, I made sure I enjoyed as much crab as I could squeeze into my already bloated belly. (Retail value $29.99)
+
+Did I get enough to eat?  Yes
+Did I get my money's worth?  You bet I did
+Was the supplemental charge at Caesars worth it?  Yes, it was
+Would I do this again?  Hell no!
+
+We planned our entire day around making it to these buffets and it added in some unnecessary stress.  I did it, I loved it, I won't be doing it again.  But for those of you who love to eat buffets, then this is seriously the best deal in town.  Go for it.
+
+Cost savings analysis!
+Paid $49.99 + $15 = $65
+Retail value $49.99 + $20.99 + $19.99 + $29.99 = $120.96
+-------------------------------------------------------------------------------
+SAVINGS!!!!  $55.96 
+
+OR
+
+$65/4 meals = $16.25 for each buffet (winning!)
+
+Just don't throw up afterwards, then you'll really get your values worth :)
+-------------------
+similarity summation: 1.8680438021308738
+actual Rating: 67
+===================
+
+
+"Thank you for calling Cox Communications. My name is Melika. How may I assist you today?"
+"Hello Melika. I'd like pay the minimum on our cable bill please."
+"OK sir. I would be happy to assist you with this today. May I please have your PIN."
+"I have no idea what our PIN is. I"m sorry. What other information may I give you."
+"The social security number for the primary customer."
+"Oh, well that's my partner and I'm not sure what it is. I have our address, phone number, our account number..."
+"Yes sir, well I do understand that you have that information, I will not be able to assist you."
+"OK Melika. Look honey. I'm trying to GIVE you money. I'm not changing my plan or even making fun of your dumb ass company yet. Just wanna GIVE you money."
+"Without your PIN or social security number I cannot tell you the minimum due but I can take a payment."
+"Oh. Well now we're getting somewhere. Melika. By the way, we're you named after a coffee maker? Great let's pay $165 like I did last month and see where that gets us."
+"Thank you sir for you payment. And, yes, I was named after a coffee maker. Thank you for choosing Cox Communications for all your media and digital needs. Have a nice day."
+Two days later. Our cable and internet is turned off. Because she could not tell me my minimum amount and I was short by $4.83. Our services were turned off. And I didn't "choose" Cox. It was forced on me like Catholicism and puberty. Cox? You suck!
+-------------------
+similarity summation: 1.8765982315421903
+actual Rating: 55
+===================
+
+
+"Where does my heart beat now?
+Where is the sound?
+That only echoes through the night."
+
+The French Canadian with pipes like an angel, the gifted Celine Dion.
+http://www.yelp.com/biz_photos/celine-las-vegas-2?select=qKgA_mxajVkBkSBtJRwkdQ#Kbvx9GtNiElinZ0HzpQ_Lw
+
+Celine looked absolutely stunning, captivating the Friday night audience with her melodic voice & touching lyrics.  I felt quite a few goosebumps as she sang hits such as-
+
+"But when you touch me like this,
+and when you hold me like that.
+I just have to admit,
+that it's all coming back to me."
+
+Our seats located in the rear orchestra had a great view of the stage, off center left.
+http://www.yelp.com/biz_photos/celine-las-vegas-2?select=qKgA_mxajVkBkSBtJRwkdQ#w6Yz3Dx-Wgzi0dRHERURxQ
+
+Celine did several covers of other artists' songs, but I would've preferred if she sang more of her music library.  She even performed 2 hologram duets, one of which was interestingly enough, with herself.  Can't say I didn't get the most Celine Dion for the dollar ;p
+
+"Cause I am your lady,
+and you are my man.
+Whenever you reach for me
+I'll do all that I can."
+
+Of course, the song that everyone anticipates, "My Heart Will Go On", lived up to all expectations & mesmerized the fortunate concert goers.  Towards the end of the song, Celine was surrounded by falling water that artistically cascaded down to make a magical experience, both audio & visual.  Think Fountains of Bellagio in reverse.
+
+Can't have a concert w/o merchandise
+http://www.yelp.com/biz_photos/celine-las-vegas-2?select=qKgA_mxajVkBkSBtJRwkdQ#84ZlgUYEgyq-PDy-eNr-YA
+
+A true showstopper & deserving of headlining the Colosseum at Caesar's Palace,  Celine Dion puts on an extravagant show that will pull the heartstrings & touch you to your very soul.  Her powerful voice wil captivate & strike you with awe as to how such strength can come from such a small frame.  A tremendous show that absolutely has to be experienced before her run is done.
+
+Highly recommend!
+-------------------
+similarity summation: 1.929010932531038
+actual Rating: 56
+===================
+
+
+I wished Bellagio had an electroshock therapy vendor to administer temporary memory loss.  That way I could forget about every other Cirque show I've seen and "O" would blow my mind like it did the first time I saw it in 2002.  Sign me up and please hand me that rubber thing that stops me from biting my tongue.
+
+The writer and director of the show, Franco Dragone, is freakin brilliant!  How in the world does one conceptualize a show like this and then explain to others how it's all supposed to work without being shoved into a windowless van with a one way trip to the funny farm?  I can only imagine the conversations he had before it got the green light:
+
+
+Dragone: "So honey, it'll be a stage that will change from a big assed pool with 1.5 million gallons of water and back into a dry stage that can be walked on  throughout the show.  And then there will be a ton of synchronized swimmers and the theatre is going to look like a 14th century opera house.  I was thinking during dinner last night that there should be a guy in the show that will set himself on fire."
+
+Mrs. Dragone: "Yes, dear. (rolls eyes)  Don't forget to mow the lawn tomorrow.  We have company this weekend."    
+
+
+Later in the day....
+
+
+Dragone: "Aerialists! Clowns! Contortionists! Trapeze! People on a Russian swing and swimmers everywhere!  Sometimes it will all happen at the same time!  Lots of leotards too!"
+
+Dragone's ex-college roommate: "Yeah, yeah.  Sounds sweet.  Pass the bong already."
+
+
+Sure, there are detractors that say it's too pretentious and artsy fartsy.  I wholeheartedly disagree.  After all these years, "O" is still inspiring, a welcome escape from reality, and a "can't miss" show in town.
+-------------------
+similarity summation: 1.9327983050195565
+actual Rating: 57
+===================
+
+
+Chiploplo, Chipoodle, Chipotopolay
+
+Looking for a pre-show meal, we saw the nearby choices of A)McDonald's, B)Panda Express or C)Chipotle.  Considering I don't like McDonald's, Panda Express is on my usual restaurant rotation & I haven't had Chipotle in a few years, the time was ripe to give Chipotle another go.
+
+My choice - the barbacoa bowl.  
+
+My 2 cents - It was..........how do I put this?  Boring.  Boring like the scene in "Ferris Beuller's Day Off" where Ben Stein is going "Anyone..........?  Anyone.........? Beuller........?Beuller.........?"  Boring like having a CSPAN viewing party on Valentine's Day.  Nothing says "sexytime" than Senate hearings in HD;p
+
+Now, it wasn't bad, per se.  It's just, as I get older, I want my tastebuds to be titillated!  (I just said "titillated" *giggle*)  The portions were good.  The price was reasonable.  Also, kudos to the staff for efficiently moving the big Las Vegas line along.  Wait was minimal.  To me, I'd rather go to a local taqueria for some authentic and cheap fare, w/o the line of hipsters, Beliebers and Twi-hards.  
+
+Chipotle is situated in a primo location to lure in the tourists.  The restaurant was clean and the staff knows how to handle the crowds coming in for sustenance, like me.  
+
+Chipotle has it's fans, and more power to them for liking what they like.  I may return if I'm walking by, the next time I'm in Vegas.  It's convenient and the prices are reasonable, considering the dining options in the casinos.
+
+NOMNOMNOMNOMNOMNOMNOMNOMNOMNOMOM
+-------------------
+similarity summation: 1.9854014251531684
+actual Rating: 66
+===================
+
+
+This is the first (hopefully last) show I've ever attended where the headliner lip-synced the majority of their performance.  I knew going in that would be the case, but it still bugged the crap out of me.  There are a ton of Yelp reviews that mention it.  Almost none of them care and joyously devour her show like it's all you can eat ice cream.
+  
+Just being in the same (albeit very large) room as Britney Spears, wafting in her aura and celebrity is where their satisfaction is.  She could have been brushing her teeth on stage for all they cared.  My wife argued that I would go see Red Sox designated hitter David "Big Papi" Ortiz if he did a Vegas lip-sync/dance show and it's nothing different than this.  She's right.  I totally would.    
+
+The scene was a sea of ladies dressed in club clothes, packs of gay men that knew the words to every song, Eurotrash, and significant others like myself that questioned whether the metal detectors at the entrance were for Britney's safety or to prevent a person like me from shooting/stabbing myself mid-show if she sang (ummm...performed?) a song like the inadvertent sex change anthem "I'm Not a Girl, Not Yet a Woman".  The energy in the venue was palpable when you combined all that with the $45 "Work Bitch" caps, the homemade costumes worn, and people pre-gaming big by double fisting their $12 cocktails.
+
+Of course I got a bunch of dudes a row up that refused to sit at any point during the show. Ballads, dance interludes, parts that she wasn't even in; they were all "Fuck it!  We're standing!  It's Britney, bitch!"  That meant we couldn't see anything unless we stood too!  So even when the majority of people were sitting during certain parts, I was still out of my seat which probably made me look like a really big fan of Miss Spears.  Puke.  I actually shelled dough out for this show so I'd be damned if I were to miss a wardrobe malfunction.  
+
+Songs were....stage was...dancers were....screw that!  Go read other reviews for that stuff.   I didn't cross this show off my bucket list, I crossed it off my fuckit list.
+-------------------
+similarity summation: 1.9915206704914965
+actual Rating: 54
+===================
+
+
+I have never written a review, but I feel compelled to write one for the Marquee. From my experience, the Marquee staff is clearly racist against black people, and therefore regardless of everything else deserve the lowest rating possible.
+
+I got a table with bottle service for my little brother's 21st birthday. Our group had 7 people. When the staff came to escort us to our table, they let the 5 people that were not black in, and then stopped the two black guys and asked them if they are with us. The guys were clearly with our group.
+
+Then we show ID's. The girl checking ID's checks everyone's ID, and then when it gets to one of the black guys, checks the ID for a good 15 minutes, while the rest of us wait, on the other side of the ID check. They bring an extra person to check this clearly valid driver's license from Florida, while they harass us for waiting for our friends to get in to be escorted to our table.
+
+After that we got into the club, and by the end of the night, both of the black guys were kicked out of the club, with an 'X' marked in permanent marker on their wrists so they can't get back in.  While I did not see what happened, I know everyone in that group. They are long time friends of my little brother's and they are some of the coolest, nicest people I know. They are not the kind of people that cause trouble in clubs.
+
+It is inconceivable to me that this was a series of unfortunate mistakes or coincidences. My friends were kicked out for being black and not dressing "white" enough. I expect we would have had less problems if they put on a white button-up shirt, suite and tie and tried to look extra friendly and smile extra big for the racist Marquee staff. I think the Marquee staff saw two black males and assumed they would cause trouble, so they gave them as much trouble as they could and ultimately kicked them out.
+
+This was our experience and we had bottle service. One can only imagine how the staff must treat black males they determine are "too black" that just want to come in and have a good time. I'll never go to this club again.
+-------------------
+similarity summation: 2.11326958914004
+actual Rating: 53
+===================
+
+
+(This is an asian persons attempt at rapping, I'm sorry in advanced)
+
+*Throws a beat*
+
+Shit I feel like a balla right now...
+
+I should have a prostitute on my left arm right now...
+
+Where the prostitutes be at right now...?
+
+Oh shit, this place is fancy right now...  
+
+The prostitutes must be high class in disguise right now....  
+
+Scanning the room looking for hooks and tricks right now....
+
+I'm not quite sure why...but I thought it would be fun for right now...
+
+I don't really know what me and the prosties would do, maybe grab a coffee and discuss how they got into the biz maybe...who knows?  *pictures Julia Roberts in Pretty Woman*  Naw I ain't that lucky...
+
+This hotel is new, and with new things comes an exciting new smell.  Like buying a new jacket and wearing it out the store.  Or driving out of the car dealership in a brand spanking new Benz and sniffing the leather.  It's all about the small little things that matter.  And this hotel didn't miss one detail.  Everything was impeccable, down to the wallpaper, amenities, service, decor, rooms, staff.  No detail was left unworked.  Even the crystals in all the lights in the hallways made me smile as they twinkled.
+
+The bars and shops inside this hotel were beautiful, except everything was honking expensive so I didn't really buy anything except drinks.  The pools are beautiful, the spa offers deliciously decadent services and massages.  I have no idea if they have a gym because I didn't go looking for one because I'm on vacay!
+
+The room was like a mini apartment, careful for the mini bar though because if you move the bottles they'll try and charge you!  Make sure to check!
+
+The bed was super comfy, the tv that controlled everything in the room was really cool, the balcony view overlooking the strip was stunning.
+
+There are so many things to see and do in this hotel you don't even have to leave.  We barely left the hotel to do anything because its like a little city in here.  No need to venture out into the elements :)
+-------------------
+similarity summation: 2.1142311772403777
+actual Rating: 54
+===================
+
+
+Lord knows how many businesses have come and gone at this address over the years like Underworld, Black Label, and Emergency Room etc.  Its transformation into Gyu-Kaku has been nothing short of amazing.  The ultra cool lit entrance begged the question...does Tron eat here?  Being seated while a female sung cover of Savage Garden's "Truly, Madly, Deeply" at 300 BPM's blared through the stereo made me think it possible if he were drunk.  
+
+We considered the course dinners priced at $55, $66 and $77 for a moment but saw a lot of filler that would have ended up untouched like cheese wontons, chicken cheese fondue, house salad, fried chicken (ok,ok, maybe one piece), calamari and S'mores.  Our initial server, Keiko, recommended we start with the spicy cabbage salad over the kim-chee.  Thankfully, we listened.  Crispy, spicy and dare I say refreshing?  It was a fine way to whet our appetite.        
+ 
+Standing out among with meats was the beef tongue and harami skirt steak.  Quality matched the price and both delivered on what decent yakiniku should be.  We also enjoyed the kalbi short rib and although the Angus beef ribs were a little too fatty for the wife, I happily devoured it.  The mushroom medley cooked in an unbeatable combination of soy sauce and butter was a nice side dish.  
+
+The only letdown was the "Spicy Kalbi Bibimbap".  They got the stone pot right but the rest of it?  It was as if it were made by a northern Swedish resident with no knowledge of Korean cuisine attempting to replicate it through hearsay.  I would have rather ordered the sliced duck breast, an atypical yakiniku offering, or dessert over this pointless filler.  
+
+Despite that, I know I'll be back and stick to grilling.  It's yet another welcome dining choice around Spring Mountain.  3.46729311238987 stars.
+-------------------
+similarity summation: 2.198966737673401
+actual Rating: 52
+===================
+
+
+How much would you pay for a popular & busy buffet with hundreds of quality choices?
+
+   A: $54
+   B: $74
+   C: $94
+   D: Anything ... just let me in the freakin' buffet already
+
+Be prepared to pay any of those prices at Bacchanal Buffet cause this is the current "It" buffet in Vegas. Caesar's Palace can pretty much charge whatever they want. The line is KuRAAAYzeee. We tried to go for dinner Monday before Christmas and the line was 3 1/2 hours long. That's over 200 minutes. We read on Yelp about an "Express" option for $20 extra, but it wasn't available that night. We left.
+
+So, we came back on Christmas Eve for a late lunch. The set-up was different and line much shorter ... because it was a 25-minute line to put your name in for a time slot 3 1/2 - 4 hours later. The registration part is cool if you can wait. I can't. Luckily, the "$20 Express" option was available at that time. Whew! Seriously, I would of paid anything to skip the wait. So, after paying $74 for lunch per person, we headed to ... the next line. It took another 25 minutes to get seated with express. 
+
+      This better be one hell of a buffet!
+
+            It was. 
+
+Here's what I pigged out on for a couple hours ... 
+
+Meats & Seafood
+ - Chilled Shrimp
+ - Chilled Crab Legs
+ - Warm Crab Legs
+ - Rack of Lamb
+ - Oysters on the Half Shell
+ - Prime Rib
+ - Sausages
+ - Chicken
+ - Ribs
+ - Mussels
+ - Chinese-style Crab
+ - Crawfish
+
+Sides
+ - Caprese Salad
+ - Sliced Pineapple
+ - Pho Noodle Soup
+ - Turkey Pot Pie
+ - Charcuterie Meats
+ - Cheeses
+ - Steamed Dumplings
+ - Creamed Leeks & Lobster
+ - Sushi Rolls
+ - Cranberries
+ - Sliders
+ - Bread
+ - Crab Benedict
+ - Chinese Broccoli
+
+Desserts
+ - Fresh Crepes
+ - Red Velvet Whoopie Pies
+ - Gelato
+ - Creme Puffs
+ - Vanilla Creme Brulee
+ - Chocolate Creme Brulee
+ - Buttercream Pops
+ - Cheesecake Pops
+ - Berry Mousse Tarts
+ - Fresh Cookies
+
+Bacchanal Buffet really is a great buffet. It is, of course, overpriced and hardly worth the wait, but if you want quality and choices like this in Vegas you have to either pay for it or have the patience of a very bored saint to stand in line. When you do finally get into Bacchanal, go nuts on the seafood and meats so at least you feel like you're making it worth your money/time.
+-------------------
+similarity summation: 2.2166055896774073
+actual Rating: 64
+===================
+
+
+Maybe ramen really is the new pizza!  It's kind of mind blowing how I was dying for just one legit ramen joint in Las Vegas only a few years back and now I could do a week straight without going to the same spot.  I'd also have to chug 500 gallons of water during said week but still....
+
+I was looking for a basic, no frills ramen and their "Tonkotsu Assari" fit that bill perfectly.  Our server also mentioned it was his favorite.  Assari consisted of pork broth, chashu, green onion, egg and bean sprouts, but the thick noodles were the clincher for me.  Most of Jinya's ramen offerings come with thin noodles which I am usually not down with although I didn't ask if they would substitute.  
+
+It's a good thing they put me at a corner table since I slurped my face off.  From top to bottom, it was solid through and through.  There is better chashu to be had in town, but this was still a nice bowl of satisfaction.  I'd also skip the salad (dressing was gross) plus gyoza add-on and opt for another tapas dish instead.  
+
+To my knowledge, Jinya is also the first and only spot in Vegas to do takoyaki the right way.  I've had so many awful versions of it since moving from Japan that I had given up hope.  I was delirious after my first bite!  The light crunch, generous chunks of octopus with its signature sauce, mayonnaise and dried bonito flakes put my taste buds on another planet.  It was a terrific dish that I will be having multiple times in the future.  Love that they're open until 3am!!  
+
+Good call with giving only the ladies the nice Toto toilet.  :P
+-------------------
+similarity summation: 2.219490292540354
+actual Rating: 55
+===================
+
+
+I gave away our card with 4 stamps at the end of the meal.  THAT'S how sure our group was that none of us would ever return.  
+
+This isn't sushi in the Japanese sense.  These are crazy freakin rolls/inventions that contain some raw fish in, on or around them.  Calling this Japanese is very misleading.  The typical roll on the menu sounds like this:
+
+"Tastes and smells like your bitchy ex-mother in law's 1st semester college sophomore roommate who did the whole lacrosse team on a dare and got Hepatitis C roll:  Baked inside out roll stuffed with eel, cream cheese, bbq sauce, avocado, super super super white tuna, chopped yellowtail and spicy tuna, shishito peppers, scallop, garlic and salmon on top with orgasm, yum yum, and fuck me in the ass sauce on the side."
+
+As you can see, they used the whole "I Love Sushi" concept and took it way over the top.  This could be a potentially fun dinner (as many Yelp reviews can attest) trying all the insanity but there were enough misses to warrant my negativity.  It wasn't fun, but it sure was funny.  
+
+- Sushi rice was off.  Slimy?  Low quality?  I don't know for sure since there was a lot of sauce.  I see a lot of reviews raving about sashimi though.
+  
+-Speaking of sauce...what's up with drenching sauce all over nigiri?  Several pieces of nigiri came with sauce on top as a default.  We actually had to request it without.  Freshness of the fish was ok.  None of us died afterwards.  
+
+-Pretty sure that was shrimp cocktail drenched in a soy sauce base and topped with scallion advertised as amaebi. 
+
+-1 order of green tea was not green but it might have been due to the lipstick contamination on the side of the cup.  The liquid was a very, very light brown.  The server claimed it was green tea despite my protest.  Magically, the next cup of tea was suddenly very green.  So that's where Dirk Arthur has been performing all this time!!
+
+- I didn't know uni came in so many colors.  The most suspect pieces were left on the plate.  The server didn't even question it.  She just took them away like she knew.
+
+- My native Japanese dinnermates found the tamago presentation to be hilarious.  A tamago house!
+
+At least the unagi was good.  Congratulations on well cooked eel!  Have a good life.
+-------------------
+similarity summation: 2.3569004256394255
+actual Rating: 69
+===================
+
+
+Thomas Keller is known for being a freakin' genius and since French Laundry is super expensive, Bouchon is a more cost-effective way to taste Chef Keller's masterpieces. 
+
+So, I dragged 17 of my closest relatives here to experience one helluva breakfast! Many in my family, by the way, think IHOP is the best breakfast place on earth...*groan* *eyes roll* I hoped this place would give them an eye-opening, revelatory, perspective-altering dining experience!
+
+FOOD (And yes, I sampled ALL these dishes):
+Moules au Safran et a la Moutarde ($25.50) - WHOA. Mussels and fries for breakfast??? Oh hell yeah! I HAD to try it! Fries were cooked and salted perfectly. Tiny mussels steamed in white wine, mustard, and saffron...so tasty, so fresh! After the mussels were devoured, I wanted to grab the egg-shaped metal bowl and gulp down the remaining liquid. The white wine in that liquid was so distinct! Don't worry, I didn't lose my composure, I subtly used my spoon to enjoy the leftover yumminess.
+
+Breakfast Americaine ($22) - This was served with two eggs any style, bacon, sausage, and toasted brioche. It also came with your choice of breakfast pastry, juice, and coffee. The most memorable thing about this dish was the surprisingly delicious strawberry croissant that didn't even look like a croissant. It was actually kind of ugly, but when I put a piece of it in my mouth...HOLY MOLY! I was surprised by how tasty it was! Warm, moist, sweet, with a hint of strawberry; soft and crunchy at the same time.
+
+Bouchon French Toast ($12) - Brilliantly executed! A French toast cylinder with layers of bread pudding, brioche, custard, and apples. So light! so sweet! So moist! So nice to look at, I almost didn't want to eat it!
+
+Gauffres ($12) - Waffles with fresh strawberries, sweetened with maple syrup and vanilla butter. Light, sweet, crunchy! Oh yesssss...
+
+Les Oeufs ($13) - Nothing impressive. The scrambled eggs and country sausage were decent. The toasted brioche was good after I covered it with the made-in-house strawberry jam. I am not a fan of fruit preserves, actually I hate them but this strawberry jam was excellent. The potato croquettes were alright. Christopher C said they were good with ketchup.
+
+Cinnamon Oatmeal w/Candied Orange Peel & Raspberry Puree ($7) - Bland but it was served in a cute little metal bowl. The raspberry puree was so subtle I could hardly tell it was there. And where was the candied orange peel? I couldn't see or taste it. The raspberries on top added a little flavor. It was a little better when we added the small cup of brown sugar that was included. We experimented and added some strawberry jam and oatmeal was way better!
+
+Pecan Sticky Bun ($4.25) - Oh myyyyyy! Topped with crunchy pecans, this bun is very sticky, very sweet, and very good!
+
+Hibiscus Champagne Cocktail ($12.50) - I ordered a mimosa but when they brought it, I saw this drink on the tray going to another table and I had to have one too! What a pretty cocktail! The hibiscus was fun to eat! When a person says no to this champagne, they say no to life!
+
+SERVICE:
+We had two waiters all to ourselves. We didn't wait too long for our drinks & food but they seemed to disappear after our food was served. It was hard to flag down our waitress when I wanted another champagne. Also, it took a while for my dad to get his coffee refilled.
+
+I was proud of my family for being adventurous and trying something other than Ihop or McDonald's for breakfast. Even though we didn't get stellar service, they enjoyed their breakfast here. I sure LOVED it! After eating top quality food at this restaurant, I would love to eat at French Laundry. Hmmm...I might have to wait to win the lottery.
+-------------------
+similarity summation: 2.510853066299822
+actual Rating: 51
+===================
+
+
+We contacted Maleisa Hughes last year regarding watching our three dogs (golden retriever, afghan hound and a chihuahua.  The prices were reasonable considering what other sites cost, as they were only charging $20 per dog and they were willing to give a discount for the third dog, so the price was set at $50 per day.  We scheduled a visit to their home and brought our 2 big dogs to introduce them to the owners.  We saw that there was an acre which looked fun for the dogs. They invited us into their home and said the dogs would be treated like members of the family if boarded with them and that all play time outside would be supervised.  Maleisa said they had been boarding dogs for years and were experienced and advised we book early for any dates we wanted as they limited the number of dogs boarded to six dogs.  We felt that was reasonable on a property of that size.  Our dogs were all very well socialized with people and other dogs as we routinely went to dog parks so we felt this would be a great place to bring them. We booked a weekend last fall just to test the place out and see how it went.  We checked in often, via text and and we were told the dogs were doing great and having lots of fun.  The day we picked them up they were out in the yard with the owners running around with a few other dogs and seemed content.    My Afghan hound went to the corner of the yard when he saw me and hid behind some ducks in an open pen, I assumed he didn't want to go home as he had enjoyed his stay.   We went ahead and booked the Christmas week to bring the dogs again.
+
+Christmas rolled around and one of my adult children announced she would be home and offered to watch the dogs for me.  As we had already booked with Green Acres, I didn't feel right about canceling at the last minute, as I had noticed that the owners had numerous young children and felt it would not be fair to deprive the family of the income we had promised.  I did opt to leave the chihuahua home, as I felt he might not be safe running around with bigger dogs.  We boarded the big dogs for about 9 days.  When I came to pick up the dogs that time, they were let out of a room in the back of the house and the afghan hound ran to me with his tail between his legs and couldn't wait to get out of there.  I noticed that both dogs were filthy and smelled HORRIBLE.  I can't even describe the stench, but it took several baths to finally get rid of the odor.  I found it odd because the acreage is all grass, so I couldn't figure out where that stench would have come from.  
+
+Outside of the smell, the dogs seemed fine until a few weeks later we attempted to go back to the dog park where we had gone many times over the years, and when we entered the park the afghan hound FREAKED out and started aggressively barking at the other dogs that ran up to greet him as if to say, "stay away from me".  I had to grab him and remove him to avoid a dog fight.  We attempted to return to the park a few times thereafter and he behaved the same way each time.  He even freaked out on a walk when he saw another dog across the way.  We spoke to a trainer regarding the behavior and he told us once a dog is in that mind set it is VERY DIFFICULT to break it.  We were very sad and couldn't figure out what could have triggered such a wild swing in temperament.  We finally realized that his behavior HAD to have been impacted by the stay at the boarding facility.  Looking back now, if he was stuffed in a room with 30 other dogs, it would have driven any dog mad, or to fear aggression.
+
+We couldn't prove that anything horrible had happened to our dog at that point, it was just a feeling that something bad had happened there and we decided we probably should not use them again.
+
+We decided to hire my niece and nephew last week to watch our dogs while we were out of town, because of that gut feeling something was wrong over there and came back to the news that 17-21 dogs had died in the Hughes' care, or lack thereof.  All I can think about is, IF I had cancelled our plans during Christmas and left the dogs with my daughter, I WOULD HAVE BOOKED last week with the Green Acres and my dogs would have been among those poor souls who lost their lives.  We were the lucky ones...I may not be able to take my temperamental hound to a park anymore, but at least he is alive.  My heart is breaking for all the families who lost their sweet puppies.
+-------------------
+similarity summation: 2.703919049154055
+actual Rating: 81
+===================
+
+
+I can safely say this was my first time even remotely being excited to eat Italian food on the strip.  Currently the hottest restaurant in the city, Giada is bringing in the masses nightly.  I thought 90 days ahead of my 7th wedding anniversary would be adequate lead time for a 7pm-ish dinner on a Tuesday, but we ended up with 9pm.  Not a big deal.  That meant more drinks at the bar!  I had a few tasty "Flash Gordon" cocktails that made me feel semi-invincible; the sensation was unfortunately fleeting as I felt like Ming the Merciless had pointed his stupid ring to my head in the AM.  
+
+If you do one thing above anything else with your time at Giada, my advice would be to wait for a premium table.  The hostess initially walked us to a less than favorable area with only a partial strip view.  Despite her warning that it could take half an hour or more for a better spot, we stayed strong and went back to the bar.  Luckily, she came back in less than 15 minutes and brought us to an excellent table with grand views of Bellagio and Caesars Palace.  
+
+Like Rod U. said in his excellent review, antipasti are where it's at.  If I could do it all over again, I would order more small plates of seafood, salumi, cheese, crostini, salumi, cheese, seafood and cheese.  The burrata was magnificent.  It was a creamy, mozzarella dream that tasted more heavenly as I got to the center.  Accompanying this glorious gift from cows with anything else more than olive oil, garnish and balsamic salt would have been offensive.  
+
+I had some serious doubts about the waiter's recommendation of the "Prosciutto San Daniele" since we recently had Carnevino's "Prosciutto di Parma Riserva", but that all went away when the first slice melted in my mouth.  As unimaginable to me as it could be, it was better than Batali's.  The waiter had tried Mario's as well and agreed. Not that he was biased or anything.....
+
+Another highlight was Giada's signature spaghetti with 2 large shrimp, lemon and basil.  She really loves her citrus as it's all over the menu.  It was wonderful!  The handmade pasta was superb and the light cream sauce at the bottom of the bowl was well worth sopping up with the shrimp.  I am a huge sucker for fresh pasta.
+
+Although the "Veal Chop Saltimbocca" was an impressive looking entre in size, I felt it was underwhelming and quite plain.  This wasn't the kind of place that had salt and pepper shakers at the table, but I would have reached for some.  The massive leftover we brought home will definitely be getting some seasonal treatment.  The sauce it came with took it nowhere.  I wished we had given the branzino a shot instead.  At least the asparagus it came with was outstanding.  The wood grill brought out a whole new dimension of flavor to the standard upscale restaurant vegetable.  
+
+The dessert cart they rolled out made final decisions tough but the strawberry tart, blackberry lime tiramisu and white coffee gelato (I'd bath in it) were great conclusions to an overall solid meal.  With dinner clocking in at almost 3 hours, Giada isn't a dinner before a show kind of place, this is the show.
+-------------------
+similarity summation: 2.7131119875235843
+actual Rating: 67
+===================
+
+
+HAPPY HOUR REVIEW:
+
+Imagine you had a long day. And you wanted to relax and indulge in something incredibly scrumptious, delectable, and sinfully good.  Well... Think Sow.  Salty Sow.
+
+We were over near the PV Mall and we decided, spur of the moment, to get something nearby. We thought of sushi and a few other places. But then we saw the three golden neon arrows pointing to the front door of the Salty Sow. 
+
+AMBIANCE/MOOD:
+The Salty Sow has that nouveau feel to it. The bar is off to the left as you enter, with a large kitchen straight in front of you. You see a lot of wood and interesting lighting (photos). But the feeling is very intimate. Even with other diners nearby, you cannot hear their conversations. The clientele is mixture of millennials and older, with a dozen or so sitting at both the bar and the dinning area. 
+
+MENU:
+Like most places in the Valley, the Happy Hour menu is a jumping off point for the  Dinner menu. When you are seated you are given both menus. There seems to be no pressure to order off of one or the other. The focus of the food is all things pork. So if you love bacon, then you have found your Nirvana in this life. LOL
+
+Almost all the items on the Happy Hour menu are $5,00 and you find things like: Triple Fried Duck Fat Fries, Truffled Deviled Eggs, Pork Belly Tacos and Braised Beef Tacos and much, much more
+
+SERVICE:
+Everything is relaxed and our server Holly was excellent.  Folks stop by and ask about your meal and dishes are bused quickly
+
+FOOD:
+Okay, the best thing we tried was the HH Fried Chicken that came with a honey glaze and a large sweet potato biscuit (photo).  Even here there was bacon on the underside of the chicken.  It was moist, flavorful and delicious!
+
+We also order two tacos which were equally good that came with a fried egg on top (photo).  But you must try the Duck Fat Fries, which were seasoned with herbs and salt.  It also comes with a poached egg yoke on top (photo).  Great stuff.
+
+PRICES:
+Everything at Happy Hour is $5.00 and it ends at 6:30 with the ringing of a cow bell.  Ahh, "we need more cow bells!"  LOL  Our bill came to $37.50 before taxes and gratuities, including two items to go and a soft drink ($2.50).
+
+Debbie Downer:
+Just before the check, we asked our server if we could order two items to go.  We also asked what the up-charge would be.  To our surprise, she said it would be the same price.
+
+As we were leaving, the Culinary Manager approached us and said: 
+"We normally don't allow people to order off the Happy Hour menu to go."  As I stamered to say we had checked first with our server, she said: "I'm going to let it go this time, but don't do it again."
+-------------------
+similarity summation: 2.7395324249867454
+actual Rating: 58
+===================
+
+
